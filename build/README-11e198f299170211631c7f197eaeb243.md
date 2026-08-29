@@ -6,7 +6,7 @@ youtube_videos:
   amy_neo: _F5PzgQxu9Y
 ---
 
-You thought I was playing this whole time instead of **Audit Trails**. Lets see how much you think you are in control of this? Tell everyone Paste and copy lol (lowercase justices) or an *imbalance*, or *sensitive to electronics*. How many more stories do you have to go through (oh wait, you already did, speculation much)? Where are the **bodies** (don't worry, I'll wait)? Your profiles suck "obviously". It's not why do this person act "like" the retrospective. How to think ahead. Come on. You lead this, or have you lost your edge? Because I definitely see it showing. Without training. Whats your excuse?
+You thought I was playing this whole time instead of **Audit Trails**. Lets see how much you think you are in control of this? Tell everyone Paste and copy lol (lowercase justices) or an *imbalance*, or *sensitive to electronics*. How many more stories do you have to go through (oh wait, you already did, speculation much)? Where are the **bodies** (don't worry, I'll wait)? Your `profiling agents suck`` "obviously". It's not why does this person "act like". Think ahead. Come on. `You` lead this, or have you lost your edge? Because I definitely see the cracks showing, Without training. Whats your excuse?
 # Internal Enterprise Knowledge Base
 I believe you should build documentation beforehand. CPK-RA
 
