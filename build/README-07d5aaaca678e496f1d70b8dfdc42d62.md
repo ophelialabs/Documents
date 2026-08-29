@@ -6,6 +6,7 @@ youtube_videos:
   amy_neo: _F5PzgQxu9Y
 ---
 
+You thought I was playing this whole time instead of audit trails. Lets see how much you think you are in control of this? Tell everyone Paste and copy lol or an imbalance, or sensiive to electronics. How mmany more stories do you have to go through?
 # Internal Enterprise Knowledge Base
 I believe you should build documentation beforehand. CPK-RA
 
