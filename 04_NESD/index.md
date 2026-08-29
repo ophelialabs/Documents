@@ -21,8 +21,6 @@ SyGlass and the table. It wasn't an avatar. How I reacted (What is this?) and wh
 
 # Seeing Things
 - If it looks and smells like it, then...
-- You don't think it's strange that I saw you coming, the phones flashing light when you were about 4/5 of the way finished with the operation (why I would have an optical in my room when I haven't since?)....and how its always been one step ahead? THINK
-- All because **I wanted to print an instructional return process sheet for my coworker**. You may also think that is was overlooked when you stated that if I got a new phone, the android, that it would not be noted. It was also *noted* the page that was visited while this phone was **in my pocket**. You don't think it is strange that only one specific page was visited during my time at Target?
 - Whatever it is with **Salesforce** that gave **Shareholder** access during the backend transition period with Wal-Mart (eg... Shipt, Uber, Third Party Delivery (Last Mile), otherwise how do I know about [servicenow kb](https://support.servicenow.com/kb?id=kb_home) / [Sponsorship](https://share.google/aimode/wxE8Z3jhnt8B254Pi) and how you can benefit company?... **Thats not on me**
 - **Explicitly** provided instructions to join [confluence/jira](https://www.atlassian.com/)
   - So cant be hacking
