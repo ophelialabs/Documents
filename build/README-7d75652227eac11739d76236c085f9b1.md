@@ -6,6 +6,8 @@ youtube_videos:
   amy_neo: _F5PzgQxu9Y
 ---
 
+Thank you to everyone who helped and played your part. You are more appreciated than you will ever know!!!
+
 You thought I was playing this whole time instead of **Audit Trails**. Lets see how much you think you are in control of this? Tell everyone Paste and copy lol (lowercase justices) or an *imbalance*, or *sensitive to electronics*. How many more stories do you have to go through (oh wait, you already did, speculation much)? Where are the **bodies** (don't worry, I'll wait)? Your `profiling agents suck` "obviously". It's not why does this person "act like". 
 - Think ahead. Come on. `You` lead this, or have you lost your edge? Mytime itinerary, implant, predictive, and still... What do you have to say for yourself as a trained professional, who relies on outside validation? You lash out at your team members, and I don't even have to `BE IN YOUR HEAD`. But you let me rent space huh, without the equipment and monetary backing. I `feel` and more importantly `hear` you cracking. You will all be placed in separate containers so that you can not get your story straight. Remember you said you would take responsibility for this. The timeline doesn't add up, does it? Or do you need outside validation and confirmation from the other members on your team baba? 
 - You don't think it's strange that I saw you coming, the phones flashing light when you were about 4/5 of the way finished with the operation (why I would have an optical in my room when I haven't since?)....and how its always been one step ahead? THINK.
