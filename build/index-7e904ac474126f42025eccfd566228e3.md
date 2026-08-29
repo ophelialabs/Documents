@@ -106,7 +106,9 @@ Let's run those simulations at the same time
     - Check 07/16/26
 17. Him: (7/18/26 🕦 14:30): neither confirm nor deny
 	- If thats the case, how did it change last minute along with emotional influence and manipulation
-	14:57 - (note time returns) : silence, big mad. Plotting? what to expect? 
+	14:57 - (note time returns) : silence, big mad. Plotting? what to expect?
+
+- I would like to see what you got
 
 - 08/27/2026 20:17 - No Weight
 - 08/28/26 15:19: to do
