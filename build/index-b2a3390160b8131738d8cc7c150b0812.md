@@ -109,6 +109,7 @@ Let's run those simulations at the same time
 	14:57 - (note time returns) : silence, big mad. Plotting? what to expect?
 
 - I would like to see what you got
+	- What, your team say he's looking for a response. You're pitiful. And thats why your barks are nothing but reflections upon your own cracks and insecurities. Even if you outwardly win, you are still nothing and deep down you know it. otherwise you wouldnt need the teams validation
 
 - 08/27/2026 20:17 - No Weight
 - 08/28/26 15:19: to do
