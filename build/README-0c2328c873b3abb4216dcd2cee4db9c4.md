@@ -6,11 +6,11 @@ youtube_videos:
   amy_neo: _F5PzgQxu9Y
 ---
 
-You thought I was playing this whole time instead of **Audit Trails**. Lets see how much you think you are in control of this? Tell everyone Paste and copy lol (lowercase justices) or an *imbalance*, or *sensitive to electronics*. How many more stories do you have to go through (oh wait, you already did, speculation much)? Where are the **bodies** (don't worry, I'll wait)? Your profiles suck "obviously". It's not why do this person act "like" the retrospective. How to think ahead. Come on. You lead this, or have you lost or edge? Because I definitely see it showing. Without training. Whats your excuse?
+You thought I was playing this whole time instead of **Audit Trails**. Lets see how much you think you are in control of this? Tell everyone Paste and copy lol (lowercase justices) or an *imbalance*, or *sensitive to electronics*. How many more stories do you have to go through (oh wait, you already did, speculation much)? Where are the **bodies** (don't worry, I'll wait)? Your profiles suck "obviously". It's not why do this person act "like" the retrospective. How to think ahead. Come on. You lead this, or have you lost your edge? Because I definitely see it showing. Without training. Whats your excuse?
 # Internal Enterprise Knowledge Base
 I believe you should build documentation beforehand. CPK-RA
 
-This repository is the company’s internal operating knowledge base: a centralized, searchable, and continuously evolving system for documenting how the organization works, what it builds, how it operates, and how knowledge is shared across teams. It functions as more than a wiki; it is an enterprise reference layer for engineering standards, technical strategy, research, architecture, and cross-functional enablement.
+This repository is the company’s internal operating knowledge base: a centralized, searchable, and continuously evolving system for documenting how the organization works, what it builds, how it operates, and how knowledge is shared across teams. It functions as more than a wiki; it is an enterprise reference layer for engineering standards, technical strategy, research, architecture, and cross-functional enablement. I won't change. Neither will my story. I have noticed that you need outside validation. Where is my support system. Baby need his baba?
 
 ## Mission
 
