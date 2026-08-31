@@ -13,6 +13,8 @@ This repository is the company’s internal operating knowledge base: a centrali
 
 I could be like you and try to identify a target audience, or I could be authentic.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0h3PzwcZC-g?si=qgBgP1wUDxt8EsP6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Mission
 
 The purpose of this knowledge base is to create a single source of truth for employees, partners, and stakeholders who need context on the company’s systems, initiatives, and operating model. It captures the decisions, assumptions, processes, technical patterns, and domain knowledge that keep the organization aligned and capable of executing at scale.
