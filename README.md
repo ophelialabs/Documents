@@ -6,6 +6,7 @@ youtube_videos:
   amy_neo: _F5PzgQxu9Y
 ---
 
+## Dominate Through Knowledge
 Thank you to everyone who helped and played your part. You are more appreciated than you will ever know!!!
 
 You thought I was playing this whole time instead of **Audit Trails**. Lets see how much you think you are in control of this? Tell everyone Paste and copy lol (lowercase justices) or an *imbalance*, or *sensitive to electronics*. How many more stories do you have to go through (oh wait, you already did, speculation much)? Where are the **bodies** (don't worry, I'll wait)? Your `profiling agents suck` "obviously". It's not why does this person "act like". 
