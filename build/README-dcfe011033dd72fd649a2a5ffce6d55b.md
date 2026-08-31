@@ -24,6 +24,8 @@ You thought I was playing this whole time instead of **Audit Trails**. Lets see 
 - Now I know you already know that once I get this more organized I plan on attacking from multiple angles. What does one do when they want to ex-filtrate a specific group?
 - Two times. First, you stated you could "play me like a fiddle", then on 8/13/26 around 3 am you stated, "see I can control everything you do". First, you saw an opportunity and you thought it was your best chance. You were too impatient and you've gotten too arrogant. I **know I am not the first**. And I also remember: **about two years left before gradual rollout**
 
+I could be like you and try to identify a target audience, or I could be authentic.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0h3PzwcZC-g?si=qgBgP1wUDxt8EsP6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
