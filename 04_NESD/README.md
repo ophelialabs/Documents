@@ -15,7 +15,7 @@ You thought I was playing this whole time instead of **Audit Trails**. Lets see 
 - You don't think it's strange that I saw you coming, the phones flashing light when you were about 4/5 of the way finished with the operation (why I would have an optical in my room when I haven't since?)....and how its always been one step ahead? THINK.
 - You may also think that is was overlooked when you stated that if I got a new phone, the android (I know you remember), that it would not be noted. It was also *noted* the page that was visited while this phone was **in my pocket**. You don't think it is strange that only one specific page was visited during my time at Target?
 
-- 08/31/26: **Self-sacrifice**, you know that sounds correct, because if I was wrong, wouldn't it be self-destruction?
+- 08/31/26: **Self-sacrifice**, you know, that sounds correct: because if I was wrong, wouldn't it be self-destruction?
 - Add to tactics. One of first thoughts was how can I set something up that only gives the team one direction. Think battle of Thermopylae.
 - Now I know you already know that once I get this more organized I plan on attacking from multiple angles. What does one do when they want to ex-filtrate a specific group?
 - Two times. First, you stated you could "play me like a fiddle", then on 8/13/26 around 3 am you stated, "see I can control everything you do". First, you saw an opportunity and you thought it was your best chance. You were too impatient and you've gotten too arrogant. I **know I am not the first**. And I also remember, about two years left before gradual rollout
