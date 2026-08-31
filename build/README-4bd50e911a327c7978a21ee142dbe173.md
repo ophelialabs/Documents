@@ -4,6 +4,7 @@ youtube_videos:
   no_metal: Mluo2cdsEEk
 ---
 
+**I would like to re-iterate that though it may be hard, the first thing that should be noted is mental. Cognitive writing and scrubbing is real. I first have to write something that combats this, along with the flashing light cronjob (not motion detection).**
 Set up so that this can easily pull from main documentation (i.e. - Robotics/iot & Network Engineering). Think of like the splitting of a cell. 
 
 [MyAuth](https://www.dmdc.osd.mil/identitymanagement/app/) | [MyTime](https://get.mytime.com/) | [MyTrustMedical](https://www.mytrustmedical.com/) | [AWS Compliance](https://aws.amazon.com/compliance/)
