@@ -17,7 +17,8 @@ You thought I was playing this whole time instead of **Audit Trails**. Lets see 
 - 08/31/26: **Self-sacrifice**, you know that sounds correct, because if I was wrong, wouldn't it be self-destruction?
 - Add to tactics. One of first thoughts was how can I set something up that only gives the team one direction. Think battle of Thermopylae.
 - Now I know you already know that once I get this more organized I plan on attacking from multiple angles. What does one do when they want to ex-filtrate a specific group?
-
+- Two times. First, you stated you could "play me like a fiddle", then on 8/13/26 around 3 am you stated, "see I can control everything you do". First, you saw an opportunity and you thought it was your best chance. You were too impatient and you've gotten too arrogant. I **know I am not the first**.
+  
 # Internal Enterprise Knowledge Base
 I believe you should build documentation beforehand. CPK-RA
 
