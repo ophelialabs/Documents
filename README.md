@@ -80,7 +80,7 @@ This visualization is intended to enable:
 - A better way to connect domain knowledge with platform capabilities
 - AI-assisted and worker-integrated knowledge discovery
 
-The target behavior mirrors the idea of a strategic landscape: a central ecosystem with surrounding clusters representing subdomains, platforms, tools, and functions. This makes it easier to navigate complexity without losing structural clarity.
+The target behavior mirrors the idea of a strategic landscape: **a central ecosystem with surrounding clusters representing subdomains, platforms, tools, and functions**. This makes it easier to navigate complexity without losing structural clarity.
 
 ## Governance and Collaboration
 
