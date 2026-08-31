@@ -5,7 +5,7 @@ youtube_videos:
 ---
 
 ## Dominate Through Knowledge
-**I would like to re-iterate that though it may be hard, the first thing that should be noted is mental. Cognitive writing, scrubbing and [neural manipulation](https://www.science.org/doi/suppl/10.1126/science.adn0623/suppl_file/science.adn0623_sm.pdf) is real. I first have to write something that combats this, along with the flashing light cronjob (not motion detection).**
+**I would like to re-iterate that though it may be hard, the first thing that should be noted is mental. Cognitive writing, scrubbing and [neural manipulation](https://www.science.org/doi/suppl/10.1126/science.adn0623/suppl_file/science.adn0623_sm.pdf) is real. I first have to write something that combats this, along with the flashing light cronjob (not motion detection).** [1](xref:spec/tables#example), [2](xref:spec/tables#example), [3](xref:spec/tables#example)
 Set up so that this can easily pull from main documentation (i.e. - Robotics/iot & Network Engineering). Think of like the splitting of a cell. 
 
 Thank you to everyone who helped and played your part. You are more appreciated than you will ever know!!!
