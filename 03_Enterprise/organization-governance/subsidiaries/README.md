@@ -9,7 +9,7 @@ Use this directory for one page or folder per subsidiary. Keep legal-entity info
 
 ## Documentation Template
 
-Each subsidiary should document:
+**Each subsidiary should document**:
 
 - Legal identity and jurisdiction
 - Ownership and reporting relationships
