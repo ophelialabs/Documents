@@ -7,7 +7,7 @@ youtube_videos:
 ---
   
 # Welcome to My Neural Network
-Or Internal Enterprise Knowledge Base. I believe you should build documentation beforehand. CPK-RA
+Or Internal Enterprise Knowledge Base. I believe you should build documentation beforehand. [CPK-RA](https://docs.copilotkit.ai/ms-agent-python/quickstart)
 
 This repository is the company’s internal operating knowledge base: a centralized, searchable, and continuously evolving system for documenting how the organization works, what it builds, how it operates, and how knowledge is shared across teams. It functions as more than a wiki; it is an enterprise reference layer for engineering standards, technical strategy, research, architecture, and cross-functional enablement. I won't change. Neither will my story. I have noticed that you need outside validation. Where is my support system. Baby need his baba?
 
