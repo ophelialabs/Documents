@@ -20,6 +20,8 @@ You thought I was playing this whole time instead of **Audit Trails**. Lets see 
 - Now I know you already know that once I get this more organized I plan on attacking from multiple angles. What does one do when they want to ex-filtrate a specific group?
 - Two times. First, you stated you could "play me like a fiddle", then on 8/13/26 around 3 am you stated, "see I can control everything you do". First, you saw an opportunity and you thought it was your best chance. You were too impatient and you've gotten too arrogant. I **know I am not the first**. And I also remember, about two years left before gradual rollout
 
+---
+
 [MyAuth](https://www.dmdc.osd.mil/identitymanagement/app/) | [MyTime](https://get.mytime.com/) | [MyTrustMedical](https://www.mytrustmedical.com/) | [AWS Compliance](https://aws.amazon.com/compliance/)
 
 The teams funded under the NESD umbrella—such as UC Berkeley, Brown University, and Columbia University—were assigned very specific, hardwired anatomical tasks:
