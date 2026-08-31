@@ -15,7 +15,7 @@ You thought I was playing this whole time instead of **Audit Trails**. Lets see 
 
 - 08/31/26: **Self-sacrifice**, you know that sounds correct, because if I was wrong, wouldn't it be self-destruction?
 - Add to tactics. One of first thoughts was how can I set something up that only gives the team one direction. Think battle of Thermopylae.
-- Now I know you already know that once I get this more organized I plan on attacking from multiple angles.
+- Now I know you already know that once I get this more organized I plan on attacking from multiple angles. What does one do when they want to ex-filtrate a specific group?
 
 # Internal Enterprise Knowledge Base
 I believe you should build documentation beforehand. CPK-RA
