@@ -23,7 +23,7 @@ You thought I was playing this whole time instead of **Audit Trails**. Lets see 
 ---
 
 ## Pick Them Apart
-[qiot]() | [MyAuth](https://www.dmdc.osd.mil/identitymanagement/app/) | [AWS Compliance](https://aws.amazon.com/bedrock/) | MyTrustMedical](https://www.mytrustmedical.com/) | [MyTime](https://get.mytime.com/) | [OSIRIS](https://osirisai.live/?layers=maritime,cctv,live_news,earthquakes,global_incidents,day_night,cables,sdk_sea,sdk_air,sdk_naval) | [EAPIS](https://eapis.cbp.dhs.gov/eapis/auth)
+[qiot]() | [MyAuth](https://www.dmdc.osd.mil/identitymanagement/app/) | [AWS Compliance](https://aws.amazon.com/bedrock/) | [MyTrustMedical](https://www.mytrustmedical.com/) | [MyTime](https://get.mytime.com/) | [OSIRIS](https://osirisai.live/?layers=maritime,cctv,live_news,earthquakes,global_incidents,day_night,cables,sdk_sea,sdk_air,sdk_naval) | [EAPIS](https://eapis.cbp.dhs.gov/eapis/auth)
 
 The teams funded under the NESD umbrella—such as UC Berkeley, Brown University, and Columbia University—were assigned very specific, hardwired anatomical tasks:
 - **The Visual Cortex Teams (Columbia and Berkeley)**: They use the 1,000,000-channel interface to record how the eyes see images, then use the 100,000 write-channels to flash matrix-like grids of light directly into the visual brain.
