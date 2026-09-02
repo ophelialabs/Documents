@@ -4,8 +4,6 @@ title: MyNESD
 
 ![](./assets/br.png)
 
-Replace 4 w/ 6
-
 ![](./assets/nd.png)
 
 1A: DARPA's [NESD](https://www.darpa.mil/research/programs/neural-engineering-system-design) program has developed a **minimally invasive** implantable, high-resolution [neural interface](https://pubs.rsc.org/en/content/articlepdf/2025/mh/d4mh01854k). Think **[Bi-Directional](https://support.apple.com/en-us/106341)** Bone Anchored (Cochleal) Hearing Systems, or Behind The Ear Hearing Aids.
@@ -99,16 +97,12 @@ Let's run those simulations at the same time
        * The "step" technique and wanting to go from battlefield to battlefield?
 18. **"Cancel this, let them finish what they started"** 
     - 06/29/2026: Approximately 12 AM, slight shift. Compared to a Vinn Diagram, overlapping set of bubbles, felt as two brains converging into one
-    - Elon, remember when you said I was a very special robot? Curious, did you get the idea from house of wax? Thanks percipio for internalizing
 19. Him (7/9/26 🕥 19:03): "I'll pay extra"
     - Me: I hope this isnt a professional in the medical field. Are you going to withhold this information from them too? Otherwise they may not take the job
     - Check 07/16/26
 17. Him: (7/18/26 🕦 14:30): neither confirm nor deny
 	- If thats the case, how did it change last minute along with emotional influence and manipulation
-	14:57 - (note time returns) : silence, big mad. Plotting? what to expect?
-
-- I would like to see what you got
-	- What, your team say he's looking for a response. You're pitiful. And thats why your barks are nothing but reflections upon your own cracks and insecurities. Even if you outwardly win, you are still nothing and deep down you know it. otherwise you wouldnt need the teams validation
+	- 14:57 - (note time returns) : silence, big mad. Plotting? what to expect?
 
 - 08/27/2026 20:17 - No Weight
 - 08/28/26 15:19: to do
