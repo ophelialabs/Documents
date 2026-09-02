@@ -35,7 +35,7 @@ I could be like you and try to identify a target audience, or I could be authent
 
 The teams funded under the NESD umbrella—such as UC Berkeley, Brown University, and Columbia University—were assigned very specific, hardwired anatomical tasks:
 - **The Visual Cortex Teams (Columbia and Berkeley)**: They use the 1,000,000-channel interface to record how the eyes see images, then use the 100,000 write-channels to flash matrix-like grids of light directly into the visual brain.
-- **The Auditory Cortex Team (Brown)**: They use a network of micro-sensors called "neurograins" to decode the tiny vocalizations of speech.
+- **The Auditory Cortex Team (Brown)**: They use a network of micro-sensors called "neurograins" to decode the tiny vocalizations of speech. [VnK Patent](https://ppubs.uspto.gov/api/pdf/downloadPdf/US-6587729-B2?source=USPAT&requestToken=eyJzdWIiOiI2NjE0YjhiOS00OWY1LTQ5N2EtYjU4MC1mN2ViODUwMTQzYTQiLCJ2ZXIiOiI0N2ViNGI4MC02ZDhmLTRlMWEtYTliYS05OWQ3OWM1YTFiN2QiLCJleHAiOjB9)
 
 - How the funded teams (like Berkeley) are using holographic light fields and optogenetics
 
