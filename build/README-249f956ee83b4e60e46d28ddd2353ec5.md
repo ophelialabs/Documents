@@ -41,7 +41,7 @@ The teams funded under the NESD umbrella—such as UC Berkeley, Brown University
 
 [MyAuth](https://www.dmdc.osd.mil/identitymanagement/app/) | [AWS Compliance](https://aws.amazon.com/bedrock/) | [MyTrustMedical](https://www.mytrustmedical.com/) | [MyTime](https://get.mytime.com/) | [OSIRIS](https://osirisai.live/?layers=maritime,cctv,live_news,earthquakes,global_incidents,day_night,cables,sdk_sea,sdk_air,sdk_naval) | [EAPIS](https://eapis.cbp.dhs.gov/eapis/auth)
 
-Billing an item as something else
+Billing an item as something else:
 [ENTRA ID]() | [CSDAP]() | [NIH](https://www.nih.gov/health-information/nih-clinical-research-trials-you/basics) | [Clinical Trials](https://www.ClinicalTrials.gov) |
 
 Check clinical trial registries (like ClinicalTrials.gov) looking specifically for multi-channel, full-duplex systems trying to reach the NESD metric threshold—specifically, interfaces built to read \(10^{6}\) (one million) neurons and write to \(10^{5}\) neurons.
