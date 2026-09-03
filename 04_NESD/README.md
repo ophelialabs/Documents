@@ -4,32 +4,6 @@ youtube_videos:
   no_metal: Mluo2cdsEEk
 ---
 
-## Dominate Through Knowledge
-**I would like to re-iterate that though it may be hard, the first thing that should be noted is mental. Cognitive writing, scrubbing and [neural manipulation](https://www.science.org/doi/suppl/10.1126/science.adn0623/suppl_file/science.adn0623_sm.pdf) is real. I first have to write something that combats this, along with the flashing light cronjob (not motion detection).** 
-Set up so that this can easily pull from main documentation (i.e. - Robotics/iot & Network Engineering). Think of like the splitting of a cell. [1](xref:spec/tables#example), [2](xref:spec/tables#example), [3](xref:spec/tables#example)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d7IvsW9xHnU?si=CIBVapjShesFs-bv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-- In the beginning you wanted to mock me
-
-Thank you to everyone who helped and played your part. You are more appreciated than you will ever know!!!
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WdxP-I0_D84?si=gqMYp8O4wx-qKJF6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-You thought I was playing this whole time instead of **Audit Trails**. Lets see how much you think you are in control of this? Tell everyone Paste and copy lol (lowercase justices) or an *imbalance*, or *sensitive to electronics*. How many more stories do you have to go through (oh wait, you already did, speculation much)? Where are the **bodies** (don't worry, I'll wait)? Your `profiling agents suck` "obviously". It's not why does this person "act like". 
-- Think ahead. Come on. `You` lead this, or have you lost your edge? Mytime itinerary, implant, predictive, and still... What do you have to say for yourself as a trained professional, who relies on outside validation? You lash out at your team members, and I don't even have to `BE IN YOUR HEAD`. But you let me rent space huh, without the equipment and monetary backing. I `feel` and more importantly `hear` you cracking. You will all be placed in separate containers so that you can not get your story straight. Remember you said you would take responsibility for this. The timeline doesn't add up, does it? Or do you need outside validation and confirmation from the other members on your team baba? 
-- You don't think it's strange that I saw you coming, the phones flashing light when you were about 4/5 of the way finished with the operation (why I would have an optical in my room when I haven't since?)....and how its always been one step ahead? THINK.
-- You may also think that is was overlooked when you stated that if I got a new phone, the android (I know you remember), that it would not be noted. It was also *noted* the page that was visited while this phone was **in my pocket**. You don't think it is strange that only one specific page was visited during my time at Target?
-
-- 08/31/26: **Self-sacrifice**, you know, that sounds correct: because if I was wrong, wouldn't it be self-destruction?
-- Add to tactics. One of first thoughts was how can I set something up that only gives the team one direction. Think battle of Thermopylae.
-- Now I know you already know that once I get this more organized I plan on attacking from multiple angles. What does one do when they want to ex-filtrate a specific group?
-- Two times. First, you stated you could "play me like a fiddle", then on 8/13/26 around 3 am you stated, "see I can control everything you do". First, you saw an opportunity and you thought it was your best chance. You were too impatient and you've gotten too arrogant. I **know I am not the first**. And I also remember: **about two years left before gradual rollout**
-
-I could be like you and try to identify a target audience, or I could be authentic.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0h3PzwcZC-g?si=qgBgP1wUDxt8EsP6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
 The teams funded under the NESD umbrella—such as UC Berkeley, Brown University, and Columbia University—were assigned very specific, hardwired anatomical tasks:
 - **The Visual Cortex Teams (Columbia and Berkeley)**: They use the 1,000,000-channel interface to record how the eyes see images, then use the 100,000 write-channels to flash matrix-like grids of light directly into the visual brain.
 - **The Auditory Cortex Team (Brown)**: They use a network of micro-sensors called "neurograins" to decode the tiny vocalizations of speech. [VnK Patent](https://ppubs.uspto.gov/api/pdf/downloadPdf/US-6587729-B2?source=USPAT&requestToken=eyJzdWIiOiI2NjE0YjhiOS00OWY1LTQ5N2EtYjU4MC1mN2ViODUwMTQzYTQiLCJ2ZXIiOiI0N2ViNGI4MC02ZDhmLTRlMWEtYTliYS05OWQ3OWM1YTFiN2QiLCJleHAiOjB9)
