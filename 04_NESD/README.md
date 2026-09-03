@@ -36,7 +36,7 @@ The teams funded under the NESD umbrella—such as UC Berkeley, Brown University
 
 - How the funded teams (like Berkeley) are using holographic light fields and optogenetics
 
-## Create specialized table
+## Mil Industrial Complex
 [Qiot](https://github.com/jlabclouds/qsharpIoT) | [OG]() | [6G RIS]() | [QNET]()
 
 [MyAuth](https://www.dmdc.osd.mil/identitymanagement/app/) | [AWS Compliance](https://aws.amazon.com/bedrock/) | [MyTrustMedical](https://www.mytrustmedical.com/) | [MyTime](https://get.mytime.com/) | [OSIRIS](https://osirisai.live/?layers=maritime,cctv,live_news,earthquakes,global_incidents,day_night,cables,sdk_sea,sdk_air,sdk_naval) | [EAPIS](https://eapis.cbp.dhs.gov/eapis/auth)
