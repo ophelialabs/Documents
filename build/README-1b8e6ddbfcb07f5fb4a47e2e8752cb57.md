@@ -1,12 +1,12 @@
 ---
-title: Classical
+title: NGS2AS
 ---
 
 # Network Engineering
 
 Next - [Quantum Networking](../Quantum/Network/protocols.md): quantum information, protocols, and network-oriented references
 
-# Network Spectrum & NGS2AS
+# Network Spectrum
 
 ## Overview
 
