@@ -1,10 +1,6 @@
 # Network Engineering
 
-This section is the engineering hub for communications networks, radio spectrum, IoT connectivity, reconfigurable wireless environments, and next-generation systems.
-
-## Navigation
-
-- [Quantum Networking](Quantum/README.md): quantum information, protocols, and network-oriented references
+Next - [Quantum Networking](../Quantum/Network/protocols.md): quantum information, protocols, and network-oriented references
 
 The detailed spectrum and wireless systems documentation below remains the primary technical resource for this area.
 
@@ -12,7 +8,11 @@ The detailed spectrum and wireless systems documentation below remains the prima
 
 ## Overview
 
-This documentation details the interconnected relationships between **0G/SIGFOX**, **6G Reconfigurable Intelligent Surfaces (RIS)**, and **Spectrum Management** in the context of modern and next-generation wireless communications infrastructure.
+This documentation details the interconnected relationships between **0G/SIGFOX**, **6G Reconfigurable Intelligent Surfaces (RIS)**, and **Spectrum Management** in the context of modern and next-generation wireless communications infrastructure. 
+
+This section is the engineering hub for communications networks, radio spectrum, IoT connectivity, reconfigurable wireless environments, and next-generation systems.
+
+The detailed spectrum and wireless systems documentation below remains the primary technical resource for this area.
 
 ---
 
