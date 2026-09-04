@@ -1,5 +1,5 @@
 ---
-Title: Sidecar
+title: Sidecar
 ---
 
 [Go](https://google.com) | [Podman](https://google.com) | [P1](https://google.com) | [SDS](https://google.com) |
