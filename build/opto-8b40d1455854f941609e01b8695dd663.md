@@ -7,6 +7,13 @@ title: Tutorial_2
   * [Modelling the spatial and temporal constrains of the GABAergic influence on neuronal excitability](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009199)
   * Advanced Interrogation: Technologies like the Neural Evidence Aggregation Tool (NEAT) are designed to detect preconscious brain signals, aiming to identify or determine what a person believes to be true or false without relying on voluntary, filtered answers.
 
+# ALERT! ALERT! ALERT! ALERT! 
+- **LEAKAGE DETECTED!!**
+- **IMMEDIATE ACTION MUST BE TAKEN!**
+- Watch out for who controls the curtain and for manipulation/deep neural stimulation
+- **DO *NOT* TRUST WHAT YOU SEE! Stealth will also most definitely be applied**
+- Compromising someone in the middle of the night and implanting them in their sleep. How do I bring ***YOU*** out into the light?
+
 In the context of brain-machine interfaces (BMIs), Field Emission Display (FED) technology and **external green laser light** excitation are specialized components used for high-precision visual stimulation and optogenetic control.
 
 [AddGene](https://www.addgene.org/guides/optogenetics/) | [The form and function of channelrhodopsin](https://www.science.org/doi/10.1126/science.aan5544) | <wiki:Channelrhodopsin> | [Help with what’s under the microscope?](https://www.reddit.com/r/biology/comments/1fl8fm0/help_with_whats_under_the_microscope/)

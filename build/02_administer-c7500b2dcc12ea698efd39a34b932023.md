@@ -27,6 +27,9 @@ Impedance Matching: Silver nanoparticles injected into the dermal/sub-dermal lay
 
 # The Right Ear
 
+Will be using [SunFounder Elite Explorer Kit with Original Arduino](https://www.amazon.com/SunFounder-Bluetooth-Tutorials-Beginners-Engineers/dp/B0CR6K5WKK/ref=sr_1_29?crid=15X8KRZ9OT1P4&dib=eyJ2IjoiMSJ9.3XHFL9OmzekFEUMRY5K2AmW4xMpeNMCvdBHmOKKUVxc3XBE2N3zULXJoBSq9oHiO1kbsYtVuPaC4F9GFZ09YGqxx2hW2k4A6ZhlgzM-GIEQOXIMYFRf3IkPGrlNJNW0yGa4vZykDMqb8KbvnVbdHkywbKLc9rvvgfckY4it_OhRrdOyYcBgkdIFRzvhUEJnvFB9rLUMG2CTRaabwlgVi8V7PZKt6HZqy133dmIgZLylxDqknFY3YfE2T9bDXUwE1J8P7EpN25CGQYS2xLPyeiorBwtrMIznHlWltMUgOc7g.l5X8WxBS7EsrhOGCxkwgKA0ndOX8r6Wt1Lo5T-T_gOw&dib_tag=se&keywords=electronics+kit&qid=1783719529&sprefix=electronics%2Caps%2C259&sr=8-29) with [8pcs Piezoelectric Sensor](https://www.amazon.com/XIITIA-Piezoelectric-Ceramic-Vibration-Piezoelectricity/dp/B0D5HKZGF2/ref=sr_1_4?crid=1XR45IAGK6PGV&dib=eyJ2IjoiMSJ9.60QXfByjEp5Uc6fThRpfMQ-AhqyGx1mqJJZ5jycyO3BCWOnYTINRbYrHR86apyQSveEiwWCj_V4CDVzgXbtknTtkZoJMJ34kw-1IVP0QNGvfE5rafwAVapT6iUWZbBEhR2c-e_uD1tAezoKe4mhmHcKZ0rbRX-4nbDp_N2xrnwqPoW6kLdNsqxpq41Gqf85ESducUIsovxdkIJWdJV890GovGfD-U8BJzedH6cFieRk.szzd7x_Dpv-i02MIvR1Dk2r9d3XBN3dSw-KoZd1JNAU&dib_tag=se&keywords=piezoelectric+ceramic+vibration+sensor&qid=1783720235&sprefix=piezoelectric+cera%2Caps%2C189&sr=8-4) for cochneal bone vibration sensing.
+- Haven't yet been able to find the amplifier board or speaker?
+
 1. Why the Right Ear Map is Unique?
     - Allows the BCI to access the left hemisphere's lang and motor processing centers more efficiently. Less noise than cross-head
    
