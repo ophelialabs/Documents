@@ -2,8 +2,6 @@
 
 Next - [Quantum Networking](../Quantum/Network/protocols.md): quantum information, protocols, and network-oriented references
 
-The detailed spectrum and wireless systems documentation below remains the primary technical resource for this area.
-
 # Network Spectrum & Next-Generation Wireless Systems
 
 ## Overview
