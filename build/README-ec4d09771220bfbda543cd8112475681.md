@@ -667,118 +667,64 @@ The future wireless ecosystem will be **heterogeneous, intelligent, and spectrum
 
 ### Standards & Specifications
 
-- **ETSI EN 300 328** - Wideband transmission systems; data transmission equipment operating in the 2.4 GHz ISM band
-- **3GPP TR 38.901** - Study on channel model for frequencies from 0.5 to 100 GHz (5G/6G)
-- **IEEE 802.11ax** - High Efficiency WLAN (WiFi 6)
-- **3GPP Release 18** - 6G spectrum and RIS standardization (in progress)
+| Standard | Description |
+|---|---|
+| **ETSI EN 300 328** | Wideband transmission systems; data transmission equipment operating in the 2.4 GHz ISM band |
+| **3GPP TR 38.901** | Study on channel model for frequencies from 0.5 to 100 GHz (5G/6G) |
+| **IEEE 802.11ax** | High Efficiency WLAN (WiFi 6) |
+| **3GPP Release 18** | 6G spectrum and RIS standardization (in progress) |
 
 ### Wikipedia References (Wireless Communications & Spectrum)
 
-**Foundational Concepts:**
-- [Wikipedia - Radio Spectrum](https://en.wikipedia.org/wiki/Radio_spectrum)
-- [Wikipedia - Electromagnetic Spectrum](https://en.wikipedia.org/wiki/Electromagnetic_spectrum)
-- [Wikipedia - ISM band](https://en.wikipedia.org/wiki/ISM_band)
-- [Wikipedia - Regulation of wireless frequencies](https://en.wikipedia.org/wiki/Regulation_of_wireless_frequencies)
-
-**Wireless Technologies:**
-- [Wikipedia - SIGFOX](https://en.wikipedia.org/wiki/Sigfox)
-- [Wikipedia - 5G](https://en.wikipedia.org/wiki/5G)
-- [Wikipedia - 6G](https://en.wikipedia.org/wiki/6G)
-- [Wikipedia - Internet of Things](https://en.wikipedia.org/wiki/Internet_of_things)
-- [Wikipedia - LoRaWAN](https://en.wikipedia.org/wiki/LoRaWAN)
-- [Wikipedia - LTE](https://en.wikipedia.org/wiki/LTE_(telecommunication))
-- [Wikipedia - WiFi](https://en.wikipedia.org/wiki/WiFi)
-- [Wikipedia - Bluetooth](https://en.wikipedia.org/wiki/Bluetooth)
-
-**Advanced Technologies:**
-- [Wikipedia - Metasurface](https://en.wikipedia.org/wiki/Metasurface)
-- [Wikipedia - Beamforming](https://en.wikipedia.org/wiki/Beamforming)
-- [Wikipedia - Millimeter wave](https://en.wikipedia.org/wiki/Millimeter_wave)
-- [Wikipedia - Terahertz radiation](https://en.wikipedia.org/wiki/Terahertz_radiation)
-- [Wikipedia - Cognitive radio](https://en.wikipedia.org/wiki/Cognitive_radio)
-- [Wikipedia - Software-defined radio](https://en.wikipedia.org/wiki/Software-defined_radio)
-- [Wikipedia - Reconfigurable Intelligent Surface](https://en.wikipedia.org/wiki/Reconfigurable_Intelligent_Surface) (if available)
-
-**Modulation & Signal Processing:**
-- [Wikipedia - Modulation](https://en.wikipedia.org/wiki/Modulation)
-- [Wikipedia - Phase modulation](https://en.wikipedia.org/wiki/Phase_modulation)
-- [Wikipedia - Amplitude modulation](https://en.wikipedia.org/wiki/Amplitude_modulation)
-- [Wikipedia - Frequency modulation](https://en.wikipedia.org/wiki/Frequency_modulation)
-- [Wikipedia - Frequency-shift keying](https://en.wikipedia.org/wiki/Frequency-shift_keying)
-- [Wikipedia - Phase-shift keying](https://en.wikipedia.org/wiki/Phase-shift_keying)
-
-**Spectrum Concepts:**
-- [Wikipedia - Bandwidth](https://en.wikipedia.org/wiki/Bandwidth)
-- [Wikipedia - Channel (communications)](https://en.wikipedia.org/wiki/Channel_(communications))
-- [Wikipedia - Interference (wave propagation)](https://en.wikipedia.org/wiki/Interference_(wave_propagation))
-- [Wikipedia - Electromagnetic interference](https://en.wikipedia.org/wiki/Electromagnetic_interference)
-- [Wikipedia - Duplex (telecommunications)](https://en.wikipedia.org/wiki/Duplex_(telecommunications))
-- [Wikipedia - Frequency reuse](https://en.wikipedia.org/wiki/Frequency_reuse)
-- [Wikipedia - Fading](https://en.wikipedia.org/wiki/Fading)
-
-**Antenna & Propagation:**
-- [Wikipedia - Antenna (radio)](https://en.wikipedia.org/wiki/Antenna_(radio))
-- [Wikipedia - Radio propagation](https://en.wikipedia.org/wiki/Radio_propagation)
-- [Wikipedia - Path loss](https://en.wikipedia.org/wiki/Path_loss)
-- [Wikipedia - Multipath propagation](https://en.wikipedia.org/wiki/Multipath_propagation)
-- [Wikipedia - Ground wave](https://en.wikipedia.org/wiki/Ground_wave)
-- [Wikipedia - Sky wave](https://en.wikipedia.org/wiki/Sky_wave)
-
-**Communications Fundamentals:**
-- [Wikipedia - Duplex filter](https://en.wikipedia.org/wiki/Duplex_filter)
-- [Wikipedia - Receiver (radio)](https://en.wikipedia.org/wiki/Receiver_(radio))
-- [Wikipedia - Transmitter](https://en.wikipedia.org/wiki/Transmitter)
-- [Wikipedia - Signal-to-noise ratio](https://en.wikipedia.org/wiki/Signal-to-noise_ratio)
+| Foundational Concepts | Wireless Technologies | Advanced Technologies | Modulation & Signal Processing | Spectrum Concepts | Antenna & Propagation | Communications Fundamentals |
+|---|---|---|---|---|---|---|
+| [Radio Spectrum](https://en.wikipedia.org/wiki/Radio_spectrum)<br>[Electromagnetic Spectrum](https://en.wikipedia.org/wiki/Electromagnetic_spectrum)<br>[ISM band](https://en.wikipedia.org/wiki/ISM_band)<br>[Regulation of wireless frequencies](https://en.wikipedia.org/wiki/Regulation_of_wireless_frequencies) | [SIGFOX](https://en.wikipedia.org/wiki/Sigfox)<br>[5G](https://en.wikipedia.org/wiki/5G)<br>[6G](https://en.wikipedia.org/wiki/6G)<br>[Internet of Things](https://en.wikipedia.org/wiki/Internet_of_things)<br>[LoRaWAN](https://en.wikipedia.org/wiki/LoRaWAN)<br>[LTE](https://en.wikipedia.org/wiki/LTE_(telecommunication))<br>[WiFi](https://en.wikipedia.org/wiki/WiFi)<br>[Bluetooth](https://en.wikipedia.org/wiki/Bluetooth) | [Metasurface](https://en.wikipedia.org/wiki/Metasurface)<br>[Beamforming](https://en.wikipedia.org/wiki/Beamforming)<br>[Millimeter wave](https://en.wikipedia.org/wiki/Millimeter_wave)<br>[Terahertz radiation](https://en.wikipedia.org/wiki/Terahertz_radiation)<br>[Cognitive radio](https://en.wikipedia.org/wiki/Cognitive_radio)<br>[Software-defined radio](https://en.wikipedia.org/wiki/Software-defined_radio)<br>[Reconfigurable Intelligent Surface](https://en.wikipedia.org/wiki/Reconfigurable_Intelligent_Surface) (if available) | [Modulation](https://en.wikipedia.org/wiki/Modulation)<br>[Phase modulation](https://en.wikipedia.org/wiki/Phase_modulation)<br>[Amplitude modulation](https://en.wikipedia.org/wiki/Amplitude_modulation)<br>[Frequency modulation](https://en.wikipedia.org/wiki/Frequency_modulation)<br>[Frequency-shift keying](https://en.wikipedia.org/wiki/Frequency-shift_keying)<br>[Phase-shift keying](https://en.wikipedia.org/wiki/Phase-shift_keying) | [Bandwidth](https://en.wikipedia.org/wiki/Bandwidth)<br>[Channel (communications)](https://en.wikipedia.org/wiki/Channel_(communications))<br>[Interference (wave propagation)](https://en.wikipedia.org/wiki/Interference_(wave_propagation))<br>[Electromagnetic interference](https://en.wikipedia.org/wiki/Electromagnetic_interference)<br>[Duplex (telecommunications)](https://en.wikipedia.org/wiki/Duplex_(telecommunications))<br>[Frequency reuse](https://en.wikipedia.org/wiki/Frequency_reuse)<br>[Fading](https://en.wikipedia.org/wiki/Fading) | [Antenna (radio)](https://en.wikipedia.org/wiki/Antenna_(radio))<br>[Radio propagation](https://en.wikipedia.org/wiki/Radio_propagation)<br>[Path loss](https://en.wikipedia.org/wiki/Path_loss)<br>[Multipath propagation](https://en.wikipedia.org/wiki/Multipath_propagation)<br>[Ground wave](https://en.wikipedia.org/wiki/Ground_wave)<br>[Sky wave](https://en.wikipedia.org/wiki/Sky_wave) | [Duplex filter](https://en.wikipedia.org/wiki/Duplex_filter)<br>[Receiver (communications)](https://en.wikipedia.org/wiki/Receiver_(communications))<br>[Transmitter](https://en.wikipedia.org/wiki/Transmitter)<br>[Signal-to-noise ratio](https://en.wikipedia.org/wiki/Signal-to-noise_ratio) |
 
 ### Britannica References (Comprehensive Overview)
 
-- [Britannica - Wireless Communication](https://www.britannica.com/technology/wireless-communication)
-- [Britannica - Radio Wave](https://www.britannica.com/technology/radio-wave)
-- [Britannica - Electromagnetic Spectrum](https://www.britannica.com/technology/electromagnetic-spectrum)
-- [Britannica - Antenna (physics)](https://www.britannica.com/technology/antenna)
-- [Britannica - Telecommunications](https://www.britannica.com/technology/telecommunication)
+| Reference | Link |
+|---|---|
+| Wireless Communication | [Britannica](https://www.britannica.com/technology/wireless-communication) |
+| Radio Wave | [Britannica](https://www.britannica.com/technology/radio-wave) |
+| Electromagnetic Spectrum | [Britannica](https://www.britannica.com/technology/electromagnetic-spectrum) |
+| Antenna (physics) | [Britannica](https://www.britannica.com/technology/antenna) |
+| Telecommunications | [Britannica](https://www.britannica.com/technology/telecommunication) |
 
 ### Organizations & Resources
 
-- [ITU (International Telecommunication Union)](https://www.itu.int/)
-  - [Wikipedia - ITU](https://en.wikipedia.org/wiki/International_Telecommunication_Union)
-- [3GPP (3rd Generation Partnership Project)](https://www.3gpp.org/)
-  - [Wikipedia - 3GPP](https://en.wikipedia.org/wiki/3GPP)
-- [ETSI (European Telecommunications Standards Institute)](https://www.etsi.org/)
-  - [Wikipedia - ETSI](https://en.wikipedia.org/wiki/ETSI)
-- [FCC (Federal Communications Commission)](https://www.fcc.gov/)
-  - [Wikipedia - FCC](https://en.wikipedia.org/wiki/Federal_Communications_Commission)
-- [ISED Canada](https://www.ic.gc.ca/)
-- [IEEE (Institute of Electrical and Electronics Engineers)](https://www.ieee.org/)
-  - [Wikipedia - IEEE](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers)
+| Organization | Official site | Wikipedia |
+|---|---|---|
+| ITU (International Telecommunication Union) | [ITU](https://www.itu.int/) | [Wikipedia - ITU](https://en.wikipedia.org/wiki/International_Telecommunication_Union) |
+| 3GPP (3rd Generation Partnership Project) | [3GPP](https://www.3gpp.org/) | [Wikipedia - 3GPP](https://en.wikipedia.org/wiki/3GPP) |
+| ETSI (European Telecommunications Standards Institute) | [ETSI](https://www.etsi.org/) | [Wikipedia - ETSI](https://en.wikipedia.org/wiki/ETSI) |
+| FCC (Federal Communications Commission) | [FCC](https://www.fcc.gov/) | [Wikipedia - FCC](https://en.wikipedia.org/wiki/Federal_Communications_Commission) |
+| ISED Canada | [ISED Canada](https://www.ic.gc.ca/) | - |
+| IEEE (Institute of Electrical and Electronics Engineers) | [IEEE](https://www.ieee.org/) | [Wikipedia - IEEE](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers) |
 
 ### Research & Learning Resources
 
-- IEEE Communications Magazine - 6G and RIS articles
-  - [Wikipedia - IEEE Communications Society](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers)
-- SIGFOX Technology Overview - https://www.sigfox.com/
-- 6G RIS Research - MIT LIDS, University of Toronto, Aalto University
-- Spectrum Sensing Techniques - Cognitive Radio surveys
-- [Wikipedia - Spectrum analyzer](https://en.wikipedia.org/wiki/Spectrum_analyzer)
-- [Wikipedia - Network analyzer](https://en.wikipedia.org/wiki/Network_analyzer_(electrical))
+| Resource | Link or description |
+|---|---|
+| IEEE Communications Magazine | 6G and RIS articles; [Wikipedia - IEEE Communications Society](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers) |
+| SIGFOX Technology Overview | [SIGFOX](https://www.sigfox.com/) |
+| 6G RIS Research | MIT LIDS, University of Toronto, Aalto University |
+| Spectrum Sensing Techniques | Cognitive Radio surveys |
+| Spectrum analyzer | [Wikipedia](https://en.wikipedia.org/wiki/Spectrum_analyzer) |
+| Network analyzer | [Wikipedia](https://en.wikipedia.org/wiki/Network_analyzer_(electrical)) |
 
 ### Additional Related Topics
 
-- [Wikipedia - Quantum key distribution](https://en.wikipedia.org/wiki/Quantum_key_distribution)
-- [Wikipedia - Satellite communication](https://en.wikipedia.org/wiki/Satellite_communication)
-- [Wikipedia - Microwave](https://en.wikipedia.org/wiki/Microwave)
-- [Wikipedia - Submillimeter wave](https://en.wikipedia.org/wiki/Submillimeter_wave)
-- [Wikipedia - Spectrum auction](https://en.wikipedia.org/wiki/Spectrum_auction)
-- [Wikipedia - Channel capacity](https://en.wikipedia.org/wiki/Channel_capacity)
+| Topic | Reference |
+|---|---|
+| Quantum key distribution | [Wikipedia](https://en.wikipedia.org/wiki/Quantum_key_distribution) |
+| Satellite communication | [Wikipedia](https://en.wikipedia.org/wiki/Satellite_communication) |
+| Microwave | [Wikipedia](https://en.wikipedia.org/wiki/Microwave) |
+| Submillimeter wave | [Wikipedia](https://en.wikipedia.org/wiki/Submillimeter_wave) |
+| Spectrum auction | [Wikipedia](https://en.wikipedia.org/wiki/Spectrum_auction) |
+| Channel capacity | [Wikipedia](https://en.wikipedia.org/wiki/Channel_capacity) |
 
 ---
 
 **Last Updated:** 2026-08-26  
 **Document Status:** Comprehensive Reference Guide  
 **Audience:** Network Engineers, Spectrum Managers, 6G Researchers
-
-:::{button} Next: Quantum Network Protocols
-:class: sd-rounded-pill float-right
-:url: ../Quantum/Network/protocols.md
-:::
-
