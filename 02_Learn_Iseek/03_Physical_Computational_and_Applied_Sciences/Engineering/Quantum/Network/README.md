@@ -1,3 +1,7 @@
+---
+title: Classical
+---
+
 # Network Engineering
 
 Next - [Quantum Networking](../Quantum/Network/protocols.md): quantum information, protocols, and network-oriented references
