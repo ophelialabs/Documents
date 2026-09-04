@@ -143,7 +143,7 @@
     <loc>http://localhost:3000/readme-22</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/index2</loc>
+    <loc>http://localhost:3000/index-3</loc>
   </url>
   <url>
     <loc>http://localhost:3000/protocols</loc>
@@ -152,7 +152,7 @@
     <loc>http://localhost:3000/readme-23</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/index-3</loc>
+    <loc>http://localhost:3000/index-4</loc>
   </url>
   <url>
     <loc>http://localhost:3000/readme-24</loc>
@@ -179,7 +179,7 @@
     <loc>http://localhost:3000/readme-28</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/index-4</loc>
+    <loc>http://localhost:3000/index-5</loc>
   </url>
   <url>
     <loc>http://localhost:3000/mat-cs</loc>
@@ -218,10 +218,10 @@
     <loc>http://localhost:3000/readme-34</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/index-5</loc>
+    <loc>http://localhost:3000/index-6</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/index-6</loc>
+    <loc>http://localhost:3000/index-7</loc>
   </url>
   <url>
     <loc>http://localhost:3000/grid</loc>
@@ -308,10 +308,10 @@
     <loc>http://localhost:3000/readme-46</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/index-7</loc>
+    <loc>http://localhost:3000/index-8</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/index2-1</loc>
+    <loc>http://localhost:3000/index2</loc>
   </url>
   <url>
     <loc>http://localhost:3000/el9-db</loc>
@@ -347,7 +347,7 @@
     <loc>http://localhost:3000/readme-50</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/index-8</loc>
+    <loc>http://localhost:3000/index-9</loc>
   </url>
   <url>
     <loc>http://localhost:3000/fields</loc>
@@ -362,7 +362,7 @@
     <loc>http://localhost:3000/spectrum-mngmt</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/index-9</loc>
+    <loc>http://localhost:3000/index-10</loc>
   </url>
   <url>
     <loc>http://localhost:3000/readme-51</loc>
@@ -374,10 +374,10 @@
     <loc>http://localhost:3000/hyperqueen</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/index-10</loc>
+    <loc>http://localhost:3000/index-11</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/index2-2</loc>
+    <loc>http://localhost:3000/index2-1</loc>
   </url>
   <url>
     <loc>http://localhost:3000/index3</loc>
@@ -386,10 +386,10 @@
     <loc>http://localhost:3000/readme-53</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/index-11</loc>
+    <loc>http://localhost:3000/index-12</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/index-12</loc>
+    <loc>http://localhost:3000/index-13</loc>
   </url>
   <url>
     <loc>http://localhost:3000/stack</loc>
@@ -398,7 +398,7 @@
     <loc>http://localhost:3000/bio-assets</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/index-13</loc>
+    <loc>http://localhost:3000/index-14</loc>
   </url>
   <url>
     <loc>http://localhost:3000/administer</loc>
