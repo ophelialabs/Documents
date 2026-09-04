@@ -62,9 +62,6 @@
     <loc>http://localhost:3000/index</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/index-1</loc>
-  </url>
-  <url>
     <loc>http://localhost:3000/python</loc>
   </url>
   <url>
@@ -113,9 +110,6 @@
     <loc>http://localhost:3000/readme-14</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/sec</loc>
-  </url>
-  <url>
     <loc>http://localhost:3000/readme-15</loc>
   </url>
   <url>
@@ -137,16 +131,16 @@
     <loc>http://localhost:3000/readme-21</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/index-2</loc>
+    <loc>http://localhost:3000/index-1</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/index-3</loc>
+    <loc>http://localhost:3000/index-2</loc>
   </url>
   <url>
     <loc>http://localhost:3000/informatics</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/index-4</loc>
+    <loc>http://localhost:3000/index-3</loc>
   </url>
   <url>
     <loc>http://localhost:3000/index2</loc>
@@ -158,7 +152,7 @@
     <loc>http://localhost:3000/readme-22</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/index-5</loc>
+    <loc>http://localhost:3000/index-4</loc>
   </url>
   <url>
     <loc>http://localhost:3000/readme-23</loc>
@@ -185,7 +179,7 @@
     <loc>http://localhost:3000/readme-27</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/index-6</loc>
+    <loc>http://localhost:3000/index-5</loc>
   </url>
   <url>
     <loc>http://localhost:3000/mat-cs</loc>
@@ -221,10 +215,10 @@
     <loc>http://localhost:3000/readme-32</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/index-7</loc>
+    <loc>http://localhost:3000/index-6</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/index-8</loc>
+    <loc>http://localhost:3000/index-7</loc>
   </url>
   <url>
     <loc>http://localhost:3000/grid</loc>
@@ -275,28 +269,13 @@
     <loc>http://localhost:3000/readme-40</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/api</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/readme2-1</loc>
-  </url>
-  <url>
     <loc>http://localhost:3000/readme-41</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/security</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/spectrum-mngmt</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/cloud</loc>
+    <loc>http://localhost:3000/api</loc>
   </url>
   <url>
     <loc>http://localhost:3000/readme-42</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/readme-43</loc>
   </url>
   <url>
     <loc>http://localhost:3000/data-clean</loc>
@@ -311,19 +290,22 @@
     <loc>http://localhost:3000/parquet</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/readme2-2</loc>
+    <loc>http://localhost:3000/readme2-1</loc>
   </url>
   <url>
     <loc>http://localhost:3000/devops</loc>
   </url>
   <url>
+    <loc>http://localhost:3000/readme-43</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/readme2-2</loc>
+  </url>
+  <url>
     <loc>http://localhost:3000/readme-44</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/readme-45</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/index-9</loc>
+    <loc>http://localhost:3000/index-8</loc>
   </url>
   <url>
     <loc>http://localhost:3000/index2-1</loc>
@@ -338,25 +320,43 @@
     <loc>http://localhost:3000/el9-sec</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/readme-46</loc>
+    <loc>http://localhost:3000/readme-45</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/cloud-1</loc>
+    <loc>http://localhost:3000/cloud</loc>
   </url>
   <url>
     <loc>http://localhost:3000/hypori-avd</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/readme-47</loc>
+    <loc>http://localhost:3000/readme-46</loc>
   </url>
   <url>
     <loc>http://localhost:3000/vcfoperations</loc>
   </url>
   <url>
+    <loc>http://localhost:3000/readme-47</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/cloud-1</loc>
+  </url>
+  <url>
     <loc>http://localhost:3000/readme-48</loc>
   </url>
   <url>
+    <loc>http://localhost:3000/index-9</loc>
+  </url>
+  <url>
     <loc>http://localhost:3000/fields</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/sec</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/security</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/spectrum-mngmt</loc>
   </url>
   <url>
     <loc>http://localhost:3000/index-10</loc>
