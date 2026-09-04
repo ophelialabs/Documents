@@ -16,6 +16,37 @@ title: Fields
       -  Clean State: Avoiding the technical debt of older systems that can confuse AI or cause code to break.
 - [Web Enterprise Business (WEB.mil)](https://www.web.dma.mil/): (compared to (cjadc2) this site appears to be in "active" improvement
 
+Starting a new "<wiki:Greenfield_project>" project is an exciting opportunity because you get to build from the ground up without any legacy constraints. To create a true "<wiki:Greenfield_project>" environment for API cards, you are essentially building a clean, modern framework from scratch without any legacy dependencies. In modern software architecture, API cards usually refer to reusable frontend UI components (cards) that fetch, format, and display live data directly from an API endpoint (such as weather widgets, crypto tickers, or user profiles). Because you are building this from a clean slate, you have complete architectural freedom. 
+
+To create JSON cards for algorithms, you need a structured schema that balances readability, flexibility, and completeness. This format is perfect for flashcard apps, developer documentation, or API endpoints.
+
+Standard JSON Schema for Algorithm Cards
+```json
+{
+  "id": "alg_001",
+  "name": "Binary Search",
+  "category": "Searching",
+  "difficulty": "Easy",
+  "summary": "Finds the position of a target value within a sorted array by repeatedly dividing the search interval in half.",
+  "complexity": {
+    "time": {
+      "best": "O(1)",
+      "average": "O(log n)",
+      "worst": "O(log n)"
+    },
+    "space": "O(1)"
+  },
+  "constraints": [
+    "Array must be sorted."
+  ],
+  "code_snippet": {
+    "language": "javascript",
+    "source": "function binarySearch(arr, target) {\n  let left = 0, right = arr.length - 1;\n  while (left <= right) {\n    const mid = Math.floor((left + right) / 2);\n    if (arr[mid] === target) return mid;\n    if (arr[mid] < target) left = mid + 1;\n    else right = mid - 1;\n  }\n  return -1;\n}"
+  },
+  "tags": ["divide-and-conquer", "arrays", "pointers"]
+}
+```
+
 ## 🟫 Brownfield: Extending the Existing
 - **Definition**: Developing, refactoring, or integrating new software directly on top of or alongside an active legacy system.
 - **Declaration/Setup**: Forking or pulling an existing codebase, working within established constraints, implementing APIs to talk to older databases, or wrapping legacy code using design patterns like the Strangler Fig pattern.
@@ -49,37 +80,6 @@ The primary differences in their application across various industries are outli
 - **Blackfield**: Represents an absolute worst-case scenario for manufacturing transformation. It entails modifying an existing, heavily compromised physical space or outdated manufacturing line characterized by near-zero documentation, extreme safety/environmental hazards, and a high likelihood of failure if handled poorly.
 
 ---
-
-Starting a new "<wiki:Greenfield_project>" project is an exciting opportunity because you get to build from the ground up without any legacy constraints. To create a true "<wiki:Greenfield_project>" environment for API cards, you are essentially building a clean, modern framework from scratch without any legacy dependencies. In modern software architecture, API cards usually refer to reusable frontend UI components (cards) that fetch, format, and display live data directly from an API endpoint (such as weather widgets, crypto tickers, or user profiles). Because you are building this from a clean slate, you have complete architectural freedom. 
-
-To create JSON cards for algorithms, you need a structured schema that balances readability, flexibility, and completeness. This format is perfect for flashcard apps, developer documentation, or API endpoints.
-
-Standard JSON Schema for Algorithm Cards
-```json
-{
-  "id": "alg_001",
-  "name": "Binary Search",
-  "category": "Searching",
-  "difficulty": "Easy",
-  "summary": "Finds the position of a target value within a sorted array by repeatedly dividing the search interval in half.",
-  "complexity": {
-    "time": {
-      "best": "O(1)",
-      "average": "O(log n)",
-      "worst": "O(log n)"
-    },
-    "space": "O(1)"
-  },
-  "constraints": [
-    "Array must be sorted."
-  ],
-  "code_snippet": {
-    "language": "javascript",
-    "source": "function binarySearch(arr, target) {\n  let left = 0, right = arr.length - 1;\n  while (left <= right) {\n    const mid = Math.floor((left + right) / 2);\n    if (arr[mid] === target) return mid;\n    if (arr[mid] < target) left = mid + 1;\n    else right = mid - 1;\n  }\n  return -1;\n}"
-  },
-  "tags": ["divide-and-conquer", "arrays", "pointers"]
-}
-```
 
 Core Fields to Include
 - Metadata: Use unique strings for id, category, and difficulty to make filtering and sorting easy.
