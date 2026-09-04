@@ -1,0 +1,4 @@
+- [Consumer Behavior](https://britannica.com/topic/consumer-behavior)
+- [QEcon](https://python.quantecon.org/intro.html)
+- [Advanced QEcon](https://python-advanced.quantecon.org/)
+- [Journal of Political Economy](https://www.journals.uchicago.edu/loi/jpe)
