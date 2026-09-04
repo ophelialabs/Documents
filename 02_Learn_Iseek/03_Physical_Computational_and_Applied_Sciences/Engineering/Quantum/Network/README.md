@@ -6,7 +6,7 @@ title: Classical
 
 Next - [Quantum Networking](../Quantum/Network/protocols.md): quantum information, protocols, and network-oriented references
 
-# Network Spectrum & Next-Generation Wireless Systems
+# Network Spectrum & NGS2AS
 
 ## Overview
 
