@@ -30,3 +30,10 @@ toc:
           - title: setup-1
             children:
               - pattern: ../content/enterprise/*.md
+
+      - title: Engineering
+        children:
+          - title: Network
+            children:
+              - file: ../02_Learn_Iseek/03_Physical_Computational_and_Applied_Sciences/Engineering/Network/README.md
+              - file: ../02_Learn_Iseek/03_Physical_Computational_and_Applied_Sciences/Engineering/Quantum/Network/protocols.md
