@@ -20,6 +20,9 @@ SyGlass and the table. It wasn't an avatar. How I reacted (What is this?) and wh
 # Seeing Things
 - If it looks and smells like it, then...
 - Whatever it is with **Salesforce** that gave **Shareholder** access during the backend transition period with Wal-Mart (eg... Shipt, Uber, Third Party Delivery (Last Mile), otherwise how do I know about [servicenow kb](https://support.servicenow.com/kb?id=kb_home) / [Sponsorship](https://share.google/aimode/wxE8Z3jhnt8B254Pi) and how you can benefit company?... **Thats not on me**
+  - Domain-Based Auto-Provisioning: [1] (https://www.valencesecurity.com/resources/blogs/salesforce-experience-cloud-active-data-theft-campaign)
+  - The Flaw: If a SaaS platform (like Salesforce) or an identity provider is configured to say, "Anyone with an @company.email address automatically gets administrative or high-level access," it creates a massive loophole.
+  - The Result: An unverified user with a basic, unprivileged email account (Un@company.email) suddenly inherits blanket company permissions. This completely bypasses the isolation that a container was supposed to provide. [1] (https://www.cybersecuritydive.com/news/supply-chain-attacks-privileged-access-cloud/594206/), [2] (https://www.valencesecurity.com/resources/blogs/salesforce-experience-cloud-active-data-theft-campaign)
 - **Explicitly** provided instructions to join [confluence/jira](https://www.atlassian.com/)
   - So cant be hacking
   - Him: "Doesn't even know how to build, it will take at least 9 months to cover gaps"
