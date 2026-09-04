@@ -778,3 +778,9 @@ The future wireless ecosystem will be **heterogeneous, intelligent, and spectrum
 **Last Updated:** 2026-08-26  
 **Document Status:** Comprehensive Reference Guide  
 **Audience:** Network Engineers, Spectrum Managers, 6G Researchers
+
+:::{button} Next: Quantum Network Protocols
+:class: sd-rounded-pill float-right
+:url: ../Quantum/Network/protocols.md
+:::
+
