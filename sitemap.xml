@@ -170,9 +170,6 @@
     <loc>http://localhost:3000/readme-24</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/readme-25</loc>
-  </url>
-  <url>
     <loc>http://localhost:3000/index-3</loc>
   </url>
   <url>
@@ -189,6 +186,9 @@
   </url>
   <url>
     <loc>http://localhost:3000/protocols</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/readme-25</loc>
   </url>
   <url>
     <loc>http://localhost:3000/index-6</loc>
