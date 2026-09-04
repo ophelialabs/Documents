@@ -88,11 +88,10 @@ Customer Applications & Services
 
 ---
 
-## 6G RIS: Reconfigurable Intelligent Surfaces
+## 6G RIS: [Reconfigurable Intelligent Surfaces](https://www.rohde-schwarz.com/us/solutions/wireless-communications-testing/wireless-standards/6g/reconfigurable-intelligent-surfaces-ris/reconfigurable-intelligent-surfaces-ris_257043.html)
 
 ### Overview
-
-[6G Reconfigurable Intelligent Surfaces (RIS)](https://www.rohde-schwarz.com/us/solutions/wireless-communications-testing/wireless-standards/6g/reconfigurable-intelligent-surfaces-ris/reconfigurable-intelligent-surfaces-ris_257043.html), also called **Intelligent Reflecting Surfaces (IRS)**, represent a paradigm shift in wireless communications. [RIS](https://www.rohde-schwarz.com/us/solutions/wireless-communications-testing/wireless-standards/6g/reconfigurable-intelligent-surfaces-ris/reconfigurable-intelligent-surfaces-ris_257043.html) are **Programmable metasurfaces** ([1](https://share.google/5TRsJZBxrHHvbavMD), [2](https://www.science.org/doi/10.1126/sciadv.adx4359)) that dynamically manipulate electromagnetic waves (amplitude, phase, direction) to optimize signal propagation.
+Also called **Intelligent Reflecting Surfaces (IRS)**, represent a paradigm shift in wireless communications. [RIS](https://www.rohde-schwarz.com/us/solutions/wireless-communications-testing/wireless-standards/6g/reconfigurable-intelligent-surfaces-ris/reconfigurable-intelligent-surfaces-ris_257043.html) are **Programmable metasurfaces** ([1](https://share.google/5TRsJZBxrHHvbavMD), [2](https://www.science.org/doi/10.1126/sciadv.adx4359)) that dynamically manipulate electromagnetic waves (amplitude, phase, direction) to optimize signal propagation.
 
 **See Also:** [Wikipedia - 6G](https://en.wikipedia.org/wiki/6G), [Wikipedia - Metasurface](https://en.wikipedia.org/wiki/Metasurface), [Wikipedia - Beamforming](https://en.wikipedia.org/wiki/Beamforming)
 
