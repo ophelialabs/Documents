@@ -29,11 +29,11 @@ This documentation details the interconnected relationships between **0G/SIGFOX*
 
 ---
 
-## 0G Technology: SIGFOX
+## 0G Technology: [SIGFOX](https://sigfox.com)
 
 ### Overview
 
-**0G (Zero-Generation)** or **Ultra-Narrowband (UNB)** refers to the first generation of sub-GHz IoT wireless technologies that preceded 5G and 6G. **SIGFOX** is the most prominent 0G technology platform, providing long-range, low-power wireless connectivity for IoT devices.
+**0G (Zero-Generation)** or **Ultra-Narrowband (UNB)** refers to the first generation of sub-GHz IoT wireless technologies that preceded 5G and 6G. [SIGFOX](https://sigfox.com) is the most prominent 0G technology platform, providing long-range, low-power wireless connectivity for IoT devices.
 
 ### Technical Characteristics
 
@@ -47,7 +47,7 @@ This documentation details the interconnected relationships between **0G/SIGFOX*
 | **Latency** | Non-real-time (10-24 hour message delivery SLA) |
 | **Architecture** | Star topology, Base Station → Backend Network |
 
-### SIGFOX Network Architecture
+### [SIGFOX](https://sigfox.com) Network Architecture
 
 ```
 IoT Devices
