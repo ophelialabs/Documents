@@ -1,7 +1,5 @@
 ---
 title: NESD
-youtube_videos:yop
-  no_metal: Mluo2cdsEEk
 ---
 
 What? Your Neat decisions deciding on a "negative"
