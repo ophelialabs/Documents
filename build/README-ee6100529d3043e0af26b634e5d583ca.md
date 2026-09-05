@@ -2,6 +2,11 @@
 title: NESD
 ---
 
+## CRUSH YOUR ENEMY TOTALLY
+All great leaders since Moses have known that a feared enemy must be crushed completely. (Sometimes they
+have learned this the hard way.) If one ember is left alight, no matter how dimly it smolders, a
+fire will eventually break out. More is lost through stopping halfway than through total annihilation: The enemy will recover, and will seek revenge. Crush him, not only in body but in spirit.
+
 The teams funded under the NESD umbrella—such as UC Berkeley, Brown University, and Columbia University—were assigned very specific, hardwired anatomical tasks:
 - **The Visual Cortex Teams (Columbia and Berkeley)**: They use the 1,000,000-channel interface to record how the eyes see images, then use the 100,000 write-channels to flash matrix-like grids of light directly into the visual brain.
 - **The Auditory Cortex Team (Brown)**: They use a network of micro-sensors called "neurograins" to decode the tiny vocalizations of speech. [VnK Patent](https://patents.google.com/patent/US6587729B2/en)
