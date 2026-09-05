@@ -15,7 +15,7 @@ SyGlass and the table. It wasn't an avatar. How I reacted (What is this?) and wh
 
 ### STRIKE THE SHEPHERD
 Trouble can often be traced to a single strong individual——the stirrer, the arrogant underling, the poisoner of
-goodwill. you allow such people room to operate, others will succumb to their influence. Do not wait for the
+goodwill. If you allow such people room to operate, others will succumb to their influence. Do not wait for the
 troubles they cause to multiply, do not try to negotiate with them—they are irredeemable. Neutralize their influence by isolating or banishing them. Strike at the source of the trouble and the sheep will scatter.
 
 - The Playbook: [Silent Wars](https://archive.org/details/SilentWeaponsForQuietWarsOriginalDocumentCopy/page/n1/mode/1up) | [48 Laws of Power](https://irp-cdn.multiscreensite.com/cb9165b2/files/uploaded/The+48+Laws+Of+Power.pdf)
