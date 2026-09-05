@@ -13,7 +13,7 @@ This section is the engineering hub for communications networks, radio spectrum,
 
 The detailed spectrum and wireless systems documentation below remains the primary technical resource for this area.
 
-### DISARM AND INFURIATE WITH THE MIRROR EFFECT
+### MIRROR EFFECT
 The mirror reflects reality, but it is also the perfect tool for deception: When you mirror your enemies, doing exactly as they do, they cannot figure out your strategy. The Mirror Effect mocks and humiliates them, making
 them overreact. By holding up a mirror to their psyches, you seduce them with the illusion that you share their
 values; by holding up a mirror to their actions, you teach them a lesson. Few can resist the power of the Mirror
