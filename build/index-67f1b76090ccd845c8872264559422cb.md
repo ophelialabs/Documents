@@ -14,6 +14,7 @@ SyGlass and the table. It wasn't an avatar. How I reacted (What is this?) and wh
 <div><iframe width="560" height="315" src="https://www.youtube.com/embed/Mluo2cdsEEk?si=s2RlOiFsgUd0jHdf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 STRIKE THE SHEPHERD AND THE SHEEP WILL SCATTER
+
 Trouble can often be traced to a single strong indi-oidual——the stirrer, the arrogant underling, the poisoner of
 goodwill. you allow such people room to operate, others will succumb to their influence. Do not wait for the
 troubles they cause to multiply, do not try to negotiate with them—they are irredeemable. Neutralize their influence by isolating or banishing them. Strike at the source of the trouble and the sheep will scatter.
