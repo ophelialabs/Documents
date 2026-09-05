@@ -4,8 +4,6 @@ youtube_videos:yop
   no_metal: Mluo2cdsEEk
 ---
 
-**I said as `lowercase judges`. No "back-peddling" now.** 
-
 What? Your Neat decisions deciding on a "negative"
 
 The teams funded under the NESD umbrella—such as UC Berkeley, Brown University, and Columbia University—were assigned very specific, hardwired anatomical tasks:
