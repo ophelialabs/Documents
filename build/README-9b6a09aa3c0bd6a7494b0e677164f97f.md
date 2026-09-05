@@ -4,7 +4,7 @@ youtube_videos:
   no_metal: Mluo2cdsEEk
 ---
 
-**I said as `lowercase judges`. No back-tracking now."
+**I said as `lowercase judges`. No "back-tracking now."**
 
 The teams funded under the NESD umbrella—such as UC Berkeley, Brown University, and Columbia University—were assigned very specific, hardwired anatomical tasks:
 - **The Visual Cortex Teams (Columbia and Berkeley)**: They use the 1,000,000-channel interface to record how the eyes see images, then use the 100,000 write-channels to flash matrix-like grids of light directly into the visual brain.
