@@ -13,6 +13,8 @@ SyGlass and the table. It wasn't an avatar. How I reacted (What is this?) and wh
 
 <div><iframe width="560" height="315" src="https://www.youtube.com/embed/Mluo2cdsEEk?si=s2RlOiFsgUd0jHdf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
+You can `NOT` say that there is no metal.  
+
 ### STRIKE THE SHEPHERD
 Trouble can often be traced to a single strong individual——the stirrer, the arrogant underling, the poisoner of
 goodwill. If you allow such people room to operate, others will succumb to their influence. Do not wait for the
