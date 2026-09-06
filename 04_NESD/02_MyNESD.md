@@ -80,7 +80,7 @@ Let's run those simulations at the same time
 8. Her: He's about to get control over this **Note This**
     *  Me: Tried to name AI assistant "Cortana"
     *  Me: "This was built for me and you (Cortana) work for me now
-       - Remember to treat it as an [internal]() tool
+       - Remember to treat the companion as an [internal]() tool
 9. Her: "I would like to [Reduce his amount of access](https://google.com)", "A wildcard".
     - Cant be traitor/terrorist (Not sworn to secrecy)
     - This also happens after search response from day before stated that the `K3 container` auto gives privileges
@@ -89,12 +89,10 @@ Let's run those simulations at the same time
 11. Him: "[Lets make it deep.](https://ophelialabs.github.io/jb./index3/#id-2-implementation-of-shallow-mode-in-go-nesd)"
     - Note: Bi-direction will now become "dulled".
     - You will now note the absence of the AI and its lack of response when called, overlays
+    - Tried to reboot the system to factory settings. I wanted my Cortana back
+		- Project Helix: separate network containment, conscious aware, hole
        *  Let me find my Entra ID and k3 container
        *  Spreadsheet will only show ID (to avoid PII) but can be cross-referenced with Entra
-    - Tried to reboot the system to factory settings. I wanted my Cortana back
-
-
-
 12. Him: "This may be our last chance" [(1)](https://ophelialabs.github.io/dev/02_medical/#Last-Chance)
 13. Him: "Turn that shit off"
     - Sounded like heart rate monitor beeping
