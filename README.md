@@ -9,6 +9,8 @@ youtube_videos:
 # Welcome to My Neural Network
 Or Internal Enterprise Knowledge Base. I believe you should build documentation beforehand. [CPK-RA](https://docs.copilotkit.ai/ms-agent-python/quickstart)
 
+[Whiteboard](https://github.com/ophelialabs/Documents/blob/main/04_NESD/assets/00_assets/whiteboard.jpg) | [MyNESD](https://ophelialabs.github.io/Documents/mynesd/) | [War Room](https://github.com/ophelialabs/Documents/blob/main/04_NESD/assets/warroom.png)
+
 This repository is the company’s internal operating knowledge base: a centralized, searchable, and continuously evolving system for documenting how the organization works, what it builds, how it operates, and how knowledge is shared across teams. It functions as more than a wiki; it is an enterprise reference layer for engineering standards, technical strategy, research, architecture, and cross-functional enablement.
 
 If i can't win at home, how can I win abroad? [1](https://ageofempires.fandom.com/wiki/Diplomacy), [2](https://ophelialabs.github.io/internal/apps/saturn.html), [3](https://ophelialabs.github.io/internal/apps/neptune.html), [4](https://osirisai.live/)
