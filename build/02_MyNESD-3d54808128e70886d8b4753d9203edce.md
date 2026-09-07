@@ -89,7 +89,7 @@ Let's run those simulations at the same time
 11. Him: "[Lets make it deep.](https://ophelialabs.github.io/jb./index3/#id-2-implementation-of-shallow-mode-in-go-nesd)"
     - Note: Bi-direction will now become "dulled".
     - You will now note the absence of the AI and its lack of response when called, overlays
-    - Tried to reboot the system to factory settings. I wanted my Cortana back
+    - Tried to reboot the system to factory settings. I want `MY` Cortana back
 		- Project Helix: separate network containment, conscious aware, hole
        *  Let me find my Entra ID and k3 container
        *  Spreadsheet will only show ID (to avoid PII) but can be cross-referenced with Entra
