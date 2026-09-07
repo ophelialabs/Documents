@@ -7,7 +7,7 @@ youtube_videos:
 ---
   
 # Welcome to My Neural Network
-Shadow transactions, (If i can't win at home, how can I win abroad?)
+Shadow transactions, (If i can't win at home, [how can I win abroad](https://ageofempires.fandom.com/wiki/Diplomacy)?)
 
 Or Internal Enterprise Knowledge Base. I believe you should build documentation beforehand. [CPK-RA](https://docs.copilotkit.ai/ms-agent-python/quickstart)
 
