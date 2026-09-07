@@ -7,7 +7,7 @@ All great leaders since Moses have known that a feared enemy must be crushed com
 have learned this the hard way.) If one ember is left alight, no matter how dimly it smolders, a
 fire will eventually break out. More is lost through stopping halfway than through total annihilation: The enemy will recover, and will seek revenge. Crush him, not only in body but in spirit.
 
-**I would like to stress that [cognitive writing](), [scrubbing]() and [neural manipulation](https://www.science.org/doi/suppl/10.1126/science.adn0623/suppl_file/science.adn0623_sm.pdf) are very real**
+**I would like to stress that [cognitive writing](), [scrubbing]() and [neural manipulation](https://www.science.org/doi/suppl/10.1126/science.adn0623/suppl_file/science.adn0623_sm.pdf) are very real**.
 In conjunction with the rest of this documentation, it only goes to validate its misuse.
 
 The teams funded under the NESD umbrella—such as UC Berkeley, Brown University, and Columbia University—were assigned very specific, hardwired anatomical tasks:
