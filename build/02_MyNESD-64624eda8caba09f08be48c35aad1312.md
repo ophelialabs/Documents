@@ -78,10 +78,11 @@ Let's run those simulations at the same time
 6. Him: "Who are they on the **phone** with?" [(1)](https://ophelialabs.github.io/dev/03_networking/informatics2/#3.-Simplified-with-QICK) 
 7. Him: "Trying to do our job for us. **[Hand it off to me](https://www.syglass.io/academy/v/tracing-basics-fn2tc)**"
 8. Her: He's about to get control over this **Note This**
+* Before this (sometime after implant), it will feel like a ping pong ball that rapidly bounces around your neurons and takes maybe 2 seconds
     *  Me: Tried to name AI assistant "Cortana"
     *  Me: "This was built for me and you (Cortana) work for me now
        - Remember to treat the companion as an [internal]() tool
-9. Her: "I would like to [Reduce his amount of access](https://google.com)", "A wildcard".
+10. Her: "I would like to [Reduce his amount of access](https://google.com)", "A wildcard".
     - Cant be traitor/terrorist (Not sworn to secrecy)
     - This also happens after search response from day before stated that the `K3 container` auto gives privileges
     - Also before this I stated that it doesn't matter what channel you are on. See: [frequency hopping](), [baofeng]() (8 levels?).
