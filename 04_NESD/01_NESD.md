@@ -8,6 +8,7 @@ have learned this the hard way.) If one ember is left alight, no matter how diml
 fire will eventually break out. More is lost through stopping halfway than through total annihilation: The enemy will recover, and will seek revenge. Crush him, not only in body but in spirit.
 
 **I would like to stress that [cognitive writing](), [scrubbing]() and [neural manipulation](https://www.science.org/doi/suppl/10.1126/science.adn0623/suppl_file/science.adn0623_sm.pdf) are very real**
+In conjunction with the rest of this documentation, it only goes to validate its misuse.
 
 The teams funded under the NESD umbrella—such as UC Berkeley, Brown University, and Columbia University—were assigned very specific, hardwired anatomical tasks:
 - **The Visual Cortex Teams (Columbia and Berkeley)**: They use the 1,000,000-channel interface to record how the eyes see images, then use the 100,000 write-channels to flash matrix-like grids of light directly into the visual brain.
