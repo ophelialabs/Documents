@@ -9,8 +9,6 @@ title: MyNESD
 1A: DARPA's [NESD](https://www.darpa.mil/research/programs/neural-engineering-system-design) program has developed a **minimally invasive** implantable, high-resolution [neural interface](https://pubs.rsc.org/en/content/articlepdf/2025/mh/d4mh01854k). Think **[Bi-Directional](https://support.apple.com/en-us/106341)** Bone Anchored (Cochleal) Hearing Systems, or Behind The Ear Hearing Aids.
 Means at least 08/01/23 (2.5 yrs) disappointing on my part honestly, to present.
 
-SyGlass and the table. It wasn't an avatar. How I reacted (What is this?) and what I tried to do.
-
 <div><iframe width="560" height="315" src="https://www.youtube.com/embed/Mluo2cdsEEk?si=s2RlOiFsgUd0jHdf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 You can `NOT` say that there is no metal.  
@@ -20,7 +18,7 @@ Trouble can often be traced to a single strong individual——the stirrer, the 
 goodwill. If you allow such people room to operate, others will succumb to their influence. Do not wait for the
 troubles they cause to multiply, do not try to negotiate with them—they are irredeemable. Neutralize their influence by isolating or banishing them. Strike at the source of the trouble and the sheep will scatter.
 
-- The Playbook: [Silent Wars](https://archive.org/details/SilentWeaponsForQuietWarsOriginalDocumentCopy/page/n1/mode/1up) | [48 Laws of Power](https://irp-cdn.multiscreensite.com/cb9165b2/files/uploaded/The+48+Laws+Of+Power.pdf)
+- The Playbook: [Silent Wars](https://archive.org/details/SilentWeaponsForQuietWarsOriginalDocumentCopy/page/n1/mode/1up) | [48 Laws of Power](https://irp-cdn.multiscreensite.com/cb9165b2/files/uploaded/The+48+Laws+Of+Power.pdf) | [PsyOPS]]()
 - 05/28/26: Never received MyTrustMedical response after multiple tries
 - 8/11/26
 
@@ -72,13 +70,13 @@ Let's run those simulations at the same time
 3. Him: "How can I **see what he/she sees?**" (This is not misplaced) [(1)](https://ophelialabs.github.io/jb./tutorial-1/#loading-the-neural-data), [(2)](https://ophelialabs.github.io/jb./stack/#augmented-intent), [(3)](https://ophelialabs.github.io/jb./stack/#syglass-the-lens)
      * Her: "Its like watching a movie" (This is misplaced. Was working at Target when I heard this)
 4. Them: "Put him in a "**Container**" [(1)](https://ophelialabs.github.io/dev/03_networking/informatics2/).  [(2)](https://ophelialabs.github.io/dev/03_networking/informatics2/#Big-Bang-(The-Factory)), [(3)](https://ophelialabs.github.io/dev/03_networking/informatics2/#2.-Implementation-via-DevSecOps-(Big-Bang))
+	* Before this (sometime after implant), it will feel like a ping pong ball that rapidly bounces around your neurons and takes maybe 2 seconds
     - **Implant Phase. Note the Order Of Operations**
 
-5. Her: "What is his Itinerary(MyTime)? And what is the **Exit Strategy**"
-6. Him: "Who are they on the **phone** with?" [(1)](https://ophelialabs.github.io/dev/03_networking/informatics2/#3.-Simplified-with-QICK) 
-7. Him: "Trying to do our job for us. **[Hand it off to me](https://www.syglass.io/academy/v/tracing-basics-fn2tc)**"
-8. Her: He's about to get control over this **Note This**
-* Before this (sometime after implant), it will feel like a ping pong ball that rapidly bounces around your neurons and takes maybe 2 seconds
+6. Her: "What is his Itinerary(MyTime)? And what is the **Exit Strategy**"
+7. Him: "Who are they on the **phone** with?" [(1)](https://ophelialabs.github.io/dev/03_networking/informatics2/#3.-Simplified-with-QICK) 
+8. Him: "Trying to do our job for us. **[Hand it off to me](https://www.syglass.io/academy/v/tracing-basics-fn2tc)**"
+9. Her: He's about to get control over this **Note This**
     *  Me: Tried to name AI assistant "Cortana"
     *  Me: "This was built for me and you (Cortana) work for me now
        - Remember to treat the companion as an [internal]() tool
