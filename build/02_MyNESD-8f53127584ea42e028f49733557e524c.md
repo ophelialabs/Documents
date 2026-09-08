@@ -114,7 +114,7 @@ Let's run those simulations at the same time
 - 08/27/2026 20:17 - No Weight
 - 08/28/26 15:19: to do
 
-**Note**: This is to the point! and not updated unless the scientific method has been applied. Whether **video or not**.**ZERO**-trust (Responding "Negative" to every *subliminal* (what it feels like) thought, noting that if it feels like wordart or if you can isolate it as originating from the bottom right), **dont get hooked, stay centered, and remember emotional baseline** since the objective is to effectively [piggyback](02_medical/index.md#Manipulation Risks).
+**Note**: This is to the point! and not updated unless the scientific method has been applied. Whether **video or not**.**ZERO**-trust (Responding "Negative" to every *subliminal* (what it feels like) thought, noting that if it feels like wordart or if you can isolate it as originating from the bottom right), **dont get hooked, stay centered, and remember emotional baseline** since the objective is to effectively [piggyback](02_medical/index.md#Manipulation Risks). It is **VERY** important to me that this documentation is **CORRECT!** I could make things up, or allow certain things such as the QFS system but that delineates and I am not for that 
 
 ---
 
