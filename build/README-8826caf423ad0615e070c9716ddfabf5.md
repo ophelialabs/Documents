@@ -51,7 +51,7 @@ The content in this repository spans the full enterprise landscape, including:
 
 The purpose of this knowledge base is to create a single source of truth for employees, partners, and stakeholders who need context on the company’s systems, initiatives, and operating model. It captures the decisions, assumptions, processes, technical patterns, and domain knowledge that keep the organization aligned and capable of executing at scale.
 
-## Strategic Objective
+## Objective
 
 A major current objective is to create an interactive, visually intuitive enterprise mapping model that represents organizational and technical structures as a connected system of bubbles and categories. The concept is to model internal domains as layered clusters, where a central concept expands into related cloud domains, categories, and subcategories.
 
