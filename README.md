@@ -67,6 +67,8 @@ This visualization is intended to enable:
 
 This knowledge base is meant to preserve the larger enterprise perspective. It is easy for teams to focus on local tasks, immediate project needs, or isolated implementation details. This repository exists to connect those details back to the bigger picture: how work fits into the organization’s strategy, platforms, systems, and long-term capability model.
 
+## Entra ID
+
 ## Power Pages
 
 The internal knowledge model includes quick-access hubs for the most important teams, functions, and member pages. These “power pages” are intended to surface the highest-value references for leadership, operations, engineering, research, and enterprise support.
