@@ -5,11 +5,19 @@ youtube_videos:
   alice_bob: IWGOpuca7cs
   amy_neo: _F5PzgQxu9Y
 ---
-  
-# Internal Enterprise Knowledge Base
-Or Internal Enterprise Knowledge Base. I believe you should build documentation beforehand. [CPK-RA](https://docs.copilotkit.ai/ms-agent-python/quickstart). This repository is a collaborative enterprise asset. It is not static documentation; it is a living system that should be improved continuously by the people who use it. Participation is encouraged across engineering, operations, research, and leadership teams to ensure knowledge remains accurate and broadly useful.
 
+# Welcome to My Neural Network
+If i can't win at home, how can I win abroad? [1](https://ageofempires.fandom.com/wiki/Diplomacy), [2](https://ophelialabs.github.io/internal/apps/saturn.html), [3](https://ophelialabs.github.io/internal/apps/neptune.html), [4](https://osirisai.live/)
+
+## MIRROR EFFECT
+The mirror reflects reality, but it is also the perfect tool for deception: When you mirror your enemies, doing exactly as they do, they cannot figure out your strategy. The Mirror Effect mocks and humiliates them, making
+them overreact. By holding up a mirror to their psyches, you seduce them with the illusion that you share their
+values; by holding up a mirror to their actions, you teach them a lesson. Few can resist the power of the Mirror Effect
+
+# Internal Enterprise Knowledge Base
 [Whiteboard](https://github.com/ophelialabs/Documents/blob/main/04_NESD/assets/00_assets/whiteboard.jpg) | [MyNESD](https://ophelialabs.github.io/Documents/mynesd/) | [War Room](https://github.com/ophelialabs/Documents/blob/main/04_NESD/assets/warroom.png)
+
+I believe you should build documentation beforehand. [CPK-RA](https://docs.copilotkit.ai/ms-agent-python/quickstart). This repository is a collaborative enterprise asset. It is not static documentation; it is a living system that should be improved continuously by the people who use it. Participation is encouraged across engineering, operations, research, and leadership teams to ensure knowledge remains accurate and broadly useful.
 
 This repository is the company’s internal operating knowledge base: a centralized, searchable, and continuously evolving system for documenting how the organization works, what it builds, how it operates, and how knowledge is shared across teams. It functions as more than a wiki; it is an enterprise reference layer for engineering standards, technical strategy, research, architecture, and cross-functional enablement. This wiki is designed to reduce knowledge fragmentation. In a growing enterprise, important information often lives in scattered files, team-specific documentation, personal notes, or tribal knowledge. This repository consolidates those materials into a structured environment that supports reuse, searchability, and continuity.
 
@@ -53,15 +61,7 @@ This visualization is intended to enable:
 
 The target behavior mirrors the idea of a strategic landscape: **a central ecosystem with surrounding clusters representing subdomains, platforms, tools, and functions**. This makes it easier to navigate complexity without losing structural clarity.
 
-# Welcome to My Neural Network
-If i can't win at home, how can I win abroad? [1](https://ageofempires.fandom.com/wiki/Diplomacy), [2](https://ophelialabs.github.io/internal/apps/saturn.html), [3](https://ophelialabs.github.io/internal/apps/neptune.html), [4](https://osirisai.live/)
-
-## MIRROR EFFECT
-The mirror reflects reality, but it is also the perfect tool for deception: When you mirror your enemies, doing exactly as they do, they cannot figure out your strategy. The Mirror Effect mocks and humiliates them, making
-them overreact. By holding up a mirror to their psyches, you seduce them with the illusion that you share their
-values; by holding up a mirror to their actions, you teach them a lesson. Few can resist the power of the Mirror Effect
-
-## “Don’t Miss the Forest for the Trees”
+# “Don’t Miss the Forest for the Trees”
 
 This knowledge base is meant to preserve the larger enterprise perspective. It is easy for teams to focus on local tasks, immediate project needs, or isolated implementation details. This repository exists to connect those details back to the bigger picture: how work fits into the organization’s strategy, platforms, systems, and long-term capability model.
 
@@ -69,6 +69,6 @@ This knowledge base is meant to preserve the larger enterprise perspective. It i
 
 The internal knowledge model includes quick-access hubs for the most important teams, functions, and member pages. These “power pages” are intended to surface the highest-value references for leadership, operations, engineering, research, and enterprise support.
 
-# License
+## License
 
 This project is provided as-is for enterprise architecture planning, deployment guidance, and internal knowledge management.
