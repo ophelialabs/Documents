@@ -16,6 +16,8 @@ values; by holding up a mirror to their actions, you teach them a lesson. Few ca
 
 The target behavior mirrors the idea of a strategic landscape: **a central ecosystem with surrounding clusters representing private clouds, subdomains, platforms, tools, and functions**. This makes it easier to navigate complexity without losing structural clarity.
 
+## Executive Decisions
+
 # Internal Enterprise Knowledge Base
 [Whiteboard](https://github.com/ophelialabs/Documents/blob/main/04_NESD/assets/00_assets/whiteboard.jpg) | [MyNESD](https://ophelialabs.github.io/Documents/mynesd/) | [War Room](https://github.com/ophelialabs/Documents/blob/main/04_NESD/assets/warroom.png)
 
