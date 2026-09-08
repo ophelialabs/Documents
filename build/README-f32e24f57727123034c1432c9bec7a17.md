@@ -10,7 +10,7 @@ youtube_videos:
 If i can't win at home, how can I win abroad? [1](https://ageofempires.fandom.com/wiki/Diplomacy), [2](https://ophelialabs.github.io/internal/apps/saturn.html), [3](https://ophelialabs.github.io/internal/apps/neptune.html), [4](https://osirisai.live/)
 
 ## My Mission Statement
-I will not make false claims. 
+**I will not make false claims.**
 
 I will make myself look better, without putting others down. I will lift others up and put them on a trajectory, **EVEN** if it is above my own.
 
