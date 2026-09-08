@@ -6,24 +6,18 @@ youtube_videos:
   amy_neo: _F5PzgQxu9Y
 ---
   
-# Welcome to My Neural Network
-Or Internal Enterprise Knowledge Base. I believe you should build documentation beforehand. [CPK-RA](https://docs.copilotkit.ai/ms-agent-python/quickstart)
+# Internal Enterprise Knowledge Base
+Or Internal Enterprise Knowledge Base. I believe you should build documentation beforehand. [CPK-RA](https://docs.copilotkit.ai/ms-agent-python/quickstart). This repository is a collaborative enterprise asset. It is not static documentation; it is a living system that should be improved continuously by the people who use it. Participation is encouraged across engineering, operations, research, and leadership teams to ensure knowledge remains accurate and broadly useful.
 
 [Whiteboard](https://github.com/ophelialabs/Documents/blob/main/04_NESD/assets/00_assets/whiteboard.jpg) | [MyNESD](https://ophelialabs.github.io/Documents/mynesd/) | [War Room](https://github.com/ophelialabs/Documents/blob/main/04_NESD/assets/warroom.png)
 
-This repository is the company’s internal operating knowledge base: a centralized, searchable, and continuously evolving system for documenting how the organization works, what it builds, how it operates, and how knowledge is shared across teams. It functions as more than a wiki; it is an enterprise reference layer for engineering standards, technical strategy, research, architecture, and cross-functional enablement.
-
-If i can't win at home, how can I win abroad? [1](https://ageofempires.fandom.com/wiki/Diplomacy), [2](https://ophelialabs.github.io/internal/apps/saturn.html), [3](https://ophelialabs.github.io/internal/apps/neptune.html), [4](https://osirisai.live/)
-
-## MIRROR EFFECT
-The mirror reflects reality, but it is also the perfect tool for deception: When you mirror your enemies, doing exactly as they do, they cannot figure out your strategy. The Mirror Effect mocks and humiliates them, making
-them overreact. By holding up a mirror to their psyches, you seduce them with the illusion that you share their
-values; by holding up a mirror to their actions, you teach them a lesson. Few can resist the power of the Mirror Effect
+This repository is the company’s internal operating knowledge base: a centralized, searchable, and continuously evolving system for documenting how the organization works, what it builds, how it operates, and how knowledge is shared across teams. It functions as more than a wiki; it is an enterprise reference layer for engineering standards, technical strategy, research, architecture, and cross-functional enablement. This wiki is designed to reduce knowledge fragmentation. In a growing enterprise, important information often lives in scattered files, team-specific documentation, personal notes, or tribal knowledge. This repository consolidates those materials into a structured environment that supports reuse, searchability, and continuity.
 
 ## Mission
 
 The purpose of this knowledge base is to create a single source of truth for employees, partners, and stakeholders who need context on the company’s systems, initiatives, and operating model. It captures the decisions, assumptions, processes, technical patterns, and domain knowledge that keep the organization aligned and capable of executing at scale.
 
+## Scope
 This system is intended to support:
 
 - Internal onboarding and knowledge transfer
@@ -33,8 +27,6 @@ This system is intended to support:
 - Cross-team coordination and decision tracking
 - Institutional memory for projects, systems, and standards
 - Reusable guidance for implementation and deployment
-
-## Scope
 
 The content in this repository spans the full enterprise landscape, including:
 
@@ -46,36 +38,6 @@ The content in this repository spans the full enterprise landscape, including:
 - Data, AI, and analytics patterns
 - Internal team structures, capabilities, and stakeholder context
 - Deployment, implementation, and operations guidance
-
-## Internal Value
-
-This wiki is designed to reduce knowledge fragmentation. In a growing enterprise, important information often lives in scattered files, team-specific documentation, personal notes, or tribal knowledge. This repository consolidates those materials into a structured environment that supports reuse, searchability, and continuity.
-
-It is especially valuable for:
-
-- New employees learning the organization and its systems
-- Technical leaders evaluating architecture and standards
-- Teams needing consistent references for deployment and execution
-- Engineers seeking prior work, design patterns, and operational context
-- Decision-makers mapping business, technology, and domain alignment
-
-## Documentation Standards
-
-The repository supports a lightweight but disciplined documentation model:
-
-- General Markdown for broad enterprise content
-- Julia-focused documentation for technical and scientific workflows where precision matters
-- MyST-based authoring for research papers, documentation ecosystems, and structured web publishing
-
-The goal is to make documentation readable, maintainable, and reusable without creating excessive process overhead.
-
-## “Don’t Miss the Forest for the Trees”
-
-This knowledge base is meant to preserve the larger enterprise perspective. It is easy for teams to focus on local tasks, immediate project needs, or isolated implementation details. This repository exists to connect those details back to the bigger picture: how work fits into the organization’s strategy, platforms, systems, and long-term capability model.
-
-## Power Pages
-
-The internal knowledge model includes quick-access hubs for the most important teams, functions, and member pages. These “power pages” are intended to surface the highest-value references for leadership, operations, engineering, research, and enterprise support.
 
 ## Current Strategic Objective
 
@@ -91,29 +53,22 @@ This visualization is intended to enable:
 
 The target behavior mirrors the idea of a strategic landscape: **a central ecosystem with surrounding clusters representing subdomains, platforms, tools, and functions**. This makes it easier to navigate complexity without losing structural clarity.
 
-## Governance and Collaboration
+# Welcome to My Neural Network
+If i can't win at home, how can I win abroad? [1](https://ageofempires.fandom.com/wiki/Diplomacy), [2](https://ophelialabs.github.io/internal/apps/saturn.html), [3](https://ophelialabs.github.io/internal/apps/neptune.html), [4](https://osirisai.live/)
 
-This repository is a collaborative enterprise asset. It is not static documentation; it is a living system that should be improved continuously by the people who use it.
+## MIRROR EFFECT
+The mirror reflects reality, but it is also the perfect tool for deception: When you mirror your enemies, doing exactly as they do, they cannot figure out your strategy. The Mirror Effect mocks and humiliates them, making
+them overreact. By holding up a mirror to their psyches, you seduce them with the illusion that you share their
+values; by holding up a mirror to their actions, you teach them a lesson. Few can resist the power of the Mirror Effect
 
-To contribute effectively:
+## “Don’t Miss the Forest for the Trees”
 
-1. Document the issue, initiative, or knowledge gap clearly
-2. Include examples, use cases, and operational context
-3. Submit pull requests or updates with explanation and rationale
-4. Keep material current so the repository remains useful to the enterprise
+This knowledge base is meant to preserve the larger enterprise perspective. It is easy for teams to focus on local tasks, immediate project needs, or isolated implementation details. This repository exists to connect those details back to the bigger picture: how work fits into the organization’s strategy, platforms, systems, and long-term capability model.
 
-Participation is encouraged across engineering, operations, research, and leadership teams to ensure knowledge remains accurate and broadly useful.
+## Power Pages
 
-## Intended Use
+The internal knowledge model includes quick-access hubs for the most important teams, functions, and member pages. These “power pages” are intended to surface the highest-value references for leadership, operations, engineering, research, and enterprise support.
 
-The content here should be used as a working reference for:
-
-- Enterprise understanding and coordination
-- Technical and project planning
-- Internal standards and best practices
-- Architecture discovery and documentation
-- Training, onboarding, and strategic alignment
-
-## License
+# License
 
 This project is provided as-is for enterprise architecture planning, deployment guidance, and internal knowledge management.
