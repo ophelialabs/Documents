@@ -75,6 +75,6 @@ The internal knowledge model includes quick-access hubs for the most important t
 
 ## Power Automate
 
-## License
+# License
 
 This project is provided as-is for enterprise architecture planning, deployment guidance, and internal knowledge management.
