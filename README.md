@@ -22,7 +22,7 @@ values; by holding up a mirror to their actions, you teach them a lesson. Few ca
 
 ## Mission
 
-The purpose of this knowledge base is to create a single source of truth for employees, partners, and stakeholders who need context on the company’s systems, initiatives, and operating model. It captures the decisions, assumptions, processes, technical patterns, and domain knowledge that keep the organization aligned and capable of executing at scale.
+The purpose of this knowledge base is to create a single source of truth for employees, partners, and stakeholders who need context on the company’s systems, initiatives, and operating model. It captures the decisions, assumptions, processes, technical patterns, and domain knowledge that keep the organization aligned and capable of executing at scale. **Efficient Re-Unification**
 
 This system is intended to support:
 
