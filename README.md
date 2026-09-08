@@ -63,7 +63,7 @@ This visualization is intended to enable:
 - A better way to connect domain knowledge with platform capabilities
 - AI-assisted and worker-integrated knowledge discovery
 
-# “Don’t Miss the Forest for the Trees”
+# Don’t Miss the Forest for the Trees
 
 This knowledge base is meant to preserve the larger enterprise perspective. It is easy for teams to focus on local tasks, immediate project needs, or isolated implementation details. This repository exists to connect those details back to the bigger picture: how work fits into the organization’s strategy, platforms, systems, and long-term capability model.
 
