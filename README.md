@@ -71,6 +71,8 @@ This knowledge base is meant to preserve the larger enterprise perspective. It i
 
 The internal knowledge model includes quick-access hubs for the most important teams, functions, and member pages. These “power pages” are intended to surface the highest-value references for leadership, operations, engineering, research, and enterprise support.
 
+## Power Automate
+
 ## License
 
 This project is provided as-is for enterprise architecture planning, deployment guidance, and internal knowledge management.
