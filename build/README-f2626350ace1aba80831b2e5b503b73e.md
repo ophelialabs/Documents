@@ -13,7 +13,7 @@ If i can't win at home, how can I win abroad? [1](https://ageofempires.fandom.co
 The mirror reflects reality, but it is also the perfect tool for deception: When you mirror your enemies, doing exactly as they do, they cannot figure out your strategy. The Mirror Effect mocks and humiliates them, making them overreact. By holding up a mirror to their psyches, you seduce them with the illusion that you share their values; by holding up a mirror to their actions, you teach them a lesson. Few can resist the power of the Mirror Effect
 
 ## Executive Decisions
-The target behavior mirrors the idea of a strategic landscape: **a central ecosystem** with **Surrounding Clusters** representing **private clouds, subdomains, platforms, tools, and functions**. This makes it easier to navigate complexity without losing structural clarity.
+The target behavior mirrors the idea of a strategic landscape: a `central ecosystem` with `Surrounding Clusters **representing** `private clouds, subdomains, platforms, tools, and functions`. This makes it easier to navigate complexity without losing structural clarity.
 
 ## My Mission Statement
 **I will not make false claims.** I will make myself look better, without putting others down. I will lift others up and put them on a trajectory, **EVEN** if it is above my own.
