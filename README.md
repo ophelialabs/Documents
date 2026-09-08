@@ -14,6 +14,8 @@ The mirror reflects reality, but it is also the perfect tool for deception: When
 them overreact. By holding up a mirror to their psyches, you seduce them with the illusion that you share their
 values; by holding up a mirror to their actions, you teach them a lesson. Few can resist the power of the Mirror Effect
 
+The target behavior mirrors the idea of a strategic landscape: **a central ecosystem with surrounding clusters representing subdomains, platforms, tools, and functions**. This makes it easier to navigate complexity without losing structural clarity.
+
 # Internal Enterprise Knowledge Base
 [Whiteboard](https://github.com/ophelialabs/Documents/blob/main/04_NESD/assets/00_assets/whiteboard.jpg) | [MyNESD](https://ophelialabs.github.io/Documents/mynesd/) | [War Room](https://github.com/ophelialabs/Documents/blob/main/04_NESD/assets/warroom.png)
 
@@ -58,8 +60,6 @@ This visualization is intended to enable:
 - Easy filtering between options, such as database choices across cloud providers and architectures
 - A better way to connect domain knowledge with platform capabilities
 - AI-assisted and worker-integrated knowledge discovery
-
-The target behavior mirrors the idea of a strategic landscape: **a central ecosystem with surrounding clusters representing subdomains, platforms, tools, and functions**. This makes it easier to navigate complexity without losing structural clarity.
 
 # “Don’t Miss the Forest for the Trees”
 
