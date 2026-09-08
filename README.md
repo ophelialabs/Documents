@@ -6,7 +6,7 @@ youtube_videos:
   amy_neo: _F5PzgQxu9Y
 ---
 
-# Welcome to My Neural Network
+# My Neural Network
 If i can't win at home, how can I win abroad? [1](https://ageofempires.fandom.com/wiki/Diplomacy), [2](https://ophelialabs.github.io/internal/apps/saturn.html), [3](https://ophelialabs.github.io/internal/apps/neptune.html), [4](https://osirisai.live/)
 
 ## Mirror Effect
@@ -18,7 +18,7 @@ The target behavior mirrors the idea of a strategic landscape: **a central ecosy
 ## My Mission Statement
 **I will not make false claims.** I will make myself look better, without putting others down. I will lift others up and put them on a trajectory, **EVEN** if it is above my own.
 
-# Internal Enterprise Knowledge Base
+# Enterprise Knowledge Base
 [Whiteboard](https://github.com/ophelialabs/Documents/blob/main/04_NESD/assets/00_assets/whiteboard.jpg) | [MyNESD](https://ophelialabs.github.io/Documents/mynesd/) | [War Room](https://github.com/ophelialabs/Documents/blob/main/04_NESD/assets/warroom.png)
 
 I believe you should build documentation beforehand. [CPK-RA](https://docs.copilotkit.ai/ms-agent-python/quickstart). This repository is a collaborative enterprise asset. It is not static documentation; it is a living system that should be improved continuously by the people who use it. Participation is encouraged across engineering, operations, research, and leadership teams to ensure knowledge remains accurate and broadly useful.
