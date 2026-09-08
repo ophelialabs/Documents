@@ -25,10 +25,6 @@ I believe you should build documentation beforehand. [CPK-RA](https://docs.copil
 
 This repository is the company’s internal operating knowledge base: a centralized, searchable, and continuously evolving system for documenting how the organization works, what it builds, how it operates, and how knowledge is shared across teams. It functions as more than a wiki; it is an enterprise reference layer for engineering standards, technical strategy, research, architecture, and cross-functional enablement. This wiki is designed to reduce knowledge fragmentation. In a growing enterprise, important information often lives in scattered files, team-specific documentation, personal notes, or tribal knowledge. This repository consolidates those materials into a structured environment that supports reuse, searchability, and continuity.
 
-## Mission
-
-The purpose of this knowledge base is to create a single source of truth for employees, partners, and stakeholders who need context on the company’s systems, initiatives, and operating model. It captures the decisions, assumptions, processes, technical patterns, and domain knowledge that keep the organization aligned and capable of executing at scale.
-
 ## Scope
 This system is intended to support:
 
@@ -50,6 +46,10 @@ The content in this repository spans the full enterprise landscape, including:
 - Data, AI, and analytics patterns
 - Internal team structures, capabilities, and stakeholder context
 - Deployment, implementation, and operations guidance
+
+## Mission
+
+The purpose of this knowledge base is to create a single source of truth for employees, partners, and stakeholders who need context on the company’s systems, initiatives, and operating model. It captures the decisions, assumptions, processes, technical patterns, and domain knowledge that keep the organization aligned and capable of executing at scale.
 
 ## Current Strategic Objective
 
