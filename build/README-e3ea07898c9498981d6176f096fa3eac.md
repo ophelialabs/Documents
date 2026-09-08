@@ -9,12 +9,12 @@ youtube_videos:
 # Welcome to My Neural Network
 If i can't win at home, how can I win abroad? [1](https://ageofempires.fandom.com/wiki/Diplomacy), [2](https://ophelialabs.github.io/internal/apps/saturn.html), [3](https://ophelialabs.github.io/internal/apps/neptune.html), [4](https://osirisai.live/)
 
-## MIRROR EFFECT
+## Mirror Effect
 The mirror reflects reality, but it is also the perfect tool for deception: When you mirror your enemies, doing exactly as they do, they cannot figure out your strategy. The Mirror Effect mocks and humiliates them, making
 them overreact. By holding up a mirror to their psyches, you seduce them with the illusion that you share their
 values; by holding up a mirror to their actions, you teach them a lesson. Few can resist the power of the Mirror Effect
 
-The target behavior mirrors the idea of a strategic landscape: **a central ecosystem with surrounding clusters representing subdomains, platforms, tools, and functions**. This makes it easier to navigate complexity without losing structural clarity.
+The target behavior mirrors the idea of a strategic landscape: **a central ecosystem with surrounding clusters representing private clouds, subdomains, platforms, tools, and functions**. This makes it easier to navigate complexity without losing structural clarity.
 
 # Internal Enterprise Knowledge Base
 [Whiteboard](https://github.com/ophelialabs/Documents/blob/main/04_NESD/assets/00_assets/whiteboard.jpg) | [MyNESD](https://ophelialabs.github.io/Documents/mynesd/) | [War Room](https://github.com/ophelialabs/Documents/blob/main/04_NESD/assets/warroom.png)
