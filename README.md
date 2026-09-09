@@ -84,7 +84,46 @@ All identity guidance should identify the responsible owner, required permission
 
 ## Power Pages
 
-The internal knowledge model includes quick-access hubs for the most important teams, functions, and member pages. These “power pages” are intended to surface the highest-value references for leadership, operations, engineering, research, and enterprise support.
+Power Pages is the audience-facing experience for the enterprise knowledge model. It should turn the repository's structured content into clear, role-aware hubs for leadership, operations, engineering, research, and enterprise support without duplicating the source documentation.
+
+Each page or hub should have a defined audience, business purpose, content owner, review date, and canonical links back to the underlying knowledge base. Useful page types include:
+
+- Executive dashboards for strategy, decisions, risks, priorities, and organizational health
+- Team and function hubs for responsibilities, contacts, procedures, systems, and current work
+- Engineering and platform portals for architecture, environments, APIs, deployments, and operational runbooks
+- Research and domain pages for datasets, methods, references, experiments, and active initiatives
+- Service pages for requests, onboarding, approvals, support paths, and frequently used resources
+
+### Information Architecture
+
+Navigation should follow the enterprise model already represented in this repository:
+
+- Organization and governance: corporate structure, business units, subsidiaries, legal, and shared services
+- Technology and infrastructure: foundations, cloud, platforms, development, data, DevOps, and security
+- Programs and domains: research, engineering, robotics, biomedical, aerospace, and other specialized areas
+- People and services: team pages, ownership records, onboarding, support, and recurring operational workflows
+
+Pages should be designed for scanning and action. Use consistent names, short summaries, status or freshness indicators, clear owners, and links to the next useful action. A page should point to one canonical source rather than copying content into multiple hubs.
+
+### Access and Personalization
+
+Use Entra ID groups and application roles to control access to internal, partner, and public content. Apply least privilege and keep sensitive content out of broadly visible pages. Personalization may change navigation and available actions, but it must not replace explicit authorization checks on data and operations.
+
+### Workflow Integration
+
+Use Power Automate for page actions such as intake forms, approvals, notifications, access requests, review reminders, and status updates. Document the trigger, permissions, connector, owner, failure path, and audit record for every workflow exposed through a page. Keep business rules in managed flows or services rather than embedding them only in page scripts.
+
+### Publishing and Governance
+
+Treat each Power Page as a managed product with an accountable owner and a lightweight release process:
+
+- Define the audience, outcome, data classification, and success measure before implementation
+- Build and test changes in a non-production environment before publishing
+- Review navigation, permissions, accessibility, links, and mobile behavior before release
+- Record content ownership, revision history, dependencies, and the next review date
+- Retire pages that no longer have an owner, audience, or supported source
+
+The Power Pages layer should provide orientation and useful actions while the repository remains the durable knowledge and decision record. This separation keeps the experience easy to use without allowing a portal update to become an undocumented change to enterprise policy or architecture.
 
 ## Power Automate
 
