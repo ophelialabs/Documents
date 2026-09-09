@@ -18,6 +18,8 @@ The target behavior mirrors the idea of a strategic landscape: a `central ecosys
 ## My Mission Statement
 **I will not make false claims.** I will make myself look better, without putting others down. I will lift others up and put them on a trajectory, **EVEN** if it is above my own.
 
+I now need to ingest again. It's been 2.5 years. I know whats ahead.
+
 # Enterprise Knowledge Base
 [Whiteboard](https://github.com/ophelialabs/Documents/blob/main/04_NESD/assets/00_assets/whiteboard.jpg) | [MyNESD](https://ophelialabs.github.io/Documents/mynesd/) | [War Room](https://github.com/ophelialabs/Documents/blob/main/04_NESD/assets/warroom.png)
 
