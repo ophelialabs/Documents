@@ -7,7 +7,7 @@ youtube_videos:
 ---
 
 # My Neural Network
-If i can't win at home, how can I win abroad? [1](https://ageofempires.fandom.com/wiki/Diplomacy), [2](https://ophelialabs.github.io/internal/apps/saturn.html), [3](https://ophelialabs.github.io/internal/apps/neptune.html), [4](https://osirisai.live/)
+If i can't win at home, how can I win abroad? [1](https://ageofempires.fandom.com/wiki/Diplomacy), [2](https://ophelialabs.github.io/internal/apps/saturn.html), [3](https://ophelialabs.github.io/internal/apps/neptune.html), [4](https://osirisai.live/). [5](https://www.godseye.world)
 
 ## Mirror Effect
 The mirror reflects reality, but it is also the perfect tool for deception: When you mirror your enemies, doing exactly as they do, they cannot figure out your strategy. The Mirror Effect mocks and humiliates them, making them overreact. By holding up a mirror to their psyches, you seduce them with the illusion that you share their values; by holding up a mirror to their actions, you teach them a lesson. Few can resist the power of the Mirror Effect
