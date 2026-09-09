@@ -69,11 +69,37 @@ This knowledge base is meant to preserve the larger enterprise perspective. It i
 
 ## Entra ID
 
+Entra ID is the identity and access foundation for the enterprise knowledge ecosystem. It provides authentication, authorization, and lifecycle management for employees, partners, applications, services, and automation workflows.
+
+Documentation in this area should capture:
+
+- Tenant structure, verified domains, environments, and identity ownership
+- User, group, and role-based access patterns for teams and shared resources
+- Application registrations, service principals, managed identities, and API permissions
+- Conditional Access, multifactor authentication, privileged access, and security boundaries
+- Joiner, mover, and leaver processes, including access reviews and credential rotation
+- Integration patterns for Microsoft 365, Azure resources, Power Pages, Power Automate, and internal applications
+
+All identity guidance should identify the responsible owner, required permissions, approval path, and operational recovery procedure. Secrets and personal data must not be stored in this repository; documentation should reference the approved secret-management and audit systems instead.
+
 ## Power Pages
 
 The internal knowledge model includes quick-access hubs for the most important teams, functions, and member pages. These “power pages” are intended to surface the highest-value references for leadership, operations, engineering, research, and enterprise support.
 
 ## Power Automate
+
+Power Automate is the workflow and integration layer for connecting people, systems, and operational processes. It can coordinate approvals, notifications, data synchronization, scheduled work, and event-driven actions across Microsoft services and approved external connectors.
+
+Documentation in this area should describe:
+
+- The business outcome, trigger, inputs, outputs, and owner for each flow
+- Connectors, service accounts, permissions, dependencies, and data boundaries
+- Approval chains, exception handling, retries, escalation paths, and human handoffs
+- Naming, environment, solution, and deployment conventions for development, test, and production
+- Monitoring, run history, alerting, audit requirements, and support procedures
+- Data-loss prevention, privacy, licensing, and connector-governance considerations
+
+Reusable flows should be treated as managed enterprise assets: define their interfaces, minimize hard-coded values, keep configuration separate from logic, and document how a flow is tested, promoted, disabled, and recovered. Flow documentation should link back to the relevant Entra ID identities and Power Pages or application experiences that invoke it.
 
 # License
 
