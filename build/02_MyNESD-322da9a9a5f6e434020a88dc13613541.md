@@ -27,7 +27,7 @@ goodwill. If you allow such people room to operate, others will succumb to their
 troubles they cause to multiply, do not try to negotiate with them—they are irredeemable. Neutralize their influence by isolating or banishing them. Strike at the source of the trouble and the sheep will scatter.
 
 # Seeing Things
-- If it looks and smells like it, then...
+- If it looks and smells like 💩, then...
 - Whatever it is with **Salesforce** that gave **Shareholder** access during the backend transition period with Wal-Mart (eg... Shipt, Uber, Third Party Delivery (Last Mile), otherwise how do I know about [servicenow kb](https://support.servicenow.com/kb?id=kb_home) / [Sponsorship](https://share.google/aimode/wxE8Z3jhnt8B254Pi) and how you can benefit company?... **Thats not on me**
   - Domain-Based Auto-Provisioning: [1](https://www.valencesecurity.com/resources/blogs/salesforce-experience-cloud-active-data-theft-campaign)
   - The Flaw: If a SaaS platform (like Salesforce) or an identity provider is configured to say, "Anyone with an @company.email address automatically gets administrative or high-level access," it creates a massive loophole.
