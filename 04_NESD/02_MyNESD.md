@@ -19,7 +19,7 @@ You can `NOT` say that there is no metal.
 - 05/28/26: Never received MyTrustMedical response after multiple tries
 - 8/11/26 OFC Padilla & Parker FPD
 - 8/13/26 Dr. Becker - No Metal (CT scan) of course w/ graphene and ct/mri compatible compounds (and/or external influence)
-	- Everyone should have right to view scans upon rendering or a trusted contact
+	- Everyone should have right to view scans upon rendering or a trusted contact (mandatory)
 
 ### STRIKE THE SHEPHERD
 Trouble can often be traced to a single strong individual——the stirrer, the arrogant underling, the poisoner of
