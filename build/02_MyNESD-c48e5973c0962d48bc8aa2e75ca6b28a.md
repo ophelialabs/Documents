@@ -11,10 +11,7 @@ Means at least 08/01/23 (2.5 yrs) disappointing on my part honestly, to present.
 
 <div><iframe width="560" height="315" src="https://www.youtube.com/embed/Mluo2cdsEEk?si=s2RlOiFsgUd0jHdf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
-You can `NOT` say that there is no metal.  
-
-8/11/26 OFC Padilla & Parker FPD
-8/13/26 Dr. Becker - No Metal (CT scan) of course w/ graphene and ct/mri compatible compounds (and/or external influence)
+You can `NOT` say that there is no metal.
 
 ### STRIKE THE SHEPHERD
 Trouble can often be traced to a single strong individual——the stirrer, the arrogant underling, the poisoner of
@@ -23,7 +20,8 @@ troubles they cause to multiply, do not try to negotiate with them—they are ir
 
 - The Playbook: [Silent Wars](https://archive.org/details/SilentWeaponsForQuietWarsOriginalDocumentCopy/page/n1/mode/1up) | [48 Laws of Power](https://irp-cdn.multiscreensite.com/cb9165b2/files/uploaded/The+48+Laws+Of+Power.pdf) | [Epistemic Warfare](https://share.google/aimode/35qYWq6PH57NQPjJf)
 - 05/28/26: Never received MyTrustMedical response after multiple tries
-- 8/11/26
+- 8/11/26 OFC Padilla & Parker FPD
+- 8/13/26 Dr. Becker - No Metal (CT scan) of course w/ graphene and ct/mri compatible compounds (and/or external influence)
 
 # Seeing Things
 - If it looks and smells like it, then...
