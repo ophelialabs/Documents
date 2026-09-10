@@ -15,9 +15,12 @@ SyGlass and the table. It wasn't an avatar. How I reacted (What is this?) and wh
 
 <div><iframe width="560" height="315" src="https://www.youtube.com/embed/Mluo2cdsEEk?si=s2RlOiFsgUd0jHdf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
+8/14/26
+
 - [Qsharp IOT](https://github.com/jlabclouds/qsharpIoT)
 - 05/28/26: Never received MyTrustMedical response after multiple tries
-- 8/11/26
+- 8/11/26 OFC Padilla &
+- 8/13/26 Dr. Becker - No Metal
 
 # Seeing Things
 - If it looks and smells like it, then...
