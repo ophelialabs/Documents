@@ -19,7 +19,7 @@ SyGlass and the table. It wasn't an avatar. How I reacted (What is this?) and wh
 
 - [Qsharp IOT](https://github.com/jlabclouds/qsharpIoT)
 - 05/28/26: Never received MyTrustMedical response after multiple tries
-- 8/11/26 OFC Padilla &
+- 8/11/26 OFC Padilla & Parker FPD
 - 8/13/26 Dr. Becker - No Metal (CT scan) of course w/ graphene and ct/mri compatible compounds
 
 # Seeing Things
