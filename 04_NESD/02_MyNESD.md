@@ -13,15 +13,16 @@ Means at least 08/01/23 (2.5 yrs) disappointing on my part honestly, to present.
 
 You can `NOT` say that there is no metal.
 
-### STRIKE THE SHEPHERD
-Trouble can often be traced to a single strong individual——the stirrer, the arrogant underling, the poisoner of
-goodwill. If you allow such people room to operate, others will succumb to their influence. Do not wait for the
-troubles they cause to multiply, do not try to negotiate with them—they are irredeemable. Neutralize their influence by isolating or banishing them. Strike at the source of the trouble and the sheep will scatter.
-
+### I'm Coming for You
 - The Playbook: [Silent Wars](https://archive.org/details/SilentWeaponsForQuietWarsOriginalDocumentCopy/page/n1/mode/1up) | [48 Laws of Power](https://irp-cdn.multiscreensite.com/cb9165b2/files/uploaded/The+48+Laws+Of+Power.pdf) | [Epistemic Warfare](https://share.google/aimode/35qYWq6PH57NQPjJf)
 - 05/28/26: Never received MyTrustMedical response after multiple tries
 - 8/11/26 OFC Padilla & Parker FPD
 - 8/13/26 Dr. Becker - No Metal (CT scan) of course w/ graphene and ct/mri compatible compounds (and/or external influence)
+
+### STRIKE THE SHEPHERD
+Trouble can often be traced to a single strong individual——the stirrer, the arrogant underling, the poisoner of
+goodwill. If you allow such people room to operate, others will succumb to their influence. Do not wait for the
+troubles they cause to multiply, do not try to negotiate with them—they are irredeemable. Neutralize their influence by isolating or banishing them. Strike at the source of the trouble and the sheep will scatter.
 
 # Seeing Things
 - If it looks and smells like it, then...
