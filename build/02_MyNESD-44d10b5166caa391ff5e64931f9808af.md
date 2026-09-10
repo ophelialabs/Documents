@@ -13,6 +13,9 @@ Means at least 08/01/23 (2.5 yrs) disappointing on my part honestly, to present.
 
 You can `NOT` say that there is no metal.  
 
+8/11/26 OFC Padilla & Parker FPD
+8/13/26 Dr. Becker - No Metal (CT scan) of course w/ graphene and ct/mri compatible compounds (and/or external influence)
+
 ### STRIKE THE SHEPHERD
 Trouble can often be traced to a single strong individual——the stirrer, the arrogant underling, the poisoner of
 goodwill. If you allow such people room to operate, others will succumb to their influence. Do not wait for the
