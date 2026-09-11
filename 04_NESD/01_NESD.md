@@ -17,6 +17,7 @@ In conjunction with the rest of this documentation, it only goes to **validate i
 Self-preservation is a normal psychological and biological response to perceived danger. When people feel threatened, exposed, controlled, or unable to explain what is happening, the nervous system may shift into fight, flight, freeze, or appease responses. These reactions can be intense, but they are signals of stress rather than proof that a particular explanation is true.
 
 ### NESD, Influence, and Association
+Seems a little self-righteous 
 
 The documented DARPA Neural Engineering System Design (NESD) program should be discussed separately from claims that a particular person was implanted, monitored, or influenced. Public research goals and demonstrations do not establish that an individual received an implant or that an organization used a system against them. Any such claim requires independent, verifiable evidence, informed-consent records, clinical documentation, and qualified technical and medical review.
 
