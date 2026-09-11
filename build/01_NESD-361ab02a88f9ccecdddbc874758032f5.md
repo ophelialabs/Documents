@@ -8,7 +8,9 @@ have learned this the hard way.) If one ember is left alight, no matter how diml
 fire will eventually break out. More is lost through stopping halfway than through total annihilation: The enemy will recover, and will seek revenge. Crush him, not only in body but in spirit.
 
 **I would like to stress that [cognitive writing](https://ophelialabs.github.io/Documents/readme-22/#python-add-images), [scrubbing](https://ophelialabs.github.io/Documents/readme-22/#why-an-image-appears-greyed-out) and [neural manipulation](https://www.science.org/doi/suppl/10.1126/science.adn0623/suppl_file/science.adn0623_sm.pdf) are very real**.
-In conjunction with the rest of this documentation, it only goes to **validate its misuse. You get everything that's coming to you**
+In conjunction with the rest of this documentation, it only goes to **validate its misuse. You deserve everything that's coming to you**
+
+- If you could'nt tell the truth of the fact that there is metal, how could anyone believe the truth of when you implanted? Too late now
 
 **PLEASE PLEASE PLEASE** help me get a platform so everyone can see just who you are. It'll happen either way. Whats your choice now?
 

@@ -9,6 +9,11 @@ title: MyNESD
 1A: DARPA's [NESD](https://www.darpa.mil/research/programs/neural-engineering-system-design) program has developed a **minimally invasive** implantable, high-resolution [neural interface](https://pubs.rsc.org/en/content/articlepdf/2025/mh/d4mh01854k). Think **[Bi-Directional](https://support.apple.com/en-us/106341)** Bone Anchored (Cochleal) Hearing Systems, or Behind The Ear Hearing Aids.
 Means at least 08/01/23 (2.5 yrs) disappointing on my part honestly, to present.
 
+Sean R - 09/09/26: phone audio logs, too similar?
+
+review past: what others??? remember months ago, i stated, once this is proven, how many other cases have to be reviewed. use VnK patent, 2003. Every single person that wanted to wear a tin hat or cover windows?
+ 
+
 ### I'm Coming for You
 
 <div><iframe width="560" height="315" src="https://www.youtube.com/embed/Mluo2cdsEEk?si=s2RlOiFsgUd0jHdf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
