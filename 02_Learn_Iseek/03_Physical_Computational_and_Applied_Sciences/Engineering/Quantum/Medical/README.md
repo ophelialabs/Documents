@@ -222,7 +222,7 @@ Why This Is Considered a "Last Chance"
 ## Mental Manipulation Capabilities
 The technical specifications of NESD allow for bidirectional communication, meaning the device can both "read" and "write" to the brain. [6, 7]
 - **Sensing vs. Actuation**: While the goal is restoring senses, the same "write" capability (stimulating 100,000 neurons) could theoretically be used to modulate mood, influence decision-making, or induce specific emotional states without the user’s awareness.
-- **Covert Neurowarfare**: Experts warn that "neuroweapons" could be used to manipulate societal subgroups into violence or political turmoil, often without the targets knowing they are under attack.
+- **Covert Neurowarfare**: Experts warn that "neuroweapons" could be used to manipulate societal subgroups into violence or political turmoil, often without the targets knowing they are under attack. [(1)](https://www.science.org/doi/suppl/10.1126/science.adn0623/suppl_file/science.adn0623_sm.pdf)
 - **Thought Surveillance**: High-resolution interfaces could enable a form of "synthetic telepathy" or thought-to-thought communication, effectively removing the barrier of psychological sovereignty. [4, 6, 8, 9, 10]
 
 Proposed neuro-rights laws, more details on how bi-directional stimulation works?
