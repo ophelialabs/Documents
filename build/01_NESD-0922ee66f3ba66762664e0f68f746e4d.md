@@ -14,7 +14,7 @@ The teams funded under the NESD umbrella—such as UC Berkeley, Brown University
 - **The Visual Cortex Teams (Columbia and Berkeley)**: They use the 1,000,000-channel interface to record how the eyes see images, then use the 100,000 write-channels to flash matrix-like grids of light directly into the visual brain.
 - **The Auditory Cortex Team (Brown)**: They use a network of micro-sensors called "neurograins" to decode the tiny vocalizations of speech. [VnK Patent](https://patents.google.com/patent/US6587729B2/en)
 
-- How the funded teams (like Berkeley) are using holographic light fields and optogenetics
+- How the funded teams (like Berkeley) are using [holographic light fields and optogenetics](https://ophelialabs.github.io/Documents/readme-22/#diagnostic-script-detecting-truncated-memory-insertions)
 
 ## MIL Industrial Complex 
 Digging Down & Drilling Through: [Qiot](https://github.com/jlabclouds/qsharpIoT) | [OG](https://ophelialabs.github.io/Documents/readme-24/#id-0g-technology-sigfox) | [6G RIS](https://www.rohde-schwarz.com/us/solutions/wireless-communications-testing/wireless-standards/6g/reconfigurable-intelligent-surfaces-ris/reconfigurable-intelligent-surfaces-ris_257043.html) | [QNET](https://ophelialabs.github.io/Documents/apt2/#q-net-quantum-network-integration)
