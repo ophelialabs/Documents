@@ -12,6 +12,9 @@ In conjunction with the rest of this documentation, it only goes to **validate i
 
 - If you could'nt tell the truth of the fact that there is metal, how could anyone believe the truth of when you implanted? Too late now, other than using recovery on my iphone 15. How does this apply to others that you lied about? You lie about this, you lie about everything! It's not so much about invading privacy, so much as it is controlling the outcome. If you were just trying to figure out what people know, why would you need cognitive writing, scrubbing and neural manipulation? THINK! TRAP MASTER
 
+- I digress. First Week is the hardest. This is when you get hit most. Expect all kinds of warfare!
+- Next is between this and 6 - months to a year. I got lucky thankfully. I might owe everything to the fact of a local lawyer who I know thinks he should have never taken this job, but what does that say?
+
 **PLEASE PLEASE PLEASE** help me get a platform so everyone can see just who you are. It'll happen either way. Whats your choice now?
 
 ## Human Psychology and Self-Preservation
