@@ -84,6 +84,20 @@ Documentation in this area should capture:
 
 All identity guidance should identify the responsible owner, required permissions, approval path, and operational recovery procedure. Secrets and personal data must not be stored in this repository; documentation should reference the approved secret-management and audit systems instead.
 
+### Regional Containers and Delegation Records
+
+Users and delegated work should be assigned to the appropriate regional Entra container before access is granted. A regional container should define the applicable tenant groups, applications, data boundaries, administrators, and support ownership. Regional placement must be based on an approved business, legal, residency, or operational requirement and should be reviewed when a user's role, region, or assignment changes.
+
+XLSX files may be used as controlled job-delegation inputs or handoff records, but they must not contain names, personal email addresses, phone numbers, addresses, employee numbers, or other PII unless a documented exception has been approved and the file is stored in an authorized protected location. The normal delegation workbook should contain only the minimum operational fields, such as:
+
+- A non-PII delegation or Entra ID reference number
+- The regional container or work queue
+- The job, task, priority, status, and due date
+- The assigning role or service identity, where needed for audit
+- A link or reference to the authoritative record, without copying sensitive content into the workbook
+
+The ID number is a lookup key, not an access grant. Authorized systems may cross-reference it with Entra ID to resolve the current user, group, role, and regional assignment. That lookup should occur through approved access-controlled systems, with least privilege, logging, retention limits, and validation that the returned identity matches the intended delegation. Do not use an XLSX file as the identity directory or as a substitute for Entra authorization.
+
 ## Power Pages
 
 Power Pages is the audience-facing experience for the enterprise knowledge model. It should turn the repository's structured content into clear, role-aware hubs for leadership, operations, engineering, research, and enterprise support without duplicating the source documentation.
