@@ -76,7 +76,7 @@ I will be using [SunFounder Elite Explorer Kit with Original Arduino](https://ww
 ### 2. Expansion boards and LoraWan
 ### 3. Spectrum Management
 
-## Disruption
+## Narrowing Down
 - The [magnet](https://www.homedepot.com/p/Master-Magnet-0-7-in-Neodymium-Rare-Earth-Magnet-Discs-3-per-Pack-07047HD/202526369) has to ***stick***
 
 **Note**: I have found it easiest if you mark one side of the magnet.
@@ -118,7 +118,7 @@ $$
 \end{cases}
 $$
 
-This is a simplified threshold model; the actual result also depends on field geometry, distance, pole orientation, surface material, and hysteresis. Do not test magnetic fields on or near a person, implant, or medical device.
+This describes the threshold behavior without assuming that magnetic fields literally “cancel” in every geometry. Do not test this on or near a person, implant, or medical device.
 
 1. Side Effects:
 - Neurological & Vestibular Disturbance: You may experience **vertigo, dizziness, or a metallic taste** (due to stimulation of the chorda tympani nerve). Long-term exposure to strong static fields in this specific location can also lead to chronic headaches or "magnetic phosphenes" (visual flashes) if the field reaches the peripheral visual pathways.
