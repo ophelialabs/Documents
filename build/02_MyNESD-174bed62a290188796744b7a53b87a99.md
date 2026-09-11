@@ -96,7 +96,7 @@ Let's run those simulations at the same time
 		- Project Helix: separate network containment, conscious aware, hole
        *  Let me find my Entra ID and k3 container
        *  Spreadsheet will only show ID (to avoid PII) but can be cross-referenced with Entra
-12. Him: "This may be our last chance" [(1)](https://ophelialabs.github.io/dev/02_medical/#Last-Chance)
+12. Him: "This may be our last chance" [(1)](https://ophelialabs.github.io/Documents/readme-22/#last-chance)
 13. Him: "Turn that shit off"
     - Sounded like heart rate monitor beeping
     - Accompanied by the "feeling" of being strapped to a bed with restricted movement and briefly being able to see under the bottom of a headset.
