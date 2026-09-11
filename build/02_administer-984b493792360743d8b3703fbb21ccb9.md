@@ -120,6 +120,22 @@ $$
 
 This describes the threshold behavior without assuming that magnetic fields literally “cancel” in every geometry. Do not test this on or near a person, implant, or medical device.
 
+### Implant-Specific Thresholds
+
+An implanted device may have several independent thresholds that must not be estimated from the external magnet model:
+
+$$
+	ext{safe operation requires}
+\quad
+B_{\text{exposure}} < B_{\text{device limit}},
+\quad
+P_{\text{heating}} < P_{\text{thermal limit}},
+\quad
+I_{\text{stimulation}} < I_{\text{clinical limit}}
+$$
+
+The external setup has a mechanical attachment threshold, while the implant may have magnetic-field, induced-voltage, heating, stimulation, telemetry, and mechanical-load limits. The relevant limit depends on the specific implanted device and its approved operating conditions. These values must come from the device manufacturer and qualified clinical or biomedical engineering guidance; they must not be derived by placing a magnet near a person or implant.
+
 1. Side Effects:
 - Neurological & Vestibular Disturbance: You may experience **vertigo, dizziness, or a metallic taste** (due to stimulation of the chorda tympani nerve). Long-term exposure to strong static fields in this specific location can also lead to chronic headaches or "magnetic phosphenes" (visual flashes) if the field reaches the peripheral visual pathways.
 - Thermal Accumulation: This may cause inductive heating of the Ag-injected site. Even a 1-2°C rise in localized tissue temperature can trigger an inflammatory response that "fouls" the graphene fiber interface with scar tissue (gliosis).
