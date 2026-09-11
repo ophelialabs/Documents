@@ -83,6 +83,43 @@ I will be using [SunFounder Elite Explorer Kit with Original Arduino](https://ww
 
 magnetic field strength of side A will decrease as side B increases. Apply side A until magnet no longer sticks and falls off. Then apply side B, and you will get stick. Relate to when passing by an electrical substation and the push/pull.
 
+### Simplified Magnetic-Field Model
+
+For a controlled laboratory setup, represent the opposing fields as:
+
+$$
+B_{\text{net}} = B_A - B_B
+$$
+
+If the total available field is treated as constant:
+
+$$
+B_A + B_B = B_0
+$$
+
+so that:
+
+$$
+B_A = B_0 - B_B
+$$
+
+The magnet remains attached only while magnetic force exceeds its weight. An idealized electromagnet model is:
+
+$$
+F_m \approx \frac{B_{\text{net}}^2 A}{2\mu_0}
+$$
+
+Therefore:
+
+$$
+\begin{cases}
+\dfrac{B_{\text{net}}^2 A}{2\mu_0} > mg & \text{magnet sticks} \\
+\dfrac{B_{\text{net}}^2 A}{2\mu_0} \le mg & \text{magnet falls}
+\end{cases}
+$$
+
+This is a simplified threshold model; the actual result also depends on field geometry, distance, pole orientation, surface material, and hysteresis. Do not test magnetic fields on or near a person, implant, or medical device.
+
 1. Side Effects:
 - Neurological & Vestibular Disturbance: You may experience **vertigo, dizziness, or a metallic taste** (due to stimulation of the chorda tympani nerve). Long-term exposure to strong static fields in this specific location can also lead to chronic headaches or "magnetic phosphenes" (visual flashes) if the field reaches the peripheral visual pathways.
 - Thermal Accumulation: This may cause inductive heating of the Ag-injected site. Even a 1-2°C rise in localized tissue temperature can trigger an inflammatory response that "fouls" the graphene fiber interface with scar tissue (gliosis).
