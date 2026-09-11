@@ -66,6 +66,7 @@ This visualization is intended to enable:
 - AI-assisted and worker-integrated knowledge discovery
 
 # Don’t Miss the Forest for the Trees
+- [az gov](https://learn.microsoft.com/en-us/azure/azure-government/documentation-government-overview-dod)
 
 This knowledge base is meant to preserve the larger enterprise perspective. It is easy for teams to focus on local tasks, immediate project needs, or isolated implementation details. This repository exists to connect those details back to the bigger picture: how work fits into the organization’s strategy, platforms, systems, and long-term capability model.
 
