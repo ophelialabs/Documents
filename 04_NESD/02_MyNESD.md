@@ -25,6 +25,7 @@ You can `NOT` say that there is [no metal](https://ophelialabs.github.io/Documen
 - 8/11/26 OFC Padilla & Parker FPD
 - 8/13/26 Dr. Becker - No Metal (CT scan) of course w/ graphene and ct/mri compatible compounds (and/or external influence)
 	- Everyone should have right to view scans upon rendering or a trusted contact (mandatory)
+- 09/16/26 22:30 - outside hotel room 128, left a few minutes after observation
 
 ### STRIKE THE SHEPHERD
 Trouble can often be traced to a single strong individual——the stirrer, the arrogant underling, the poisoner of
