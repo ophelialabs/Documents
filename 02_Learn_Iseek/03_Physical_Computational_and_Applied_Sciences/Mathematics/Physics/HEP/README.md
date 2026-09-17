@@ -1,5 +1,5 @@
 ## HEP
-- [nstx-u]()
+- [NSTX-U](https://nstxu-users.pppl.gov/logon.aspx?ReturnUrl=%2f)
 - [CERN](https://hfm.web.cern.ch/intranet/) (CERN login utilizes Entra)
 
 ## HPC
