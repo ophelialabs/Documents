@@ -10,3 +10,7 @@ This area documents how the enterprise is structured, governed, and operated as 
 - [Governance](governance/README.md)
 - [Legal & Compliance](legal-and-compliance/README.md)
 - [Shared Services](shared-services/README.md)
+
+## Place
+- [Granicus]
+- [Teradact]
