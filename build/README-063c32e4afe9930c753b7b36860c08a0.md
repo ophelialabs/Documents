@@ -1,6 +1,6 @@
 ## HEP
 - [nstx-u]()
-- [CERN](https://hfm.web.cern.ch/intranet/)
+- [CERN](https://hfm.web.cern.ch/intranet/) (CERN login utilizes Entra)
 
 ## HPC
 [Great Lakes Cluster](https://its.umich.edu/advanced-research-computing/high-performance-computing/great-lakes)
