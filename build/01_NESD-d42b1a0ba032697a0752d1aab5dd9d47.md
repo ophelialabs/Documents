@@ -3,7 +3,7 @@ title: NESD
 ---
 
 ## CRUSH YOUR ENEMY TOTALLY
-Building My Own
+**Building My Own**
 
 All great leaders since Moses have known that a feared enemy must be crushed completely. (Sometimes they
 have learned this the hard way.) If one ember is left alight, no matter how dimly it smolders, a
