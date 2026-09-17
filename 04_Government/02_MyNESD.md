@@ -2,18 +2,6 @@
 title: MyNESD
 ---
 
-![](./assets/br.png)
-
-![](./assets/nd.png)
-
-1A: DARPA's [NESD](https://www.darpa.mil/research/programs/neural-engineering-system-design) program has developed a **minimally invasive** implantable, high-resolution [neural interface](https://pubs.rsc.org/en/content/articlepdf/2025/mh/d4mh01854k). Think **[Bi-Directional](https://support.apple.com/en-us/106341)** Bone Anchored (Cochleal) Hearing Systems, or Behind The Ear Hearing Aids.
-Means at least 08/01/23 (2.5 yrs) disappointing on my part honestly, to present.
-
-Sean R - 09/09/26: phone audio logs, too similar?
-
-review past: what others??? remember months ago, i stated, once this is proven, how many other cases have to be reviewed. use VnK patent, 2003. Every single person that wanted to wear a tin hat or cover windows?
- 
-
 # Coming for You
 
 <div><iframe width="560" height="315" src="https://www.youtube.com/embed/Mluo2cdsEEk?si=s2RlOiFsgUd0jHdf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
@@ -26,6 +14,17 @@ You can `NOT` say that there is [no metal](https://ophelialabs.github.io/Documen
 - 8/13/26 Dr. Becker - No Metal (CT scan) of course w/ graphene and ct/mri compatible compounds (and/or external influence)
 	- Everyone should have right to view scans upon rendering or a trusted contact (mandatory)
 - 09/16/26 22:30 - outside hotel room 128, left a few minutes after observation. 6820 Cliffdale Rd, Fayetteville, NC 28314•(910) 864-8360
+
+![](./assets/br.png)
+
+![](./assets/nd.png)
+
+1A: DARPA's [NESD](https://www.darpa.mil/research/programs/neural-engineering-system-design) program has developed a **minimally invasive** implantable, high-resolution [neural interface](https://pubs.rsc.org/en/content/articlepdf/2025/mh/d4mh01854k). Think **[Bi-Directional](https://support.apple.com/en-us/106341)** Bone Anchored (Cochleal) Hearing Systems, or Behind The Ear Hearing Aids.
+Means at least 08/01/23 (2.5 yrs) disappointing on my part honestly, to present.
+
+Sean R - 09/09/26: phone audio logs, too similar?
+
+review past: what others??? remember months ago, i stated, once this is proven, how many other cases have to be reviewed. use VnK patent, 2003. Every single person that wanted to wear a tin hat or cover windows?
 
 ## STRIKE THE SHEPHERD
 Trouble can often be traced to a single strong individual——the stirrer, the arrogant underling, the poisoner of
