@@ -14,7 +14,7 @@ Sean R - 09/09/26: phone audio logs, too similar?
 review past: what others??? remember months ago, i stated, once this is proven, how many other cases have to be reviewed. use VnK patent, 2003. Every single person that wanted to wear a tin hat or cover windows?
  
 
-### I'm Coming for You
+# Coming for You
 
 <div><iframe width="560" height="315" src="https://www.youtube.com/embed/Mluo2cdsEEk?si=s2RlOiFsgUd0jHdf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
@@ -27,7 +27,7 @@ You can `NOT` say that there is [no metal](https://ophelialabs.github.io/Documen
 	- Everyone should have right to view scans upon rendering or a trusted contact (mandatory)
 - 09/16/26 22:30 - outside hotel room 128, left a few minutes after observation. 6820 Cliffdale Rd, Fayetteville, NC 28314•(910) 864-8360
 
-### STRIKE THE SHEPHERD
+## STRIKE THE SHEPHERD
 Trouble can often be traced to a single strong individual——the stirrer, the arrogant underling, the poisoner of
 goodwill. If you allow such people room to operate, others will succumb to their influence. Do not wait for the
 troubles they cause to multiply, do not try to negotiate with them—they are irredeemable. Neutralize their influence by isolating or banishing them. Strike at the source of the trouble and the sheep will scatter.
