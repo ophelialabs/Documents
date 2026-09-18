@@ -15,19 +15,6 @@ The detailed spectrum and wireless systems documentation below remains the prima
 
 ---
 
-## Table of Contents
-
-1. [0G Technology: SIGFOX](#0g-technology-sigfox)
-2. [6G RIS: Reconfigurable Intelligent Surfaces](#6g-ris-reconfigurable-intelligent-surfaces)
-3. [Spectrum Management Framework](#spectrum-management-framework)
-4. [Relationships and Dependencies](#relationships-and-dependencies)
-5. [Technical Integration](#technical-integration)
-6. [Use Cases and Applications](#use-cases-and-applications)
-7. [Regulatory Considerations](#regulatory-considerations)
-8. [Future Evolution](#future-evolution)
-
----
-
 ## 0G Technology: [SIGFOX](https://sigfox.com)
 
 ### Overview
