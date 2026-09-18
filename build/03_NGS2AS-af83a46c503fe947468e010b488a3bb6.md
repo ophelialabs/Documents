@@ -172,7 +172,7 @@ Where:
 
 Spectrum management is governed by international and national bodies that ensure fair access, interference prevention, and efficient utilization.
 
-#### International Bodies
+**International Bodies**
 
 | Organization | Role | Jurisdiction |
 |--------------|------|--------------|
