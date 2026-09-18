@@ -7,7 +7,7 @@ Next - [Quantum Networking](../02_Learn_Iseek/03_Physical_Computational_and_Appl
 
 ## Overview
 
-This documentation details the interconnected relationships between **0G/SIGFOX**, **6G Reconfigurable Intelligent Surfaces (RIS)**, and **Spectrum Management** in the context of modern and next-generation wireless communications infrastructure. 
+This documentation details the interconnected relationships between **[0G/SIGFOX](https://sigfox.com)**, **[6G Reconfigurable Intelligent Surfaces (RIS)](https://www.science.org/doi/10.1126/sciadv.adx4359)**, and **[Spectrum Management](https://www.peratonlabs.com/oscar.html)** in the context of modern and next-generation wireless communications infrastructure. 
 
 This section is the engineering hub for communications networks, radio spectrum, IoT connectivity, reconfigurable wireless environments, and next-generation systems.
 
@@ -15,8 +15,7 @@ The detailed spectrum and wireless systems documentation below remains the prima
 
 ---
 
-## 0G Technology: [SIGFOX](https://sigfox.com)
-
+## 0G Technology: SIGFOX
 ### Overview
 
 **0G (Zero-Generation)** or **Ultra-Narrowband (UNB)** refers to the first generation of sub-GHz IoT wireless technologies that preceded 5G and 6G. [SIGFOX](https://sigfox.com) is the most prominent 0G technology platform, providing long-range, low-power wireless connectivity for IoT devices.
