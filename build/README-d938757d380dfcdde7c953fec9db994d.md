@@ -102,6 +102,7 @@ XLSX files may be used as controlled job-delegation inputs or handoff records, b
 The ID number is a lookup key, not an access grant. Authorized systems may cross-reference it with Entra ID to resolve the current user, group, role, and regional assignment. That lookup should occur through approved access-controlled systems, with least privilege, logging, retention limits, and validation that the returned identity matches the intended delegation. Do not use an XLSX file as the identity directory or as a substitute for Entra authorization.
 
 ## Power Pages
+**The landing page serves as the global orientation layer. It uses a dynamic card grid that acts as the entry point to the enterprise model. Each card represents a core pillar.**
 
 Power Pages is the audience-facing experience for the enterprise knowledge model. It should turn the repository's structured content into clear, role-aware hubs for leadership, operations, engineering, research, and enterprise support without duplicating the source documentation.
 
