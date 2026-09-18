@@ -10,7 +10,7 @@ You can `NOT` say that there is [no metal](https://ophelialabs.github.io/Documen
 
 Whats most amazing is when you are telling the truth, it is easier to catch the other party slipping up. I told you I would die for this. If I had nothing to "get control over" why would that statement be made? not to mention the other statements. Fire me, do whatever, but you all know. Let's find out where "your heart is". 
 
-For the others: you know it may not happen to you, but where is this going?
+For the others: you know it may not happen to you, but where is this going (its not about the here and now)?
 
 ## What Matters Most
 - The Playbook: [Silent Wars](https://archive.org/details/SilentWeaponsForQuietWarsOriginalDocumentCopy/page/n1/mode/1up) | [48 Laws of Power](https://irp-cdn.multiscreensite.com/cb9165b2/files/uploaded/The+48+Laws+Of+Power.pdf) | [Epistemic Warfare](https://share.google/aimode/35qYWq6PH57NQPjJf) | [PSYOP](https://ophelialabs.github.io/Documents/readme-22/#advanced-interrogation-psyop) [(1)](https://ophelialabs.github.io/Documents/readme-22/#mental-manipulation-capabilities)
