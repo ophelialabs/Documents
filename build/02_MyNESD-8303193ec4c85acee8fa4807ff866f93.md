@@ -139,7 +139,7 @@ Let's run those simulations at the same time
    * Note any Apex and behind the Ear bumps that happen simultaneously
    * Create daily logs with timestamps (Find a way to easily implement transcribe for the user, see [Supplementary Implementation](https://jessedev3.github.io/Documents/administer/#supplementary-implementation)?)
    * Listen closely for clicks before comm, distinct
-   * Look for **blurred rectangles and impressions in grass or footprints that appear behind the rectangles** (Create cronjob for users that sets off a sleep timer that randommly flashes)[Quantum Stealth](https://jessedev3.github.io/Documents/readme-48/#between-an-optical-camera-system-and-a-patient)
+   * Look for **blurred rectangles and impressions in grass or footprints that appear behind the rectangles** (Create cronjob for users that sets off a sleep timer that randomly flashes)[Quantum Stealth](https://jessedev3.github.io/Documents/readme-48/#between-an-optical-camera-system-and-a-patient)
    * **Cover eyes (shirt, towel, hand) and look for green and red sources of light)**
    * When reviewing footage, red and green spectrums work best. 
 07/27/26 08:03: These are not **what ifs**. Where in the docs is a what if? These are ***direct responses***
@@ -147,7 +147,7 @@ Let's run those simulations at the same time
   * 02:12 07/25/26 You lack originality and imagination, Not to mention it shows how little you care about ***collateral damage***, I quote "as long as the `mission is accomplished`"?. Do you realize what it means to say **people like this embody America?**
 - Its not "does it justify" at this point, you can NOT be real, if so, you are ***not justices*** (lower caps on purpose), ***nor do you deserve the seat.***
 - Remember who you are, being implanted and hijacked is `NOT AMERICAN`
-	- What is `American` is PUSHING FORWARD
+	- What is `American` is **PUSHING FORWARD**, now I will **Pave The Path**
 - [Psychological Warfare]() | [Learned Helplessness]() | [Counter Intelligence]() | [1](https://share.google/aimode/GT8QVoCJNxMhWmDjX) | [2](https://share.google/aimode/JCu4XfOsYUc6DXwYo) (https://share.google/aimode/wRjK9mBnjBANLHI3M no longer works)
 - Always be aware of *psychological* forms of trust
 
