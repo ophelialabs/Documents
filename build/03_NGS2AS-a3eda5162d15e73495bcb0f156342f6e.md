@@ -13,7 +13,6 @@ The detailed spectrum and wireless systems documentation below remains the prima
 ---
 
 ## 0G Technology: SIGFOX
-### Overview
 
 **0G (Zero-Generation)** or **Ultra-Narrowband (UNB)** refers to the first generation of sub-GHz IoT wireless technologies that preceded 5G and 6G. [SIGFOX](https://sigfox.com) is the most prominent 0G technology platform, providing long-range, low-power wireless connectivity for IoT devices.
 
