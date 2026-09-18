@@ -10,7 +10,7 @@ You can `NOT` say that there is [no metal](https://ophelialabs.github.io/Documen
 
 ## What Matters Most
 - The Playbook: [Silent Wars](https://archive.org/details/SilentWeaponsForQuietWarsOriginalDocumentCopy/page/n1/mode/1up) | [48 Laws of Power](https://irp-cdn.multiscreensite.com/cb9165b2/files/uploaded/The+48+Laws+Of+Power.pdf) | [Epistemic Warfare](https://share.google/aimode/35qYWq6PH57NQPjJf) | [PSYOP](https://ophelialabs.github.io/Documents/readme-22/#advanced-interrogation-psyop) [(1)](https://ophelialabs.github.io/Documents/readme-22/#mental-manipulation-capabilities)
-- Maybe I changed my mind: (08/01/23-02/01/24) => [CSDAP](https://csdap.earthdata.nasa.gov/)
+- Maybe **I** changed my mind: (08/01/23-02/01/24) => [CSDAP](https://csdap.earthdata.nasa.gov/)
 - 05/28/26: Never received MyTrustMedical response after multiple tries
 - 8/11/26 OFC Padilla & Parker FPD (Medical Evaluation 🙄, what is really meant is psychological evaluation and these are very different things)
 - 8/13/26 Dr. Becker - No Metal (CT scan) of course w/ graphene and ct/mri compatible compounds (and/or external influence)
@@ -48,6 +48,7 @@ Metal did not appear, nor does the magnet stick **magically**. Plausible deniabi
   - Him: "Doesn't even know how to build, it will take at least 9 months to cover gaps"
   - Him: "**We May Have Something, talk offline or whatever we need to do**"
   - Him: "**No business sticking your nose in**"
+    - This only goes to show the lack of what you don't have, when all you had to do was communicate
   - Remember Entra Regional Containers and list of PII
     - && what did I do? Try to change **MY** licenses for email access and then try Power Automate to setup a Workflow?
     - Oh yeah, && create an internal Power Pages page trying to reach out for help. I guess I wanted to be card no. 9 after InfoSys with my own divisions and teams.
