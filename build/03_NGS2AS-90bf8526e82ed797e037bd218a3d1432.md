@@ -2,7 +2,6 @@
 title: NGS2AS
 ---
 
-# Network Spectrum
 Next - [Quantum Networking](../02_Learn_Iseek/03_Physical_Computational_and_Applied_Sciences/Engineering/Quantum/Network/index.md): quantum information, protocols, and network-oriented references
 
 This documentation details the interconnected relationships between **[0G/SIGFOX](https://sigfox.com)**, **[6G Reconfigurable Intelligent Surfaces (RIS)](https://www.science.org/doi/10.1126/sciadv.adx4359)**, and **[Spectrum Management](https://www.peratonlabs.com/oscar.html)** in the context of modern and next-generation wireless communications infrastructure. 
