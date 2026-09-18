@@ -83,7 +83,7 @@ Traditional wireless networks rely on:
 - **Reconfigurable Coverage:** On-demand optimization for different users/scenarios
 - **Virtual Line-of-Sight (LoS):** Create effective LoS paths in NLOS scenarios
 
-### Technical Architecture
+#### Technical Architecture
 
 ```
 Transmitter
@@ -97,7 +97,7 @@ Base Station (Controls RIS via Backhaul)
 Optimization Algorithms
 ```
 
-### RIS Elements & Operation
+#### RIS Elements & Operation
 
 **Passive RIS Elements:**
 - Metasurface with N reflecting/refracting elements
@@ -115,7 +115,7 @@ Where:
 - x_i = incident signal
 ```
 
-### RIS Deployment Scenarios
+#### RIS Deployment Scenarios
 
 1. **Building-Integrated RIS:** Wall-mounted reflectors in indoor environments
 2. **Infrastructure-Based RIS:** Rooftop installations on buildings/utility poles
@@ -123,7 +123,7 @@ Where:
 4. **Satellite-Based RIS:** Space-based reflecting surfaces for global coverage
 5. **UAV-Mounted RIS:** Aerial platforms for dynamic coverage areas
 
-### Advantages of 6G RIS
+#### Advantages of 6G RIS
 
 | Advantage | Benefit |
 |-----------|---------|
@@ -134,7 +134,7 @@ Where:
 | **Energy Efficiency** | Passive elements consume minimal power |
 | **Coverage Enhancement** | Extends range in obstructed environments |
 
-### Challenges
+#### Challenges
 
 - **Control Overhead:** Continuous phase-shift optimization complex
 - **Channel Estimation:** Requires sophisticated algorithms to characterize RIS-mediated channels
@@ -142,7 +142,7 @@ Where:
 - **Backhaul Requirements:** RIS controller needs low-latency connectivity
 - **Standardization:** 3GPP/ITU standards still emerging for RIS integration
 
-### RIS and Spectrum Efficiency
+#### RIS and Spectrum Efficiency
 
 **Traditional Spectral Efficiency:**
 ```
