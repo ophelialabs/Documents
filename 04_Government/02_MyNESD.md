@@ -31,7 +31,7 @@ Trouble can often be traced to a single strong individual——the stirrer, the 
 goodwill. If you allow such people room to operate, others will succumb to their influence. Do not wait for the
 troubles they cause to multiply, do not try to negotiate with them—they are irredeemable. Neutralize their influence by isolating or banishing them. Strike at the source of the trouble and the sheep will scatter.
 
-Metal did not appear, nor does the magnet stick **magically**
+Metal did not appear, nor does the magnet stick **magically**. Plausible deniability I think not
 
 # Transcription
 
