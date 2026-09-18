@@ -1,3 +1,9 @@
+Why is it so?
+
+[(1)](https://share.google/aimode/j4IrhW48mMONCQdsX), [(2)](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
+
+distinct memory of Iseek Port
+
 [Learning App](https://github.com/ophelialabs/Platform/blob/main/asp-starter/) should reflect this directory
 
 [Top 100 Universities Worldwide](https://ophelialabs.github.io/internal/src/AAU+/index2.html) | [TrekOnward](https://www.trekonward.com/results/)
