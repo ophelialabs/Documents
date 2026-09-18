@@ -28,7 +28,7 @@ The detailed spectrum and wireless systems documentation below remains the prima
 | **Latency** | Non-real-time (10-24 hour message delivery SLA) |
 | **Architecture** | Star topology, Base Station → Backend Network |
 
-### [SIGFOX](https://sigfox.com) Network Architecture
+### SIGFOX Network Architecture
 
 ```
 IoT Devices
