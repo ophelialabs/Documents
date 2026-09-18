@@ -49,6 +49,7 @@ Metal did not appear, nor does the magnet stick **magically**. Plausible deniabi
   - Him: "**We May Have Something, talk offline or whatever we need to do**"
   - Him: "**No business sticking your nose in**"
     - This only goes to show the lack of what you don't have, when all you had to do was communicate
+    - And the path that you chose instead? NO WONDER
   - Remember Entra Regional Containers and list of PII
     - && what did I do? Try to change **MY** licenses for email access and then try Power Automate to setup a Workflow?
     - Oh yeah, && create an internal Power Pages page trying to reach out for help. I guess I wanted to be card no. 9 after InfoSys with my own divisions and teams.
