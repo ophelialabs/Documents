@@ -3,7 +3,7 @@ title: NGS2AS
 ---
 
 # Network Spectrum
-Next - [Quantum Networking](../Quantum/Network/protocols.md): quantum information, protocols, and network-oriented references
+Next - [Quantum Networking](../02_Learn_Iseek/03_Physical_Computational_and_Applied_Sciences/Engineering/Quantum/Network/index.md): quantum information, protocols, and network-oriented references
 
 ## Overview
 
