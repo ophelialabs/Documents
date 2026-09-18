@@ -2,6 +2,7 @@
 title: NGS2AS
 ---
 
+## INTRO
 This documentation details the interconnected relationships between **[0G/SIGFOX](https://sigfox.com)**, **[6G Reconfigurable Intelligent Surfaces (RIS)](https://www.science.org/doi/10.1126/sciadv.adx4359)**, and **[Spectrum Management](https://www.peratonlabs.com/oscar.html)** in the context of modern and next-generation wireless communications infrastructure. 
 
 This section is the engineering hub for communications networks, radio spectrum, IoT connectivity, reconfigurable wireless environments, and next-generation systems.
@@ -10,11 +11,11 @@ The detailed spectrum and wireless systems documentation below remains the prima
 
 ---
 
-## 0G Technology: SIGFOX
+### 0G Technology: SIGFOX
 
 **0G (Zero-Generation)** or **Ultra-Narrowband (UNB)** refers to the first generation of sub-GHz IoT wireless technologies that preceded 5G and 6G. [SIGFOX](https://sigfox.com) is the most prominent 0G technology platform, providing long-range, low-power wireless connectivity for IoT devices.
 
-### Technical Characteristics
+#### Technical Characteristics
 
 | Property | Specification |
 |----------|--------------|
@@ -26,7 +27,7 @@ The detailed spectrum and wireless systems documentation below remains the prima
 | **Latency** | Non-real-time (10-24 hour message delivery SLA) |
 | **Architecture** | Star topology, Base Station → Backend Network |
 
-### SIGFOX Network Architecture
+#### SIGFOX Network Architecture
 
 ```
 IoT Devices
@@ -40,7 +41,7 @@ Customer Applications & Services
 
 **See Also:** [Wikipedia - SIGFOX](https://en.wikipedia.org/wiki/Sigfox), [Wikipedia - Internet of Things](https://en.wikipedia.org/wiki/Internet_of_things)
 
-### Key Advantages
+#### Key Advantages
 
 - **Extended Battery Life:** Years of operation on AA batteries
 - **Spectrum Efficiency:** 100 Hz bandwidth allows thousands of devices per base station
@@ -48,7 +49,7 @@ Customer Applications & Services
 - **Wide Coverage:** Sub-GHz propagation characteristics enable long-distance transmission
 - **Global Roaming:** Unified SIGFOX network across 60+ countries
 
-### Limitations
+#### Limitations
 
 - **Low Bandwidth:** 10-600 bps insufficient for video/multimedia
 - **Asynchronous Communication:** Designed for uplink, limited downlink capability
@@ -56,7 +57,7 @@ Customer Applications & Services
 - **Regulatory Constraints:** Sub-GHz spectrum increasingly congested
 - **Legacy Technology:** Being superseded by NB-IoT, LTE-M, LoRaWAN in many applications
 
-### Spectrum Management in 0G
+#### Spectrum Management in 0G
 
 - **Licensed Sub-GHz Bands:** SIGFOX operates on licensed-exempt ISM bands (with national variations)
 - **Duty Cycle Limits:** European regulations typically limit transmit duty cycles (1% for most sub-GHz)
