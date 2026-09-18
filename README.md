@@ -104,6 +104,8 @@ The ID number is a lookup key, not an access grant. Authorized systems may cross
 ## Power Pages
 **The landing page serves as the global orientation layer. It uses a dynamic card grid that acts as the entry point to the enterprise model. Each card represents a core pillar.**
 
+[quote](https://ophelialabs.github.io/Documents/mynesd/#seeing-things): Oh yeah, && create an internal Power Pages page trying to reach out for help. I guess I wanted to be card no. 9 after InfoSys with my own divisions and teams.
+
 Power Pages is the audience-facing experience for the enterprise knowledge model. It should turn the repository's structured content into clear, role-aware hubs for leadership, operations, engineering, research, and enterprise support without duplicating the source documentation.
 
 Each page or hub should have a defined audience, business purpose, content owner, review date, and canonical links back to the underlying knowledge base. Useful page types include:
