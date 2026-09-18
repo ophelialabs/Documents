@@ -146,9 +146,6 @@
     <loc>http://localhost:3000/index-3</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/ngs2as</loc>
-  </url>
-  <url>
     <loc>http://localhost:3000/protocols</loc>
   </url>
   <url>
@@ -366,6 +363,9 @@
   </url>
   <url>
     <loc>http://localhost:3000/mynesd</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/ngs2as</loc>
   </url>
   <url>
     <loc>http://localhost:3000/readme-50</loc>
