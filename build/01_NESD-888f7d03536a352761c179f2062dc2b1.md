@@ -252,7 +252,7 @@ If you want to continue breaking down these dynamics, let me know if you would l
 
 ---
 
-## IoT & Neurotechnology {#iot-neurotech}
+## IoT & Neurotechnology
 
 Brain-computer interfaces, IoT platforms, and neurotechnology research.
 
