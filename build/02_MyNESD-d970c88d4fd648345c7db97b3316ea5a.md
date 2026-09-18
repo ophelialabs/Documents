@@ -142,6 +142,7 @@ Let's run those simulations at the same time
   * 02:12 07/25/26 You lack originality and imagination, Not to mention it shows how little you care about ***collateral damage***, I quote "as long as the `mission is accomplished`"?. Do you realize what it means to say **people like this embody America?**
 - Its not "does it justify" at this point, you can NOT be real, if so, you are ***not justices*** (lower caps on purpose), ***nor do you deserve the seat.***
 - Remember who you are, being implanted and hijacked is `NOT AMERICAN`
+	- What is `American` is PUSHING FORWARD
 - [Psychological Warfare]() | [Learned Helplessness]() | [Counter Intelligence]() | [1](https://share.google/aimode/GT8QVoCJNxMhWmDjX) | [2](https://share.google/aimode/JCu4XfOsYUc6DXwYo) (https://share.google/aimode/wRjK9mBnjBANLHI3M no longer works)
 - Always be aware of *psychological* forms of trust
 
