@@ -110,6 +110,9 @@ The ID number is a lookup key, not an access grant. Authorized systems may cross
 All identity guidance should identify the responsible owner, required permissions, approval path, and operational recovery procedure. Secrets and personal data must not be stored in this repository; documentation should reference the approved secret-management and audit systems instead.
 
 ## Power Pages
+
+![](./03_Enterprise/_assets/internal.png)
+
 Power Pages is the internal web layer for turning this knowledge base into focused, role-aware pages. Create one page for the user's own divisions and teams, then connect it to the enterprise landing page as a single canonical source.
 
 ### Page Brief and Structure
@@ -143,6 +146,8 @@ Treat the page as a managed internal product:
 The Power Pages layer should provide orientation and useful actions while this repository remains the durable knowledge and decision record.
 
 ## Power Automate
+
+![](./03_Enterprise/_assets/power_auto.png)
 
 Power Automate is the workflow and integration layer for connecting people, systems, and operational processes. It can coordinate approvals, notifications, data synchronization, scheduled work, and event-driven actions across Microsoft services and approved external connectors.
 
