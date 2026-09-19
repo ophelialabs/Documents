@@ -17,7 +17,7 @@ For the others: you know it may not happen to you, but where is this going (its 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ICcu6biwKt0?si=4jZDCAqhMr77SaXe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-This man is not the first. Don't listen to that garbage
+This man is not the first. Don't listen to that garbage. This just reminds me that it is time to ingest again and plan ahead
 
 ## What Matters Most
 - The Playbook: [Silent Wars](https://archive.org/details/SilentWeaponsForQuietWarsOriginalDocumentCopy/page/n1/mode/1up) | [48 Laws of Power](https://irp-cdn.multiscreensite.com/cb9165b2/files/uploaded/The+48+Laws+Of+Power.pdf) | [Epistemic Warfare](https://share.google/aimode/35qYWq6PH57NQPjJf) | [PSYOP](https://ophelialabs.github.io/Documents/readme-22/#advanced-interrogation-psyop) [(1)](https://ophelialabs.github.io/Documents/readme-22/#mental-manipulation-capabilities)
