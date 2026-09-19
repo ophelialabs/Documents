@@ -82,3 +82,11 @@ The [Aladin Visualization Tool]() provides the "eyes on target" capability:
 The APT/Aladin combination is the visual and logic engine of the "Golden Dome," ensuring that American space dominance is maintained through both observational clarity and automated protection.
 
 This creates a Quantum Command Layer. Because the "teleportation" of states is instantaneous and unhackable (due to the No-Cloning Theorem), an operator using an NESD link could control deep-space assets or planetary defense systems with zero lag, using the galaxy’s own core as the central processing hub.
+
+### A "Four-Layered" Altitude Stack
+The architecture appears deeply layered because it is divided vertically by mission types and altitudes rather than a single surface grid. According to [Pentagon slideshows](https://www.reuters.com/business/aerospace-defense/pentagon-golden-dome-have-4-layer-defense-system-slides-show-2025-08-12/) and military reference blueprints, the Golden Dome features a four-layer defense system:
+- The Orbital Ring Tier: Space-based tracking networks and kinetic interceptors deployed between 300 to 500 kilometers in altitude. [(1)](https://www.youtube.com/watch?v=Y2e7_hnxhX0)
+- The Upper Atmospheric/Midcourse Tier: Ground- and sea-based assets tracking and intercepting missiles in their highest, midcourse trajectories. [(1)](https://www.youtube.com/watch?v=g2COcFlBBHo&t=5)
+- The Terminal Ground Tier: Highly localized regional batteries (like Patriot or THAAD upgrades) forming protective defensive rings near the surface. [(1)](https://www.usieducation.org/post/golden-dome)
+
+In a stationary dome, a hexagonal grid (like a honeycomb) is the most efficient way to tile a static curved surface. However, because the threat environment is entirely dynamic—requiring tracking networks to intercept fast-moving ballistic and hypersonic missiles during different flight phases—the "shield" cannot be a fixed mesh. The concentric ring patterns ensure that if a satellite in one orbital ring moves out of range, another satellite from an adjacent ring immediately swerves into place to maintain overlapping coverage, appearing visually as a mesh of rings. Most easily seen at night.
