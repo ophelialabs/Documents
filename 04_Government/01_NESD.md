@@ -252,13 +252,13 @@ If you want to continue breaking down these dynamics, let me know if you would l
 
 ---
 
-## IoT & Neurotechnology
-
-Brain-computer interfaces, IoT platforms, and neurotechnology research.
-
-### Quantum IoT and Edge Infrastructure
+## Quantum IoT and Edge Infrastructure
 - [QIoT](https://github.com/jlabclouds/qsharpIoT) - Quantum IoT research and experimentation reference.
 - [Synology](https://www.synology.com/) - Edge storage, device management, and infrastructure for IoT and neurotechnology workflows.
+
+### IoT & Neurotechnology
+
+Brain-computer interfaces, IoT platforms, and neurotechnology research.
 
 ### BCI Research
 - [fMRI and Neuroimaging](#fmri-neuroimaging) - Related imaging methods and research resources.
