@@ -110,46 +110,37 @@ The ID number is a lookup key, not an access grant. Authorized systems may cross
 All identity guidance should identify the responsible owner, required permissions, approval path, and operational recovery procedure. Secrets and personal data must not be stored in this repository; documentation should reference the approved secret-management and audit systems instead.
 
 ## Power Pages
-**The landing page serves as the global orientation layer. It uses a dynamic (LOA) card grid that acts as the entry point to the enterprise model. Each card represents a core pillar.**
+Power Pages is the internal web layer for turning this knowledge base into focused, role-aware pages. Create one page for the user's own divisions and teams, then connect it to the enterprise landing page as a single canonical source.
 
-[quote](https://ophelialabs.github.io/Documents/mynesd/#seeing-things): Oh yeah, && create an internal Power Pages page trying to reach out for help. I guess I wanted to be card no. 9 after InfoSys with my own divisions and teams.
+### Page Brief and Structure
 
-Power Pages is the audience-facing experience for the enterprise knowledge model. It should turn the repository's structured content into clear, role-aware hubs for leadership, operations, engineering, research, and enterprise support without duplicating the source documentation.
+Before creating the page, record:
 
-Each page or hub should have a defined audience, business purpose, content owner, review date, and canonical links back to the underlying knowledge base. Useful page types include:
+- Page name, audience, owner, business purpose, and review date
+- The divisions, teams, services, and regions represented on the page
+- The data classification and the Entra ID group or application role that can access it
+- The canonical source links for policies, procedures, systems, and reference material
 
-- Executive dashboards for strategy, decisions, risks, priorities, and organizational health
-- Team and function hubs for responsibilities, contacts, procedures, systems, and current work
-- Engineering and platform portals for architecture, environments, APIs, deployments, and operational runbooks
-- Research and domain pages for datasets, methods, references, experiments, and active initiatives
-- Service pages for requests, onboarding, approvals, support paths, and frequently used resources
-
-### Experience and Information Architecture
-
-Navigation should follow the enterprise model already represented in this repository:
-
-- Organization and governance: corporate structure, business units, subsidiaries, legal, and shared services
-- Technology and infrastructure: foundations, cloud, platforms, development, data, DevOps, and security
-- Programs and domains: research, engineering, robotics, biomedical, aerospace, and other specialized areas
-- People and services: team pages, ownership records, onboarding, support, and recurring operational workflows
-
-Pages should be designed for scanning and action. Use consistent names, short summaries, status or freshness indicators, clear owners, and links to the next useful action. A page should point to one canonical source rather than copying content into multiple hubs.
+Use a simple page structure: an orientation summary, a 3x3 card grid for divisions or teams, and a short list of current actions. Each card should have a clear label, one-sentence purpose, owner, status, and link to the authoritative detail. Keep the page focused on navigation and decisions rather than copying the full source documentation.
 
 ### Access and Personalization
 
-Use Entra ID groups and application roles to control access to internal, partner, and public content. Apply least privilege and keep sensitive content out of broadly visible pages. Personalization may change navigation and available actions, but it must not replace explicit authorization checks on data and operations.
+Create the internal page in a non-production Power Pages environment. Configure Entra ID groups or application roles before adding restricted content, and apply least privilege to each division, team, and service area. Personalization may change the cards and actions a user sees, but it must not replace server-side authorization checks.
+
+Use approved connectors or Power Automate flows for forms, requests, approvals, and notifications. Do not place secrets, personal data, or sensitive operational records directly in page text or client-side scripts. Link to the protected system of record instead.
 
 ### Publishing and Governance
 
-Treat each Power Page as a managed product with an accountable owner and a lightweight release process:
+Treat the page as a managed internal product:
 
-- Define the audience, outcome, data classification, and success measure before implementation
-- Build and test changes in a non-production environment before publishing
-- Review navigation, permissions, accessibility, links, and mobile behavior before release
-- Record content ownership, revision history, dependencies, and the next review date
-- Retire pages that no longer have an owner, audience, or supported source
+- Test the page with representative users from each division and team
+- Review permissions, navigation, accessibility, links, and mobile behavior
+- Confirm that every card points to a current, authoritative source
+- Record the owner, revision history, dependencies, support path, and next review date
+- Publish only after the page owner approves the content and access model
+- Retire or revise the page when it no longer has an owner, audience, or supported source
 
-The Power Pages layer should provide orientation and useful actions while the repository remains the durable knowledge and decision record. This separation keeps the experience easy to use without allowing a portal update to become an undocumented change to enterprise policy or architecture.
+The Power Pages layer should provide orientation and useful actions while this repository remains the durable knowledge and decision record.
 
 ## Power Automate
 
