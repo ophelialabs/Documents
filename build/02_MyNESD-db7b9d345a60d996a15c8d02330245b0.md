@@ -6,7 +6,7 @@ title: MyNESD
 
 <div><iframe width="560" height="315" src="https://www.youtube.com/embed/Mluo2cdsEEk?si=s2RlOiFsgUd0jHdf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
-You can `NOT` say that there is [no metal](https://ophelialabs.github.io/Documents/administer/#narrowing-down).
+You can `NOT` say that there is [no metal](https://ophelialabs.github.io/Documents/administer/#narrowing-down). combine yt with br.png
 
 Whats most amazing is when you are telling the truth, it is easier to catch the other party slipping up. I told you I would die for this. If I had nothing to "get control over" why would that statement be made? not to mention the other statements. Fire me, do whatever, but you all know. Let's find out where "your heart is". 
 
