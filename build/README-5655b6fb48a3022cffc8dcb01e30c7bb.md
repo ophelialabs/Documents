@@ -7,7 +7,7 @@ youtube_videos:
 ---
 
 # My Neural Network
-If i can't win at home, how can I win abroad? [1](https://ageofempires.fandom.com/wiki/Diplomacy), [2](https://ophelialabs.github.io/internal/apps/saturn.html), [3](https://ophelialabs.github.io/internal/apps/neptune.html), [4](https://osirisai.live/). [5](https://www.godseye.world/home#)
+If i can't win at home, how can I win abroad? [(1)](https://ageofempires.fandom.com/wiki/Diplomacy), [(2)](https://ophelialabs.github.io/internal/apps/saturn.html), [(3)](https://ophelialabs.github.io/internal/apps/neptune.html), [(4)](https://osirisai.live/), [(5)](https://www.godseye.world/home#), [(6)](https://www.youtube.com/watch?v=UaxAGIQKtho&pp=ygUEYXRhaw%3D%3D)
 
 I don't care what anyone says, no one is this good at making things up. Who needs to make things up when you are telling the truth? This is personal. Lies did `NOT` get me this far.
 
