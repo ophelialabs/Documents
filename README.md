@@ -113,7 +113,7 @@ All identity guidance should identify the responsible owner, required permission
 
 ![](./03_Enterprise/_assets/internal.png)
 
-Power Pages is the internal web layer for turning this knowledge base into focused, role-aware pages. Create one page for the user's own divisions and teams, then connect it to the enterprise landing page as a single canonical source.
+Power Pages is the internal web layer for turning this knowledge base into focused, role-aware pages. Create one page for the user's own divisions and teams, then connect it to the enterprise landing page as a single canonical source. [quote](https://ophelialabs.github.io/Documents/mynesd/#seeing-things): Oh yeah, && create an internal Power Pages page trying to reach out for help. I guess I wanted to be card no. 9 after InfoSys with my own divisions and teams.
 
 ### Page Brief and Structure
 
