@@ -260,16 +260,16 @@ Brain-computer interfaces, IoT platforms, and neurotechnology research.
 - [QIoT](https://github.com/jlabclouds/qsharpIoT) - Quantum IoT research and experimentation reference.
 - [Synology](https://www.synology.com/) - Edge storage, device management, and infrastructure for IoT and neurotechnology workflows.
 
-### BCI Hardware
-- [OpenBCI - Open Brain Computing Interface](https://openbci.com/) - Open-source brain-computer interface hardware.
-- [NeuroSky - Brainwave Computing](https://store.neurosky.com/) - EEG-based neurotechnology and brainwave sensors.
-
 ### BCI Research
 - [fMRI and Neuroimaging](#fmri-neuroimaging) - Related imaging methods and research resources.
 
 ### fMRI and Neuroimaging
 - fMRI (functional magnetic resonance imaging) measures changes in blood oxygenation associated with brain activity; it is a noninvasive imaging method and does not by itself establish the presence of a neural implant or interface.
 - [UR CABIN MoBI - Mobile Brain Imaging](https://www.urmc.rochester.edu/del-monte-neuroscience/ur-cabin/mobi) - Mobile brain imaging research at University of Rochester.
+
+### BCI Hardware
+- [OpenBCI - Open Brain Computing Interface](https://openbci.com/) - Open-source brain-computer interface hardware.
+- [NeuroSky - Brainwave Computing](https://store.neurosky.com/) - EEG-based neurotechnology and brainwave sensors.
 
 ### Comprehensive Platforms
 - [Neurodesk](https://neurodesk.org/)
