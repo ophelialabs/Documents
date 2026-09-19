@@ -263,7 +263,7 @@ Brain-computer interfaces, IoT platforms, and neurotechnology research.
 ### BCI Research
 - [fMRI and Neuroimaging](#fmri-neuroimaging) - Related imaging methods and research resources.
 
-### fMRI and Neuroimaging {#fmri-neuroimaging}
+### fMRI and Neuroimaging
 - fMRI (functional magnetic resonance imaging) measures changes in blood oxygenation associated with brain activity; it is a noninvasive imaging method and does not by itself establish the presence of a neural implant or interface.
 - [UR CABIN MoBI - Mobile Brain Imaging](https://www.urmc.rochester.edu/del-monte-neuroscience/ur-cabin/mobi) - Mobile brain imaging research at University of Rochester.
 
