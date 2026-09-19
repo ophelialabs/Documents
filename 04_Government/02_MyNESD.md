@@ -33,7 +33,7 @@ This man is not the first. Don't listen to that garbage. This just reminds me th
 ![](./assets/nd.png)
 
 1A: DARPA's [NESD](https://www.darpa.mil/research/programs/neural-engineering-system-design) program has developed a **minimally invasive** implantable, high-resolution [neural interface](https://pubs.rsc.org/en/content/articlepdf/2025/mh/d4mh01854k). Think **[Bi-Directional](https://support.apple.com/en-us/106341)** Bone Anchored (Cochleal) Hearing Systems, or Behind The Ear Hearing Aids.
-Means at least 08/01/23 (2.5 yrs) disappointing on my part honestly, to present.
+Means at least 08/01/23 (**2.5 yrs**) disappointing on my part honestly, to present.
 
 Sean R - 09/09/26: phone audio logs, too similar?
 
