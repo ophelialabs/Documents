@@ -256,6 +256,10 @@ If you want to continue breaking down these dynamics, let me know if you would l
 
 Brain-computer interfaces, IoT platforms, and neurotechnology research.
 
+### Quantum IoT and Edge Infrastructure
+- [QIoT](https://github.com/jlabclouds/qsharpIoT) - Quantum IoT research and experimentation reference.
+- [Synology](https://www.synology.com/) - Edge storage, device management, and infrastructure for IoT and neurotechnology workflows.
+
 ### BCI Hardware
 - [OpenBCI - Open Brain Computing Interface](https://openbci.com/) - Open-source brain-computer interface hardware.
 - [NeuroSky - Brainwave Computing](https://store.neurosky.com/) - EEG-based neurotechnology and brainwave sensors.
@@ -271,10 +275,6 @@ Brain-computer interfaces, IoT platforms, and neurotechnology research.
 - [Neurodesk](https://neurodesk.org/)
 | [BrainForge](https://brainforge.rs.gsu.edu/)
 | [Neuroconductor](https://neuroconductor.org/)
-
-### Quantum IoT and Edge Infrastructure
-- [QIoT](https://github.com/jlabclouds/qsharpIoT) - Quantum IoT research and experimentation reference.
-- [Synology](https://www.synology.com/) - Edge storage, device management, and infrastructure for IoT and neurotechnology workflows.
 
 ### Specialized Software
 - [FreeSurfer](https://surfer.nmr.mgh.harvard.edu/)
