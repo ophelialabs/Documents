@@ -80,6 +80,8 @@ This knowledge base is meant to preserve the larger enterprise perspective. It i
 
 Entra ID is the identity and access foundation for the enterprise knowledge ecosystem. It provides authentication, authorization, and lifecycle management for employees, partners, applications, services, and automation workflows.
 
+### Identity Foundation and Lifecycle
+
 Documentation in this area should capture:
 
 - Tenant structure, verified domains, environments, and identity ownership
@@ -88,8 +90,6 @@ Documentation in this area should capture:
 - Conditional Access, multifactor authentication, privileged access, and security boundaries
 - Joiner, mover, and leaver processes, including access reviews and credential rotation
 - Integration patterns for Microsoft 365, Azure resources, Power Pages, Power Automate, and internal applications
-
-All identity guidance should identify the responsible owner, required permissions, approval path, and operational recovery procedure. Secrets and personal data must not be stored in this repository; documentation should reference the approved secret-management and audit systems instead.
 
 ### Regional Containers and Delegation Records
 
@@ -104,6 +104,10 @@ XLSX files may be used as controlled job-delegation inputs or handoff records, b
 - A link or reference to the authoritative record, without copying sensitive content into the workbook
 
 The ID number is a lookup key, not an access grant. Authorized systems may cross-reference it with Entra ID to resolve the current user, group, role, and regional assignment. That lookup should occur through approved access-controlled systems, with least privilege, logging, retention limits, and validation that the returned identity matches the intended delegation. Do not use an XLSX file as the identity directory or as a substitute for Entra authorization.
+
+### Governance, Privacy, and Recovery
+
+All identity guidance should identify the responsible owner, required permissions, approval path, and operational recovery procedure. Secrets and personal data must not be stored in this repository; documentation should reference the approved secret-management and audit systems instead.
 
 ## Power Pages
 **The landing page serves as the global orientation layer. It uses a dynamic (LOA) card grid that acts as the entry point to the enterprise model. Each card represents a core pillar.**
@@ -120,7 +124,7 @@ Each page or hub should have a defined audience, business purpose, content owner
 - Research and domain pages for datasets, methods, references, experiments, and active initiatives
 - Service pages for requests, onboarding, approvals, support paths, and frequently used resources
 
-### Information Architecture
+### Experience and Information Architecture
 
 Navigation should follow the enterprise model already represented in this repository:
 
@@ -134,10 +138,6 @@ Pages should be designed for scanning and action. Use consistent names, short su
 ### Access and Personalization
 
 Use Entra ID groups and application roles to control access to internal, partner, and public content. Apply least privilege and keep sensitive content out of broadly visible pages. Personalization may change navigation and available actions, but it must not replace explicit authorization checks on data and operations.
-
-### Workflow Integration
-
-Use Power Automate for page actions such as intake forms, approvals, notifications, access requests, review reminders, and status updates. Document the trigger, permissions, connector, owner, failure path, and audit record for every workflow exposed through a page. Keep business rules in managed flows or services rather than embedding them only in page scripts.
 
 ### Publishing and Governance
 
@@ -155,6 +155,12 @@ The Power Pages layer should provide orientation and useful actions while the re
 
 Power Automate is the workflow and integration layer for connecting people, systems, and operational processes. It can coordinate approvals, notifications, data synchronization, scheduled work, and event-driven actions across Microsoft services and approved external connectors.
 
+### Workflow Integration
+
+Use Power Automate for page actions such as intake forms, approvals, notifications, access requests, review reminders, and status updates. Document the trigger, permissions, connector, owner, failure path, and audit record for every workflow exposed through a page. Keep business rules in managed flows or services rather than embedding them only in page scripts.
+
+### Flow Design and Operations
+
 Documentation in this area should describe:
 
 - The business outcome, trigger, inputs, outputs, and owner for each flow
@@ -165,6 +171,10 @@ Documentation in this area should describe:
 - Data-loss prevention, privacy, licensing, and connector-governance considerations
 
 Reusable flows should be treated as managed enterprise assets: define their interfaces, minimize hard-coded values, keep configuration separate from logic, and document how a flow is tested, promoted, disabled, and recovered. Flow documentation should link back to the relevant Entra ID identities and Power Pages or application experiences that invoke it.
+
+### Governance, Privacy, and Recovery
+
+Every flow should follow data-loss prevention, privacy, licensing, and connector-governance requirements. Define its audit record, monitoring and alerting path, support owner, disablement procedure, and recovery process before promoting it to production.
 
 # License
 
