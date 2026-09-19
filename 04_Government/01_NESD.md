@@ -256,7 +256,7 @@ If you want to continue breaking down these dynamics, let me know if you would l
 - [QIoT](https://github.com/jlabclouds/qsharpIoT) - Quantum IoT research and experimentation reference.
 - [Synology](https://www.synology.com/) - Edge storage, device management, and infrastructure for IoT and neurotechnology workflows.
 
-### IoT & Neurotechnology
+## IoT & Neurotechnology
 
 Brain-computer interfaces, IoT platforms, and neurotechnology research.
 
