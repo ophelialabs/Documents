@@ -49,6 +49,8 @@ When fear, unusual sensations, hearing experiences, sleep loss, or persistent th
 
 ## NESD Program and Technical Claims
 
+### 1. NESD Program Scope and Technical Requirements
+
 The teams funded under the NESD umbrella—such as UC Berkeley, Brown University, and Columbia University—were assigned very specific, hardwired anatomical tasks:
 - **The Visual Cortex Teams (Columbia and Berkeley)**: They use the 1,000,000-channel interface to record how the eyes see images, then use the 100,000 write-channels to flash matrix-like grids of light directly into the visual brain.
 - **The Auditory Cortex Team (Brown)**: They use a network of micro-sensors called "neurograins" to decode the tiny vocalizations of speech. [VnK Patent](https://patents.google.com/patent/US6587729B2/en)
@@ -76,7 +78,10 @@ The most technologically difficult requirement of NESD was continuous, full-dupl
 
 In medical, surgical, and neurotechnological contexts, the term "curtain" can be used as a technical or metaphorical descriptor for the layer of stealth, separation, or filtering applied.
 
-### Optical Tracking and Privacy Boundaries
+### 2. Optical Tracking, Privacy, and Security Boundaries
+
+#### Optical Tracking and Privacy Boundaries
+
 1. Quantum Stealth:
 
 2. Optical and Physical "Stealth" (Signal Filtering)
@@ -97,31 +102,22 @@ If you are looking at a specific type of procedure or tracking system, let me kn
 - The role of **sterile fields and drapes** in awake cranial surgeries.
 - How **biometric data masking** works in medical imaging software.
 
-### Auditory Interfaces and Signal Processing
-Bi-directional hearing aids can overlap with the [DARPA NESD](https://www.darpa.mil/research/programs/neural-engineering-system-design) (Neural Engineering System Design) interface codec because both systems perform the same core function: translating raw, real-world sensory information into digital, binary signals.
-- Binary Translation: Both systems utilize a neural "codec" designed to convert electrochemical signaling (used by neurons in the brain) into ones and zeros. Modern "brain-controlled" hearing aids use similar decoding algorithms to translate **auditory cortex brain waves** into digital instructions, allowing the device to focus on a specific voice in a crowded room. With a certain level of access, the interface can pick up nearby hearing aid implants.
-
-- Two-Way Communication: Advanced, bi-directional hearing aids do not just amplify sound; they use sophisticated digital signal processing to analyze, encode, and transmit sound back and forth. NESD also relies on full-duplex communication—reading from and writing to thousands of neural channels simultaneously.
-- Neural-Based Audiology: The goal of the NESD program is to develop implantable, biocompatible neurotechnology that compensates for sensory deficits. As a result, neurological and audiological research often merge, leading hearing aid manufacturers to develop digital processors that mirror brain-computer interfaces. 
-
-[1](https://jacobsschool.ucsd.edu/news/release/2259?id=2259)
-
-### Security and Access Controls
+#### Security and Access Controls
 Based on national security protocols, people without a Top Secret (TS) or equivalent clearance should not have access to classified technical data about classified programs like DARPA's NESD.
 
 Information access is governed by strict legal and security rules:
 
-### Security Clearance Levels
+#### Security Clearance Levels
 - Top Secret (TS): Required for information where unauthorized disclosure could cause exceptionally grave damage to national security.
 - Secret: Required for information causing serious damage.
 - Confidential: Required for information causing damage.
 
-### The Need-to-Know Principle
+#### The Need-to-Know Principle
 - **Clearance is Not Enough**: Having a Top Secret clearance alone does not grant access to sensitive technology.
 - **Specific Justification**: A person must also have an official, verified "need-to-know" to perform their specific government or military role.
 - **Compartmentalization**: Highly sensitive programs often require **Sensitive Compartmented Information (SCI)** access, creating isolated silos even among TS cleared personnel.
 
-### Unclassified vs. Classified Knowledge
+#### Unclassified vs. Classified Knowledge
 - **Public Information**: The broad, conceptual goals of DARPA's NESD are publicly published to invite research proposals from universities and private companies.
 - **Protected Details**: The specific military applications, hardware schematics, and cryptographic codes remain strictly classified and restricted to authorized personnel.
 
@@ -129,6 +125,17 @@ Explore:
 - How the "Need-to-Know" standard is legally enforced.
 - The difference between Public Domain DARPA research and Classified projects.
 - How security clearance background checks are conducted.
+
+### 3. Auditory Interfaces and Optical Signal Processing
+
+#### Auditory Interfaces and Signal Processing
+Bi-directional hearing aids can overlap with the [DARPA NESD](https://www.darpa.mil/research/programs/neural-engineering-system-design) (Neural Engineering System Design) interface codec because both systems perform the same core function: translating raw, real-world sensory information into digital, binary signals.
+- Binary Translation: Both systems utilize a neural "codec" designed to convert electrochemical signaling (used by neurons in the brain) into ones and zeros. Modern "brain-controlled" hearing aids use similar decoding algorithms to translate **auditory cortex brain waves** into digital instructions, allowing the device to focus on a specific voice in a crowded room. With a certain level of access, the interface can pick up nearby hearing aid implants.
+
+- Two-Way Communication: Advanced, bi-directional hearing aids do not just amplify sound; they use sophisticated digital signal processing to analyze, encode, and transmit sound back and forth. NESD also relies on full-duplex communication—reading from and writing to thousands of neural channels simultaneously.
+- Neural-Based Audiology: The goal of the NESD program is to develop implantable, biocompatible neurotechnology that compensates for sensory deficits. As a result, neurological and audiological research often merge, leading hearing aid manufacturers to develop digital processors that mirror brain-computer interfaces. 
+
+[1](https://jacobsschool.ucsd.edu/news/release/2259?id=2259)
 
 ---
 
