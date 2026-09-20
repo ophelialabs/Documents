@@ -1,5 +1,5 @@
 ---
-title: "Neural Engineering System Design: Evidence, Technical Claims, and Ethical Boundaries"
+title: "NESD"
 ---
 
 # Neural Engineering System Design: Evidence, Technical Claims, and Ethical Boundaries
