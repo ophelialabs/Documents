@@ -1,19 +1,32 @@
 ---
-title: NGS2AS
+title: "NGS2AS"
 ---
 
-## INTRO
-This documentation details the interconnected relationships between **[0G/SIGFOX](https://sigfox.com)**, **[6G Reconfigurable Intelligent Surfaces (RIS)](https://www.science.org/doi/10.1126/sciadv.adx4359)**, and **[Spectrum Management](https://www.peratonlabs.com/oscar.html)** in the context of modern and next-generation wireless communications infrastructure. 
+# Integrating Low-Power IoT, Reconfigurable Intelligent Surfaces, and Spectrum Management
 
-This section is the engineering hub for communications networks, radio spectrum, IoT connectivity, reconfigurable wireless environments, and next-generation systems.
+## Abstract
 
-The detailed spectrum and wireless systems documentation below remains the primary technical resource for this area.
+This paper examines how low-power wide-area IoT networks, reconfigurable intelligent surfaces (RIS), and spectrum-management frameworks may be considered together in heterogeneous wireless systems. It compares the operating constraints of SIGFOX-class ultra-narrowband connectivity with the proposed capabilities and limitations of RIS-assisted networks. It then develops a conceptual coexistence architecture spanning spectrum sensing, coordination, regulatory compliance, and feedback control. The use cases and machine-learning components are presented as design hypotheses rather than validated performance results. The analysis indicates that integration is technically plausible only when device capabilities, propagation conditions, interference constraints, standards, and national regulations are evaluated separately and then combined through an evidence-based systems model.
+
+## Introduction
+
+Modern wireless infrastructure increasingly combines low-power IoT links, licensed broadband systems, edge computing, and research-stage methods for controlling radio propagation. This paper focuses on the relationship between **[0G/SIGFOX](https://sigfox.com)**, **[6G Reconfigurable Intelligent Surfaces (RIS)](https://www.science.org/doi/10.1126/sciadv.adx4359)**, and **[spectrum management](https://www.peratonlabs.com/oscar.html)**.
+
+The analysis has three objectives:
+
+1. Describe the technical and regulatory constraints of low-power IoT and RIS-assisted wireless systems.
+2. Identify dependencies that affect coexistence across sub-GHz, cellular, mmWave, and emerging spectrum bands.
+3. Propose a conceptual integration architecture and identify the evidence required to validate it.
+
+### Scope and Method
+
+This is a systems-oriented technical review and architecture proposal, not a report of a completed deployment. Public standards, regulator materials, institutional references, and technical research are treated as background evidence. Numerical improvements, deployment timelines, and machine-learning performance claims are considered hypotheses unless supported by a cited measurement or reproducible experiment. Regulatory values are jurisdiction-specific and should be verified against current rules before implementation.
 
 ---
 
-### 1 - 0G Technology: SIGFOX
+## Low-Power Wide-Area IoT: SIGFOX-Class Systems
 
-**0G (Zero-Generation)** or **Ultra-Narrowband (UNB)** refers to the first generation of sub-GHz IoT wireless technologies that preceded 5G and 6G. [SIGFOX](https://sigfox.com) is the most prominent 0G technology platform, providing long-range, low-power wireless connectivity for IoT devices.
+In this paper, **0G** is used as an informal industry label for early sub-GHz, low-power IoT services rather than as a formal mobile-generation standard. SIGFOX uses ultra-narrowband (UNB) signaling to provide low-throughput, long-range connectivity for suitable IoT applications. Operating values vary by national configuration, service plan, device, and radio conditions. [SIGFOX](https://sigfox.com)
 
 #### Technical Characteristics
 
@@ -24,7 +37,7 @@ The detailed spectrum and wireless systems documentation below remains the prima
 | **Data Rate** | 10-600 bps |
 | **Range** | 10-40 km (rural), 3-10 km (urban) |
 | **Power Consumption** | Ultra-low (1-10 mW) |
-| **Latency** | Non-real-time (10-24 hour message delivery SLA) |
+| **Latency** | Application- and service-dependent; not intended for general real-time traffic |
 | **Architecture** | Star topology, Base Station → Backend Network |
 
 #### SIGFOX Network Architecture
@@ -39,15 +52,15 @@ SIGFOX Network Control Center
 Customer Applications & Services
 ```
 
-**See Also:** [Wikipedia - SIGFOX](https://en.wikipedia.org/wiki/Sigfox), [Wikipedia - Internet of Things](https://en.wikipedia.org/wiki/Internet_of_things)
+**Background references:** [Wikipedia - SIGFOX](https://en.wikipedia.org/wiki/Sigfox), [Wikipedia - Internet of Things](https://en.wikipedia.org/wiki/Internet_of_things)
 
-#### Key Advantages
+#### Operating Benefits and Trade-offs
 
 - **Extended Battery Life:** Years of operation on AA batteries
 - **Spectrum Efficiency:** 100 Hz bandwidth allows thousands of devices per base station
 - **Simple Protocol:** Low overhead, minimal processing requirements
 - **Wide Coverage:** Sub-GHz propagation characteristics enable long-distance transmission
-- **Global Roaming:** Unified SIGFOX network across 60+ countries
+- **Wide-area service:** Coverage and roaming depend on the operator network and country-specific deployment.
 
 #### Limitations
 
@@ -57,7 +70,7 @@ Customer Applications & Services
 - **Regulatory Constraints:** Sub-GHz spectrum increasingly congested
 - **Legacy Technology:** Being superseded by NB-IoT, LTE-M, LoRaWAN in many applications
 
-#### Spectrum Management in 0G
+#### Spectrum and Regulatory Constraints
 
 - **Licensed Sub-GHz Bands:** SIGFOX operates on licensed-exempt ISM bands (with national variations)
 - **Duty Cycle Limits:** European regulations typically limit transmit duty cycles (1% for most sub-GHz)
@@ -66,10 +79,10 @@ Customer Applications & Services
 
 ---
 
-## Body 1 - 6G RIS:
-Reconfigurable Intelligent Surfaces, also called **Intelligent Reflecting Surfaces (IRS)**, represent a paradigm shift in wireless communications. [RIS](https://www.rohde-schwarz.com/us/solutions/wireless-communications-testing/wireless-standards/6g/reconfigurable-intelligent-surfaces-ris/reconfigurable-intelligent-surfaces-ris_257043.html) are **Programmable metasurfaces** ([1](https://share.google/5TRsJZBxrHHvbavMD), [2](https://www.science.org/doi/10.1126/sciadv.adx4359)) that dynamically manipulate electromagnetic waves (amplitude, phase, direction) to optimize signal propagation.
+## Reconfigurable Intelligent Surfaces
+Reconfigurable intelligent surfaces, also called **intelligent reflecting surfaces (IRS)**, are programmable electromagnetic structures studied for controlling aspects of wireless propagation. Depending on the design, a surface may adjust the phase, amplitude, or direction of reflected or transmitted fields. RIS remains an active research area; descriptions of future 6G deployment should therefore be treated as proposals rather than established network practice. [RIS overview](https://www.rohde-schwarz.com/us/solutions/wireless-communications-testing/wireless-standards/6g/reconfigurable-intelligent-surfaces-ris/reconfigurable-intelligent-surfaces-ris_257043.html) | [research reference](https://www.science.org/doi/10.1126/sciadv.adx4359)
 
-**See Also:** [Wikipedia - 6G](https://en.wikipedia.org/wiki/6G), [Wikipedia - Metasurface](https://en.wikipedia.org/wiki/Metasurface), [Wikipedia - Beamforming](https://en.wikipedia.org/wiki/Beamforming)
+**Background references:** [Wikipedia - 6G](https://en.wikipedia.org/wiki/6G), [Wikipedia - Metasurface](https://en.wikipedia.org/wiki/Metasurface), [Wikipedia - Beamforming](https://en.wikipedia.org/wiki/Beamforming)
 
 ### Core Concept
 
@@ -78,10 +91,10 @@ Traditional wireless networks rely on:
 - Passive environments
 - Adaptive algorithms at transmitter/receiver
 
-**RIS Networks** enable:
-- **Active Environment Control:** Surfaces actively shape the wireless channel
-- **Reconfigurable Coverage:** On-demand optimization for different users/scenarios
-- **Virtual Line-of-Sight (LoS):** Create effective LoS paths in NLOS scenarios
+**RIS research investigates:**
+- **Environment-aware propagation:** Adjusting boundary conditions to influence the wireless channel
+- **Reconfigurable coverage:** Adapting a surface configuration to users or scenarios
+- **Effective path enhancement:** Improving selected non-line-of-sight links under suitable geometry and channel conditions
 
 #### Technical Architecture
 
@@ -123,13 +136,13 @@ Where:
 4. **Satellite-Based RIS:** Space-based reflecting surfaces for global coverage
 5. **UAV-Mounted RIS:** Aerial platforms for dynamic coverage areas
 
-#### Advantages of 6G RIS
+#### Potential Benefits and Trade-offs
 
 | Advantage | Benefit |
 |-----------|---------|
 | **Passive Reflection** | Lower power than traditional repeaters |
 | **Programmability** | Real-time adaptation to channel conditions |
-| **No Radio Access Network (RAN) Upgrades** | Works with existing infrastructure |
+| **Potential infrastructure compatibility** | May complement existing infrastructure, subject to controller, channel-estimation, and standards requirements |
 | **Reduced Interference** | Intelligent steering minimizes crosstalk |
 | **Energy Efficiency** | Passive elements consume minimal power |
 | **Coverage Enhancement** | Extends range in obstructed environments |
@@ -155,24 +168,24 @@ Where:
 - N₀ = Noise power
 ```
 
-**RIS-Enhanced Efficiency:**
+**Illustrative RIS-Enhanced Model:**
 ```
 C_RIS = B × log₂(1 + (P × |H_RIS|²)/(σ² × N₀))
 
 Where:
-- |H_RIS|² = Signal amplification via RIS phase optimization
-- Can achieve 2-4× improvement over baseline
+- |H_RIS|² = Effective cascaded channel gain under the selected RIS configuration
+- Performance improvement must be measured for the deployment geometry and baseline; a fixed 2-4× gain should not be assumed
 ```
 
 ---
 
-## Body 2 - Spectrum Management Framework
+## Spectrum Management Framework
 
 ### Regulatory Landscape
 
 Spectrum management is governed by international and national bodies that ensure fair access, interference prevention, and efficient utilization.
 
-1. International Bodies
+#### International and National Bodies
 
 | Organization | Role | Jurisdiction |
 |--------------|------|--------------|
@@ -185,7 +198,7 @@ Spectrum management is governed by international and national bodies that ensure
 
 ### Spectrum Allocation Principles
 
-#### 1. Licensed vs. Unlicensed Spectrum
+#### Licensed and Unlicensed Spectrum
 
 **Licensed Spectrum:**
 - Exclusive frequency allocation to specific operators
@@ -200,9 +213,9 @@ Spectrum management is governed by international and national bodies that ensure
 - Lower/no acquisition cost
 - Examples: 2.4 GHz (WiFi, Bluetooth), 5 GHz (WiFi), Sub-GHz (SIGFOX, LoRaWAN)
 
-**See Also:** [Wikipedia - Radio spectrum](https://en.wikipedia.org/wiki/Radio_spectrum), [Wikipedia - ISM band](https://en.wikipedia.org/wiki/ISM_band), [Britannica - Wireless Communication](https://www.britannica.com/technology/wireless-communication)
+**Background references:** [Wikipedia - Radio spectrum](https://en.wikipedia.org/wiki/Radio_spectrum), [Wikipedia - ISM band](https://en.wikipedia.org/wiki/ISM_band), [Britannica - Wireless Communication](https://www.britannica.com/technology/wireless-communication)
 
-#### 2. Spectrum Bands Relevant to 0G, 5G, 6G
+#### Spectrum Bands Relevant to 0G, 5G, and 6G
 
 | Band | Frequency | Primary Use | Generation |
 |------|-----------|------------|-----------|
@@ -216,39 +229,39 @@ Spectrum management is governed by international and national bodies that ensure
 | **Sub-THz** | 100-300 GHz | Future 6G backhaul | 6G |
 | **THz** | 300+ GHz | 6G frontier | 6G Research |
 
-**See Also:** [Wikipedia - 5G](https://en.wikipedia.org/wiki/5G), [Wikipedia - Millimeter wave](https://en.wikipedia.org/wiki/Millimeter_wave), [Wikipedia - C band](https://en.wikipedia.org/wiki/C_band), [Britannica - Electromagnetic Spectrum](https://www.britannica.com/technology/electromagnetic-spectrum)
+**Background references:** [Wikipedia - 5G](https://en.wikipedia.org/wiki/5G), [Wikipedia - Millimeter wave](https://en.wikipedia.org/wiki/Millimeter_wave), [Wikipedia - C band](https://en.wikipedia.org/wiki/C_band), [Britannica - Electromagnetic Spectrum](https://www.britannica.com/technology/electromagnetic-spectrum)
 
 ### Spectrum Sharing Mechanisms
 
-#### 1. Time Division (TDD/FDD)
+#### Time and Frequency Division
 - **TDD:** Same band, different time slots for UL/DL
 - **FDD:** Different bands for UL/DL (duplex filter isolation)
 
-#### 2. Frequency Division
+#### Frequency Division
 - Separate bands for different services
 - Guard bands to minimize crosstalk
 
-#### 3. Power Control & Interference Mitigation
+#### Power Control and Interference Mitigation
 - Transmit power limits (EIRP)
 - Duty cycle restrictions
 - Directional antenna requirements
 - Automatic Gain Control (AGC)
 
-#### 4. Dynamic Spectrum Access (DSA)
+#### Dynamic Spectrum Access
 - **Cognitive Radio:** Secondary users sense spectrum, transmit in white spaces
 - **Spectrum Sharing Agreements:** Licensed Shared Access (LSA)
 - **Citizens Broadband Radio Service (CBRS):** Tiered access (Priority Access License, General Authorized Access)
 
-#### 5. RIS-Enabled Spectrum Sharing
+#### RIS-Enabled Spectrum Sharing
 - **Virtual Spectrum Multiplexing:** RIS steers signals to different users on same frequency
 - **Interference Cancellation:** Phase-shift control directs interference away
 - **Reconfigurable Frequency Allocation:** Adapt allocation per RIS element group
 
-**See Also:** [Wikipedia - Cognitive radio](https://en.wikipedia.org/wiki/Cognitive_radio), [Wikipedia - Electromagnetic interference](https://en.wikipedia.org/wiki/Electromagnetic_interference), [Wikipedia - Duplex](https://en.wikipedia.org/wiki/Duplex_(telecommunications))
+**Background references:** [Wikipedia - Cognitive radio](https://en.wikipedia.org/wiki/Cognitive_radio), [Wikipedia - Electromagnetic interference](https://en.wikipedia.org/wiki/Electromagnetic_interference), [Wikipedia - Duplex](https://en.wikipedia.org/wiki/Duplex_(telecommunications))
 
 ### Spectrum Coexistence Requirements
 
-**Parity Check Mechanisms:**
+**Illustrative coexistence checks:**
 ```
 1. Detect Adjacent Band Emissions
    ├─ In-Band Power Spectral Density (PSD) limits
@@ -269,7 +282,7 @@ Spectrum management is governed by international and national bodies that ensure
 
 ---
 
-## Body 3 - Relationships and Dependencies
+## Cross-Technology Relationships and Dependencies
 
 **The Spectrum Evolution Pyramid**
 
@@ -292,7 +305,7 @@ Spectrum management is governed by international and national bodies that ensure
 
 **Spectrum Migration Path:**
 
-1. **0G/SIGFOX Era (2010-Present)**
+1. **0G/SIGFOX Era**
    - Dominated sub-1 GHz unlicensed bands
    - Minimal bandwidth per device (100 Hz)
    - Duty-cycle limited
@@ -304,27 +317,27 @@ Spectrum management is governed by international and national bodies that ensure
    - Coexistence with 0G in sub-1 GHz
    - Licensed-Shared Access (LSA) mechanisms introduced
 
-3. **6G/RIS Era (2025-2030+)**
+3. **Potential 6G/RIS Era**
    - Shift toward **efficiency** via intelligent surfaces
-   - RIS enables spectrum "densification" without new bandwidth
-   - Sub-THz and THz bands opening
-   - Integrated 0G + 6G continuum networks
+    - RIS may improve spatial reuse without creating new bandwidth
+    - Sub-THz and THz research continues
+    - Integrated 0G and 6G architectures remain a research hypothesis
 
 ### Cross-Technology Interference Scenarios
 
-#### Scenario 1: Sub-1 GHz Congestion
+#### Scenario 1: Sub-1 GHz Coexistence
 ```
-SIGFOX (868 MHz) operates in same ISM band as:
-- WiFi (2.4 GHz, not directly, but harmonics)
-- Bluetooth (2.4 GHz)
-- LoRaWAN (868 MHz EU variant)
-- LTE Band 20 (800 MHz, nearby)
+Illustrative environment:
+- SIGFOX or another UNB service in a sub-GHz band
+- LoRaWAN or other services using an overlapping or adjacent regional band
+- LTE Band 20 or another nearby licensed service
+- Other ISM devices, depending on the national allocation
 
-Coexistence Strategy:
-1. SIGFOX uses UNB (100 Hz) → minimal PSD
-2. Duty-cycle limits (1% in EU) → temporal separation
-3. Random backoff protocols → reduce collision probability
-4. Frequency hopping → spread across band
+Candidate evaluation measures:
+1. Occupied bandwidth and power spectral density
+2. Duty-cycle and channel-access constraints
+3. Adjacent-channel selectivity and receiver blocking
+4. Field measurements and compatibility simulations
 ```
 
 #### Scenario 2: 5G/6G NR Co-channel with RIS
@@ -338,16 +351,16 @@ Traditional 5G:
 RIS-Assisted 6G:
 - Base station → RIS → User equipment (controlled path)
 - RIS phases optimized for constructive interference
-- Can redirect 5G emissions via controlled reflections
-- Dramatically reduces co-channel interference
+- May redirect selected energy under suitable channel conditions
+- Interference reduction must be demonstrated through link-level and field measurements
 ```
 
 #### Scenario 3: Satellite + Terrestrial RIS Integration
 ```
-Satellite (QEYSSat, Quantum Channel):
-- Use sub-1 GHz or optical spectrum
-- Ground station control requires spectrum allocation
-- RIS could enhance ground-to-satellite link
+Satellite or optical-quantum research link:
+- Frequency and optical bands depend on the mission and licensed system
+- Ground-station control requires appropriate authorization
+- RIS enhancement remains a deployment-specific research question
 
 Integration:
 1. RIS-equipped ground stations relay satellite signals
@@ -358,11 +371,11 @@ Integration:
 
 ---
 
-## Body 3 - Technical Integration
+## Proposed Technical Integration
 
 ### 0G-6G Spectrum Coexistence Protocol
 
-**Proposed Architecture:**
+**Conceptual Architecture:**
 
 ```
 Tier 1: Spectrum Sensing (Per Device/RIS)
@@ -385,13 +398,15 @@ Tier 3: Regulatory Compliance
 Tier 4: Feedback Loop
 ├─ QoS Monitoring (Packet Delivery Rate, Latency)
 ├─ Channel Estimation (RSSI, SINR tracking)
-├─ RIS Adaptation (Phase-shift updates @ 1-100 Hz)
+├─ RIS Adaptation (phase-shift updates at a validated control rate)
 └─ Policy Adjustment (Reallocate if constraints violated)
 ```
 
 ### Machine Learning Integration
 
-**RIS Optimization via Deep Reinforcement Learning:**
+**Illustrative RIS optimization pseudocode:**
+
+The following sketch describes a possible research implementation. It is not a validated controller and omits the channel-estimation, safety, action-space, and simulator interfaces required for deployment.
 
 ```python
 # Pseudocode: RIS Phase Optimization
@@ -433,7 +448,7 @@ class RISOptimizer:
 
 ---
 
-## Use Cases and Applications
+## Illustrative Use Cases
 
 ### Use Case 1: Smart Meter Networks with 6G Enhancement
 
@@ -445,11 +460,11 @@ class RISOptimizer:
 - Daily consumption reports
 - Latency: 10-24 hours acceptable
 
-**6G RIS Enhancement:**
+**Illustrative RIS hypothesis:**
 - RIS deployed on utility poles
 - Improves SIGFOX link in obstructed areas (basement meters)
 - Reduces retransmissions via phase optimization
-- Spectrum Savings: 15-20% fewer devices needed
+- Any reduction in retransmissions or infrastructure requirements would require a site-specific measurement study.
 
 **Spectrum Management:**
 - SIGFOX: Licensed-exempt 868 MHz (EU) with 1% duty cycle
@@ -458,7 +473,7 @@ class RISOptimizer:
 
 ### Use Case 2: Emergency Communications Network
 
-**Scenario:** Disaster scenario, terrestrial networks damaged
+**Scenario:** A disaster-response concept in which terrestrial networks are damaged.
 
 **Architecture:**
 ```
@@ -484,7 +499,7 @@ Emergency Personnel/Survivors
 3. **SIGFOX Emergency Beacons:**
    - Sub-1 GHz for extreme range (hills, dense structures)
    - Wearable/drone-mountable units
-   - Duty-cycle relaxed under emergency declaration
+    - Operation would remain subject to applicable emergency communications rules and authorization.
 
 ### Use Case 3: Factory 4.0 / Industry 5.0 Integration
 
@@ -493,7 +508,7 @@ Emergency Personnel/Survivors
 **Deployment:**
 - **SIGFOX (Stationary Sensors):** Factory floor environmental monitoring (temperature, humidity, vibration)
 - **5G (Mobile Robots):** Real-time video, AGV navigation, collision avoidance
-- **6G RIS (Hybrid Enhancement):** Improves SIGFOX reliability in RF-dense areas, enables seamless handover between technologies
+- **RIS research option:** Could be evaluated for link improvement in RF-dense areas; seamless handover between unrelated radio systems would require an explicit interoperability design.
 
 **Spectrum Plan:**
 ```
@@ -512,7 +527,7 @@ Optical Backhaul:            Plant-to-Cloud data pipeline
 
 ### National Implementations
 
-#### European Union (ISED Regulations)
+#### European Union Regulations
 
 **Sub-1 GHz (868 MHz) for SIGFOX:**
 - **Power Limit:** 14 dBm EIRP (max)
@@ -527,13 +542,12 @@ Optical Backhaul:            Plant-to-Cloud data pipeline
 - **RIS Integration:** Emerging guidance from ETSI Technical Committees
 - **Coexistence:** 3GPP intra-band coexistence rules (SAW/BAW filter requirements)
 
-**6G RIS Emerging Rules:**
-- Definition in ETSI TR 103 923 (6G Research)
-- Interference mitigation via "intelligent surfaces" guidance (DRAFT)
-- Backhaul licensing: Dedicated microwave or fiber recommended
-- Phase-shift modulation: Treated as "beamforming" under existing rules
+**6G RIS regulatory status:**
+- RIS-specific rules and standards remain under development.
+- Any RF-emitting controller, backhaul, or active surface component must comply with the applicable national framework.
+- Passive-surface operation does not remove the need to assess interference, authorization, and equipment compliance.
 
-**See Also:** [Wikipedia - Regulation of wireless frequencies](https://en.wikipedia.org/wiki/Regulation_of_wireless_frequencies), [Britannica - Radio Wave](https://www.britannica.com/technology/radio-wave)
+**Background references:** [Wikipedia - Regulation of wireless frequencies](https://en.wikipedia.org/wiki/Regulation_of_wireless_frequencies), [Britannica - Radio Wave](https://www.britannica.com/technology/radio-wave)
 
 #### United States (FCC Regulations)
 
@@ -549,11 +563,10 @@ Optical Backhaul:            Plant-to-Cloud data pipeline
 - **RIS Backhaul:** Licensed microwave or fiber required
 - **RIS Transmit Restrictions:** Must operate under existing rules (cannot introduce new RF elements without licensing)
 
-**6G RIS (Emerging):**
-- FCC Notice of Inquiry (NOI) on RIS integration (2024)
-- Proposed "Experimental License" category for RIS research
-- Backhaul: Requires fixed satellite service (FSS) or microwave licensing
-- No standardized frequency bands yet allocated for RIS pilot deployments
+**6G RIS (emerging):**
+- Experimental deployments require review under the applicable FCC authorization pathway.
+- No universal RIS frequency allocation should be assumed from a research proposal.
+- Backhaul and any active RF components require separate regulatory analysis.
 
 #### Canada (ISED Regulations)
 
@@ -570,18 +583,18 @@ Optical Backhaul:            Plant-to-Cloud data pipeline
 
 ---
 
-## Future Evolution
+## Future Research Directions
 
 ### 6G Roadmap: Beyond RIS
 
-#### Phase 1 (2025-2027): RIS Deployment & Standardization
+#### Phase 1: RIS Research and Standardization
 
 - **3GPP Release 18+:** RIS channel models, signaling protocols
 - **Frequency Allocation:** Sub-THz (100-300 GHz) for RIS backhaul
 - **Initial Deployments:** Urban areas, enterprise networks
 - **Spectrum Management:** Co-channel 5G/RIS coexistence standards
 
-#### Phase 2 (2028-2030): Integrated 0G-6G Networks
+#### Phase 2: Integrated 0G-6G Research Platforms
 
 **Converged Architecture:**
 ```
@@ -604,7 +617,7 @@ Edge Computing / User Equipment
 - **mmWave/Sub-THz:** Dedicated 6G via RIS optimization
 - **THz (>300 GHz):** Frontier for ultra-high-capacity backhaul, sensing
 
-#### Phase 3 (2030+): Fully Autonomous Spectrum Management
+#### Phase 3: Autonomous Spectrum-Management Research
 
 **AI-Driven Spectrum Allocation:**
 - Machine learning predicts spectrum demand
@@ -620,9 +633,15 @@ Edge Computing / User Equipment
 
 ---
 
+## Limitations and Validation Requirements
+
+The architecture described here is conceptual. It does not demonstrate interoperability between SIGFOX, 5G, 6G, RIS, satellite, optical, or quantum systems. The numerical values in the technical tables are representative and may vary by country, operator, device class, and revision of the relevant standard. The proposed machine-learning controller is pseudocode rather than an evaluated implementation. Claims about coverage, capacity, energy savings, interference reduction, emergency operation, or autonomous allocation require controlled simulation, hardware-in-the-loop testing, field measurements, security review, and regulatory authorization.
+
+Future work should define a reproducible testbed with fixed frequencies, antenna patterns, channel models, traffic loads, RIS control latency, baseline systems, and evaluation metrics such as packet-delivery ratio, SINR, latency, energy per message, spectral efficiency, and interference temperature.
+
 ## Conclusion
 
-The evolution from **0G/SIGFOX** through **5G** to **6G RIS** represents a fundamental shift in how wireless spectrum is conceptualized and managed:
+The transition from low-power IoT networks through 5G and toward research-stage RIS-assisted systems illustrates a changing set of spectrum-management and propagation-control challenges:
 
 | Era | Paradigm | Spectrum Model | Management |
 |-----|----------|----------------|-----------|
@@ -630,19 +649,19 @@ The evolution from **0G/SIGFOX** through **5G** to **6G RIS** represents a funda
 | **5G** | Throughput | Licensed exclusive bands, high power | Auction-based, coexistence specs |
 | **6G RIS** | Intelligence | Passive environment optimization, spectral reuse | Autonomous, AI-driven allocation |
 
-**Key Takeaways:**
+**Conclusions:**
 
-1. **0G/SIGFOX** remains viable for massive IoT deployments but is spectrum-limited
-2. **6G RIS** unlocks new spectral efficiency gains without new frequency allocations
-3. **Spectrum Management** evolves from static allocation to dynamic, AI-optimized coordination
-4. **Coexistence** between generations is technically feasible and increasingly standardized
-5. **Regulatory frameworks** lag technology; harmonization of 6G RIS rules is critical for global deployment
+1. SIGFOX-class systems remain suited to constrained IoT workloads, but their throughput, downlink, duty-cycle, and coverage limits must be evaluated for each deployment.
+2. RIS may improve selected links or spatial reuse, but gains depend on geometry, channel estimation, hardware, control latency, and baseline comparison.
+3. Spectrum management increasingly combines allocation, sensing, interference mitigation, and policy constraints; automation does not remove the need for regulatory oversight.
+4. Cross-generation coexistence is a testable engineering problem, not an assumption that follows from combining technologies in an architecture diagram.
+5. The proposed integration model is best treated as a research agenda requiring reproducible experiments and jurisdiction-specific compliance analysis.
 
-The future wireless ecosystem will be **heterogeneous, intelligent, and spectrum-efficient**—achieved through the careful integration of legacy 0G technologies, mature 5G networks, and emerging 6G paradigms under unified spectrum governance.
+Future wireless systems may become more heterogeneous and adaptive through careful integration of low-power IoT, mature cellular networks, and emerging propagation-control technologies under coordinated spectrum governance.
 
 ---
 
-## References & Further Reading
+## References
 
 ### Standards & Specifications
 
@@ -704,8 +723,6 @@ The future wireless ecosystem will be **heterogeneous, intelligent, and spectrum
 
 ---
 
-Next - [Quantum Networking](../02_Learn_Iseek/03_Physical_Computational_and_Applied_Sciences/Engineering/Quantum/Network/index.md): quantum information, protocols, and network-oriented references
+**Keywords:** low-power wide-area networks; SIGFOX; reconfigurable intelligent surfaces; spectrum management; coexistence; 6G; wireless systems.
 
-**Last Updated:** 2026-08-26  
-**Document Status:** Comprehensive Reference Guide  
-**Audience:** Network Engineers, Spectrum Managers, 6G Researchers
+**Editorial note:** This paper is a conceptual technical review and architecture proposal. Its numerical examples, regulatory summaries, and future-oriented scenarios require verification against current standards, local regulations, and reproducible experiments before implementation.
