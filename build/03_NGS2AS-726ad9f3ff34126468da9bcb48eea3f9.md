@@ -1,26 +1,29 @@
 ---
-title: "NGS2AS"
+title: "Integrating Low-Power IoT, Quantum IoT, Neural Interfaces, and Spectrum Management"
 ---
 
-# Integrating Low-Power IoT, Reconfigurable Intelligent Surfaces, and Spectrum Management
+# Integrating Low-Power IoT, Quantum IoT, Neural Interfaces, and Spectrum Management
 
 ## Abstract
 
-This paper examines how low-power wide-area IoT networks, reconfigurable intelligent surfaces (RIS), and spectrum-management frameworks may be considered together in heterogeneous wireless systems. It compares the operating constraints of SIGFOX-class ultra-narrowband connectivity with the proposed capabilities and limitations of RIS-assisted networks. It then develops a conceptual coexistence architecture spanning spectrum sensing, coordination, regulatory compliance, and feedback control. The use cases and machine-learning components are presented as design hypotheses rather than validated performance results. The analysis indicates that integration is technically plausible only when device capabilities, propagation conditions, interference constraints, standards, and national regulations are evaluated separately and then combined through an evidence-based systems model.
+This paper examines how low-power wide-area IoT networks, quantum-IoT software, neural-interface research, reconfigurable intelligent surfaces (RIS), and spectrum-management frameworks may be considered together in heterogeneous wireless systems. It compares the operating constraints of SIGFOX-class ultra-narrowband connectivity with the proposed capabilities and limitations of RIS-assisted networks. It then introduces a conceptual interface model linking the [QIoT research platform](https://github.com/jlabclouds/qsharpIoT), publicly documented [DARPA NESD objectives](01_NESD.md), and fiber-based neural-interface materials research. The use cases and machine-learning components are presented as design hypotheses rather than validated performance results. The analysis indicates that integration is technically plausible only when device capabilities, biological interfaces, propagation conditions, interference constraints, standards, and national regulations are evaluated separately and then combined through an evidence-based systems model.
 
 ## Introduction
 
-Modern wireless infrastructure increasingly combines low-power IoT links, licensed broadband systems, edge computing, and research-stage methods for controlling radio propagation. This paper focuses on the relationship between **[0G/SIGFOX](https://sigfox.com)**, **[6G Reconfigurable Intelligent Surfaces (RIS)](https://www.science.org/doi/10.1126/sciadv.adx4359)**, and **[spectrum management](https://www.peratonlabs.com/oscar.html)**.
+Modern wireless infrastructure increasingly combines low-power IoT links, licensed broadband systems, edge computing, and research-stage methods for controlling radio propagation. This paper focuses on the relationship between **[0G/SIGFOX](https://sigfox.com)**, **[6G Reconfigurable Intelligent Surfaces (RIS)](https://www.science.org/doi/10.1126/sciadv.adx4359)**, **[spectrum management](https://www.peratonlabs.com/oscar.html)**, quantum-IoT software, and neural-interface research.
 
 The analysis has three objectives:
 
 1. Describe the technical and regulatory constraints of low-power IoT and RIS-assisted wireless systems.
 2. Identify dependencies that affect coexistence across sub-GHz, cellular, mmWave, and emerging spectrum bands.
 3. Propose a conceptual integration architecture and identify the evidence required to validate it.
+4. Define a bounded data and control relationship among QIoT, NESD-related neural-interface requirements, and biointerface materials research.
 
 ### Scope and Method
 
 This is a systems-oriented technical review and architecture proposal, not a report of a completed deployment. Public standards, regulator materials, institutional references, and technical research are treated as background evidence. Numerical improvements, deployment timelines, and machine-learning performance claims are considered hypotheses unless supported by a cited measurement or reproducible experiment. Regulatory values are jurisdiction-specific and should be verified against current rules before implementation.
+
+The QIoT repository is treated as a software and experimentation reference. NESD is treated as a public research program with technical objectives, not as a single commercial interface or software API. The Materials Horizons review is used to inform the materials and biointerface layer. None of these sources demonstrates a direct QIoT-to-NESD connection or authorizes clinical use.
 
 ---
 
@@ -373,6 +376,26 @@ Integration:
 
 ## Proposed Technical Integration
 
+### QIoT-NESD Research Workflow
+
+The following workflow extends the spectrum-coexistence architecture with a software-defined research path. It is a testbed proposal, not a claim that the linked projects currently interoperate:
+
+```text
+QIoT repository and quantum-classical modules
+    ↓
+Classical signal-processing baseline and dataset replay
+    ↓
+Validated neural-interface gateway
+    ↓
+NESD-inspired recording/stimulation experiment
+    ↓
+RIS, spectrum, or edge-network optimization
+    ↓
+Human-reviewed results and safety audit
+```
+
+The first experiments should use synthetic or de-identified data and a simulated neural device. A live neural interface would require device-specific engineering, institutional review, informed consent, cybersecurity controls, and a qualified clinical or laboratory team. The integration target is therefore an auditable research workflow, not remote neural access or general-purpose thought decoding.
+
 ### 0G-6G Spectrum Coexistence Protocol
 
 **Conceptual Architecture:**
@@ -635,7 +658,7 @@ Edge Computing / User Equipment
 
 ## Limitations and Validation Requirements
 
-The architecture described here is conceptual. It does not demonstrate interoperability between SIGFOX, 5G, 6G, RIS, satellite, optical, or quantum systems. The numerical values in the technical tables are representative and may vary by country, operator, device class, and revision of the relevant standard. The proposed machine-learning controller is pseudocode rather than an evaluated implementation. Claims about coverage, capacity, energy savings, interference reduction, emergency operation, or autonomous allocation require controlled simulation, hardware-in-the-loop testing, field measurements, security review, and regulatory authorization.
+The architecture described here is conceptual. It does not demonstrate interoperability between SIGFOX, 5G, 6G, RIS, satellite, optical, quantum, QIoT, or NESD-related systems. The numerical values in the technical tables are representative and may vary by country, operator, device class, and revision of the relevant standard. The proposed machine-learning controller is pseudocode rather than an evaluated implementation. Claims about coverage, capacity, energy savings, interference reduction, emergency operation, neural decoding, or autonomous allocation require controlled simulation, hardware-in-the-loop testing, field measurements, security review, human-subjects oversight where applicable, and regulatory authorization.
 
 Future work should define a reproducible testbed with fixed frequencies, antenna patterns, channel models, traffic loads, RIS control latency, baseline systems, and evaluation metrics such as packet-delivery ratio, SINR, latency, energy per message, spectral efficiency, and interference temperature.
 
@@ -655,13 +678,21 @@ The transition from low-power IoT networks through 5G and toward research-stage 
 2. RIS may improve selected links or spatial reuse, but gains depend on geometry, channel estimation, hardware, control latency, and baseline comparison.
 3. Spectrum management increasingly combines allocation, sensing, interference mitigation, and policy constraints; automation does not remove the need for regulatory oversight.
 4. Cross-generation coexistence is a testable engineering problem, not an assumption that follows from combining technologies in an architecture diagram.
-5. The proposed integration model is best treated as a research agenda requiring reproducible experiments and jurisdiction-specific compliance analysis.
+5. QIoT can serve as a software, simulation, orchestration, or optimization layer only through a documented gateway; it is not itself a neural-interface device.
+6. NESD objectives and fiber-based neural-interface materials research inform separate experimental layers, but the sources do not establish a QIoT-NESD implementation.
+7. The proposed integration model is best treated as a research agenda requiring reproducible experiments and jurisdiction-specific compliance analysis.
 
 Future wireless systems may become more heterogeneous and adaptive through careful integration of low-power IoT, mature cellular networks, and emerging propagation-control technologies under coordinated spectrum governance.
 
 ---
 
 ## References
+
+### Primary Integration Sources
+
+1. [QIoT Advanced repository](https://github.com/jlabclouds/qsharpIoT) - Project documentation for quantum, hybrid quantum-classical, and IoT-oriented software experimentation.
+2. [Won et al., "Emerging fiber-based neural interfaces with conductive composites"](https://doi.org/10.1039/D4MH01854K), *Materials Horizons*, 2025, 12, 4545-4572. - Review of conductive composites, fabrication, integration strategies, and therapeutic applications for fiber-based neural interfaces.
+3. [NESD research overview](01_NESD.md) - Public-facing discussion of the Neural Engineering System Design program, its technical objectives, evidence boundaries, and ethical considerations.
 
 ### Standards & Specifications
 
@@ -723,6 +754,6 @@ Future wireless systems may become more heterogeneous and adaptive through caref
 
 ---
 
-**Keywords:** low-power wide-area networks; SIGFOX; reconfigurable intelligent surfaces; spectrum management; coexistence; 6G; wireless systems.
+**Keywords:** low-power wide-area networks; SIGFOX; QIoT; Q#; neural interfaces; NESD; conductive composites; reconfigurable intelligent surfaces; spectrum management; coexistence; 6G; wireless systems.
 
 **Editorial note:** This paper is a conceptual technical review and architecture proposal. Its numerical examples, regulatory summaries, and future-oriented scenarios require verification against current standards, local regulations, and reproducible experiments before implementation.
