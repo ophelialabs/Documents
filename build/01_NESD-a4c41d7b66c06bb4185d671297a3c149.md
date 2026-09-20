@@ -270,30 +270,34 @@ If you want to continue breaking down these dynamics, let me know if you would l
 ---
 
 ## Quantum IoT and Edge Infrastructure
+
+### 1. Quantum IoT and Edge Infrastructure
+
 - [QIoT](https://github.com/jlabclouds/qsharpIoT) - Quantum IoT research and experimentation reference.
 - [Synology](https://www.synology.com/) - Edge storage, device management, and infrastructure for IoT and neurotechnology workflows.
 
-## IoT & Neurotechnology
+### 2. BCI Research and Neuroimaging
 
 Brain-computer interfaces, IoT platforms, and neurotechnology research.
 
-### BCI Research
 - [fMRI and Neuroimaging](#fmri-neuroimaging) - Related imaging methods and research resources.
 
-### fMRI and Neuroimaging
+#### fMRI and Neuroimaging
 - fMRI (functional magnetic resonance imaging) measures changes in blood oxygenation associated with brain activity; it is a noninvasive imaging method and does not by itself establish the presence of a neural implant or interface.
 - [UR CABIN MoBI - Mobile Brain Imaging](https://www.urmc.rochester.edu/del-monte-neuroscience/ur-cabin/mobi) - Mobile brain imaging research at University of Rochester.
 
-### BCI Hardware
+### 3. BCI Hardware, Platforms, and Software
+
+#### BCI Hardware
 - [OpenBCI - Open Brain Computing Interface](https://openbci.com/) - Open-source brain-computer interface hardware.
 - [NeuroSky - Brainwave Computing](https://store.neurosky.com/) - EEG-based neurotechnology and brainwave sensors.
 
-### Comprehensive Platforms
+#### Comprehensive Platforms
 - [Neurodesk](https://neurodesk.org/)
 | [BrainForge](https://brainforge.rs.gsu.edu/)
 | [Neuroconductor](https://neuroconductor.org/)
 
-### Specialized Software
+#### Specialized Software
 - [FreeSurfer](https://surfer.nmr.mgh.harvard.edu/)
 - [SPM (Statistical Parametric Mapping)](https://www.fil.ion.ucl.ac.uk/spm/)
 
