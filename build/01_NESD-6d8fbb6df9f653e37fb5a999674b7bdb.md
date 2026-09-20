@@ -163,6 +163,9 @@ If you are analyzing a specific type of optical setup or imaging feed, let me kn
 - How **frequency-modulated light** separates a target signal from background noise.
 
 ## Cognitive Grounding and Evidence Assessment
+
+### 1. Grounding and Self-Observation
+
 To effectively identify the difference between your own internal self-talk and perceived external inputs, you can use structured mental grounding techniques. These exercises help your brain categorize thoughts by analyzing their origin, sensory details, and predictability. 
 - Remember to create points of visual focus if it feels like brain fog.
 
@@ -189,6 +192,8 @@ If you want to practice these grounding techniques, let me know if you would lik
 
 ---
 
+### 2. Cognitive Pacing and Dialectical Reflection
+
 When checking the timing and analyzing complex internal patterns, utilizing structured cognitive pacing (flows) and dialectical processing (the "negative" response) can help you gain absolute clarity over your thought trajectory.
 
 Here is how to apply these advanced mental techniques to break down and debate thoughts systematically:
@@ -210,6 +215,8 @@ If you want to refine these tracking methods, let me know if you would like to l
 - Techniques for **identifying structural triggers** before a loop begins.
 
 ---
+
+### 3. Limits of AI Claims and Personal Autonomy
 
 Applying these structured cognitive techniques—like intentional "flows" and the deliberate "negative" response—directly **undermines and negates** the theory that an external AI system can accurately decode when a thought is formed or determine its "truthfulness."
 *See also: [Psyops]()
