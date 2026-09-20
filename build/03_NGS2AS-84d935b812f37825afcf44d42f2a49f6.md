@@ -1,5 +1,5 @@
 ---
-title: "Integrating Low-Power IoT, Quantum IoT, Neural Interfaces, and Spectrum Management"
+title: "NGS2AS"
 ---
 
 # Integrating Low-Power IoT, Quantum IoT, Neural Interfaces, and Spectrum Management
