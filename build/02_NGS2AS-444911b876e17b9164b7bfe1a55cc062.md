@@ -2,6 +2,7 @@
 title: "NGS2AS"
 author: ""
 date: 2026-09-21
+description: "A systems review of low-power IoT, SIGFOX-class networks, reconfigurable intelligent surfaces, spectrum management, relationship to neural-interface research."
 keywords:
   - low-power wide-area networks
   - SIGFOX

@@ -2,6 +2,7 @@
 title: "NESD"
 author: ""
 date: 2026-09-21
+description: "A review DARPA Neural Engineering System Design objectives, related neural-interface technologies, evidence boundaries, and ethical safeguards."
 keywords:
     - neural engineering
     - brain-computer interfaces
