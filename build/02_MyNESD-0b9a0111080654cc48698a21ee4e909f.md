@@ -6,6 +6,8 @@ title: MyNESD
 
 <div><iframe width="560" height="315" src="https://www.youtube.com/embed/Mluo2cdsEEk?si=s2RlOiFsgUd0jHdf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
+![](./assets/br.png)
+
 You can `NOT` say that there is [no metal](https://ophelialabs.github.io/Documents/administer/#narrowing-down). combine yt with br.png
 
 Whats most amazing is when you are telling the truth, it is easier to catch the other party slipping up. I told you I would die for this. If I had nothing to "get control over" why would that statement be made? not to mention the other statements. Fire me, do whatever, but you all know. Let's find out where "your heart is". **All you had to do, was `NOT` implant me right?** (twist this statement all you want). But that's not your objective is it. Or is it exactly what I called? Your need for absolute control and your egoism gave you away. Drop it, I dont care. Go ahead... 10 years in the past and maybe "in a different life" (**yes, I was in a [court room](https://www.nccourts.gov/locations/new-hanover-county/new-hanover-county-courthouse) but...**) and who she came back and sat down next to (need to find a way to scrub because this person doesn't deserve you "observers"), what else you got? Covert neurowarfare is to play piggyback. **Keep playing God**. year ago, doing lunges with 200lb heavy bag on one shoulder. analyze this. (him: trying to look good for the cameras) remember when I said at least that means now I know that you think I look(ed) good. Then you mention "[vegetable](https://share.google/aimode/GOcpmcXQjFfMaCQOJ)". Its ok though, I know I just need to push through. Now according to Hawthorn...(ok jokes aside because that was determined once "control" was re-established)
@@ -30,8 +32,6 @@ This man is not the first. Don't listen to that garbage (where are the scars rig
 - 8/13/26 Dr. Becker - No Metal (CT scan) of course w/ graphene and ct/mri compatible compounds (and/or external influence)
 	- Everyone should have right to view scans upon rendering or a trusted contact (mandatory)
 - 09/16/26 22:30 - outside hotel room 128, left a few minutes after observation. 6820 Cliffdale Rd, Fayetteville, NC 28314•(910) 864-8360
-
-![](./assets/br.png)
 
 ![](./assets/nd.png)
 
