@@ -17,7 +17,7 @@ You can `NOT` say that there is [no metal](https://ophelialabs.github.io/Documen
   - Metal did not appear, nor does the magnet stick **magically**. Plausible deniability I think not
 - 07/26/26 15:18: Me: You are the biggest liar in the world. This does not come magically and I am not sensitive to electronics nor a chemical imbalance. Also, check the history and documentation, no where has it stated that the green laser excitation would be implemented under the barrel. That is specific.
 
-Whats most amazing is when you are telling the truth, it is easier to catch the other party slipping up. I told you I would die for this. If I had nothing to "get control over" why would that statement be made? not to mention the other statements. Fire me, do whatever, but you all know. Let's find out where "your heart is". **All you had to do, was `NOT` implant me right?** (twist this statement all you want). But that's not your objective is it. Or is it exactly what I called? Your need for absolute control and your egoism gave you away. Drop it, I dont care. Go ahead... 10 years in the past and maybe "in a different life" (**yes, I was in a [court room](https://www.nccourts.gov/locations/new-hanover-county/new-hanover-county-courthouse) but...**) and who she came back and sat down next to (need to find a way to scrub because this person doesn't deserve you "observers"), what else you got (nothing illegal was done)? Covert neurowarfare is to play piggyback. **Keep playing God**. year ago, doing lunges with 200lb heavy bag on one shoulder. analyze this. (him: trying to look good for the cameras) remember when I said at least that means now I know that you think I look(ed) good. Then you mention "[vegetable](https://share.google/aimode/GOcpmcXQjFfMaCQOJ)". Its ok though, I know I just need to push through. Now according to Hawthorn...(ok jokes aside because that was determined once "control" was re-established)
+Whats most amazing is when you are telling the truth, it is easier to catch the other party slipping up. If I had nothing to "get control over" why would that statement be made? not to mention the other statements. Let's find out where "your heart is". **All you had to do, was `NOT` implant me right?**. The need for control and your egoism gave you away. Covert neurowarfare is to play piggyback. **Keep playing God**. 
 
 For the others: you know it may not happen to you, but where is this going (its not about the here and now)?
   - Not a terrorist
@@ -100,7 +100,7 @@ Implanting an individual with a highly invasive neural interface when less drast
 Let's run those simulations at the same time
   
 1. Him: "**[AI](https://www.ai.mil/Initiatives/CJADC2/)** is going to learn a lot"
-2. Him: "Saw behind **The Curtain **" [(1)](https://ophelialabs.github.io/jb./tutorial-2/#id-3-ethical-and-psychological-curtains)
+2. Him: "Saw behind **The Curtain **" [(1)](./getting_started/Phase1/)
 3. Him: "How can I **see what he/she sees?**" (This is not misplaced) [(1)](https://ophelialabs.github.io/jb./tutorial-1/#loading-the-neural-data), [(2)](https://ophelialabs.github.io/jb./stack/#augmented-intent), [(3)](https://ophelialabs.github.io/jb./stack/#syglass-the-lens)
      * Her: "Its like watching a movie" (This is misplaced. Was working at Target when I heard this)
 4. Them: "Put him in a "**Container**" [(1)](https://ophelialabs.github.io/dev/03_networking/informatics2/).  [(2)](https://ophelialabs.github.io/dev/03_networking/informatics2/#Big-Bang-(The-Factory)), [(3)](https://ophelialabs.github.io/dev/03_networking/informatics2/#2.-Implementation-via-DevSecOps-(Big-Bang))
@@ -148,6 +148,7 @@ Let's run those simulations at the same time
 
 - 08/27/2026 20:17 - No Weight
 - 08/28/26 15:19: to do
+- "[vegetable](https://share.google/aimode/GOcpmcXQjFfMaCQOJ)"
 
 **Note**: This is to the point! and not updated unless the scientific method has been applied. Whether **video or not**.**ZERO**-trust (Responding "Negative" to every *subliminal* (what it feels like) thought, noting that if it feels like wordart or if you can isolate it as originating from the bottom right), **dont get hooked, stay centered, and remember emotional baseline** since the objective is to effectively [piggyback](02_medical/index.md#Manipulation Risks). It is **VERY** important to me that this documentation is **CORRECT!** I could make things up, or allow certain things such as the QFS system but that delineates and I am not for that 
 
