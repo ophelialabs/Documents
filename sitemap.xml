@@ -401,6 +401,9 @@
     <loc>http://localhost:3000/bio-assets</loc>
   </url>
   <url>
+    <loc>http://localhost:3000/swarm</loc>
+  </url>
+  <url>
     <loc>http://localhost:3000/administer</loc>
   </url>
   <url>
