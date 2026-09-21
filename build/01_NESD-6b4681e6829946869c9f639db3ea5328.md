@@ -235,6 +235,7 @@ Critical analysis, source checking, personal boundaries, and qualified support c
 ### 1. Quantum IoT and Edge Infrastructure
 
 - [QIoT](https://github.com/jlabclouds/qsharpIoT) - Quantum IoT research and experimentation reference.
+- [SyGlass](https://www.syglass.io/)
 - [Synology](https://www.synology.com/) - Edge storage, device management, and infrastructure for IoT and neurotechnology workflows.
 
 ### 2. BCI Research and Neuroimaging
