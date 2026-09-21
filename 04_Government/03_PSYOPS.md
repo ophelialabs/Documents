@@ -2,6 +2,7 @@
 title: "PSYOPS"
 author: ""
 date: 2026-09-21
+description: "An evidence-based framework for distinguishing psychological operations, information warfare, and related influence mechanisms from ordinary persuasion, while protecting autonomy and mental health."
 keywords:
   - psyop
   - psychological operations
