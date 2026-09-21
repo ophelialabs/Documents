@@ -1,5 +1,5 @@
 ---
-title: "Psychological Operations and the Contest for Human Belief"
+title: "PSYOPS"
 author: ""
 date: 2026-09-21
 ---
