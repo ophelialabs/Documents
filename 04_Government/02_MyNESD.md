@@ -42,6 +42,8 @@ Sean R - 09/09/26: phone audio logs, too similar?
 review past: what others??? remember months ago, i stated, once this is proven, how many other cases have to be reviewed. use VnK patent, 2003. Every single person that wanted to wear a tin hat or cover windows?
 
 ## STRIKE THE SHEPHERD
+![](./assets/warroom.png)
+
 Trouble can often be traced to a single strong individual——the stirrer, the arrogant underling, the poisoner of
 goodwill. If you allow such people room to operate, others will succumb to their influence. Do not wait for the
 troubles they cause to multiply, do not try to negotiate with them—they are irredeemable. Neutralize their influence by isolating or banishing them. Strike at the source of the trouble and the sheep will scatter.
