@@ -1,5 +1,17 @@
 ---
 title: "NGS2AS"
+keywords:
+  - low-power wide-area networks
+  - SIGFOX
+  - QIoT
+  - Q#
+  - neural interfaces
+  - NESD
+  - conductive composites
+  - reconfigurable intelligent surfaces
+  - spectrum management
+  - 6G
+  - wireless systems.
 ---
 
 # Integrating Low-Power IoT, Quantum IoT, Neural Interfaces, and Spectrum Management
@@ -752,13 +764,6 @@ Future wireless systems may become more heterogeneous and adaptive through caref
 | Spectrum auction | [Wikipedia](https://en.wikipedia.org/wiki/Spectrum_auction) |
 | Channel capacity | [Wikipedia](https://en.wikipedia.org/wiki/Channel_capacity) |
 
----
-
-**Keywords:** low-power wide-area networks; SIGFOX; QIoT; Q#; neural interfaces; NESD; conductive composites; reconfigurable intelligent surfaces; spectrum management; coexistence; 6G; wireless systems.
-
-**Editorial note:** This paper is a conceptual technical review and architecture proposal. Its numerical examples, regulatory summaries, and future-oriented scenarios require verification against current standards, local regulations, and reproducible experiments before implementation.
-
-
 
 
 
@@ -766,6 +771,7 @@ Future wireless systems may become more heterogeneous and adaptive through caref
 
 
 ---
+
 
 
 
