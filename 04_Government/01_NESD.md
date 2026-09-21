@@ -1,5 +1,18 @@
 ---
 title: "NESD"
+author: ""
+date: 2026-09-21
+keywords:
+    - neural engineering
+    - brain-computer interfaces
+    - bidirectional neural interfaces
+    - neural recording
+    - neural stimulation
+    - sensory restoration
+    - neurotechnology ethics
+    - neural data privacy
+    - evidence assessment
+    - DARPA NESD
 ---
 
 # Neural Engineering System Design: Evidence, Technical Claims, and Ethical Boundaries
