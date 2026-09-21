@@ -311,7 +311,7 @@ High-resolution interfaces could enable a form of “synthetic telepathy” or t
 While the goal is restoring senses, the same “write” capability (stimulating 100,000 neurons) could theoretically be used to modulate mood, influence decision-making, or induce specific emotional states without the user’s awareness.
 
 ### Visual Perception
-In the context of optical brain-computer interfaces—such as DARPA’s Neural Engineering System Design (NESD) program—the hardware layers, optogenetic modifications, and Python data pipelines interact seamlessly to encode, decode, and manipulate visual perception. [1, 2, 3] When an implanted user is stimulated with a green laser, the system utilizes specific biochemical mechanisms to read or write data. From there, Python serves as the primary data-routing and image-processing engine to add or scrub perceived images. 
+In the context of optical brain-computer interfaces—such as DARPA’s Neural Engineering System Design (NESD) program—the hardware layers, optogenetic modifications, and Python data pipelines interact seamlessly to encode, decode, and manipulate visual perception. [1, 2, 3] When an implanted user is stimulated with a green laser, the system utilizes specific biochemical mechanisms to read or write data. From there, Python serves as the primary data-routing and image-processing engine to add or scrub perceived images. **See also**: [Optogenetics](./getting_started/Phase1/Implant/opto.md)
 
 - Optogenetic Inactivation: While blue light typically excites neurons modified with Channelrhodopsin (ChR2), green light (~540–560nm) is biologically used to activate inhibitory opsins (like Halorhodopsin) or to immediately trigger the inactivation (“off-switch”) of step-function variants. [4]
 
@@ -498,6 +498,11 @@ Historically associated with techniques like those used in the CIA’s post-9/11
 
 ### Covert Neurowarfare: 
 Experts warn that “neuroweapons” could be used to manipulate societal subgroups into violence or political turmoil, often without the targets knowing they are under attack.
+
+#### Neuro-manipulation
+  * [Cortical glutamatergic and GABAergic inputs](https://www.science.org/doi/10.1126/science.adn0623)
+  * [Modelling the spatial and temporal constrains of the GABAergic influence on neuronal excitability](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009199)
+  * Advanced Interrogation: Technologies like the Neural Evidence Aggregation Tool (NEAT) are designed to detect preconscious brain signals, aiming to identify or determine what a person believes to be true or false without relying on voluntary, filtered answers.
 
 ### NEAT
 Unlike conscious speech, neural interfaces like NEAT (Neural Evidence Aggregation Tool) can harvest preconscious signals—raw emotional states, hidden stressors, or “belief” markers—that the user cannot consciously filter. You give away your internal state in exchange for a specific digital function (like controlling a cursor or a prosthetic)
