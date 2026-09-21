@@ -22,7 +22,7 @@ Whats most amazing is when you are telling the truth, it is easier to catch the 
 For the others: you know it may not happen to you, but where is this going (its not about the here and now)?
   - Not a terrorist
   - Domestic
-  - Double down, what do you have huh? an excuse for domestic installation? Not that you need it with graphene right?
+  - Double down, what do you have huh? an excuse for domestic installation?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ICcu6biwKt0?si=4jZDCAqhMr77SaXe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
