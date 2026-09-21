@@ -2,6 +2,17 @@
 title: "PSYOPS"
 author: ""
 date: 2026-09-21
+keywords:
+  - psyop
+  - psychological operations
+  - epistemic warfare
+  - information warfare
+  - propaganda
+  - disinformation
+  - learned helplessness
+  - social engineering
+  - cognitive security
+  - media literacy
 ---
 
 # Psychological Operations and the Contest for Human Belief
@@ -11,10 +22,6 @@ date: 2026-09-21
 Psychological operations (PSYOP) are organized efforts to influence the perceptions, emotions, reasoning, motivation, or behavior of a defined audience. They may be conducted by states, militaries, political organizations, extremist groups, commercial actors, or informal networks. Although the term is often used broadly, not every persuasive message, disagreement, or distressing experience constitutes a psychological operation. A defensible analysis requires evidence of an actor, an intended audience, an influence objective, a communication or behavioral mechanism, and an observable effect.
 
 This paper defines psychological operations and distinguishes them from related concepts including epistemic warfare, information warfare, propaganda, disinformation, misinformation, coercive persuasion, gaslighting, social engineering, learned helplessness, narrative framing, and cognitive overload. Learned helplessness is treated as a psychological vulnerability mechanism rather than a PSYOP technique by itself. Epistemic warfare is treated as a struggle over how groups determine what is true, credible, and knowable. The paper also considers the relationship between psychological operations and emerging neurotechnology while distinguishing documented capabilities from speculation. It concludes with an evidence-based framework for identifying influence activity and recommendations for preserving autonomy, reliable knowledge, and mental health.
-
-## Keywords
-
-Psychological operations; PSYOP; epistemic warfare; information warfare; propaganda; disinformation; learned helplessness; social engineering; cognitive security; media literacy
 
 # 1. Introduction
 
