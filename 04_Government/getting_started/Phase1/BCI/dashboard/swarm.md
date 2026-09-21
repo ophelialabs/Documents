@@ -206,11 +206,3 @@ Swarm systems will become increasingly important in environments where continuit
 The central insight is simple but technically profound: in hostile electromagnetic environments, resilience must be designed at the communications layer and the control layer simultaneously. Without this integrated perspective, swarm systems will fail not because they lack intelligence, but because the infrastructure they rely on cannot survive the conditions in which they are expected to operate.
 
 This research establishes a foundation for future experimentation, simulation, and hardware validation in high-risk electromagnetic settings, with significant implications for the design of next-generation autonomous swarm systems.
-
----
-
-If you want, I can turn this into one of the following next:
-1. a more formal journal-style version with citations and references,
-2. a shorter conference-paper version,
-3. a polished version written in a more governmental/defense research tone,
-4. or a final manuscript formatted for direct insertion into your document.
