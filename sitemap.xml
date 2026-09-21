@@ -362,13 +362,13 @@
     <loc>http://localhost:3000/nesd</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/mynesd</loc>
-  </url>
-  <url>
     <loc>http://localhost:3000/ngs2as</loc>
   </url>
   <url>
     <loc>http://localhost:3000/psyops</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/mynesd</loc>
   </url>
   <url>
     <loc>http://localhost:3000/readme-50</loc>

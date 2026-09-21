@@ -1,5 +1,7 @@
 ---
 title: "NGS2AS"
+author: ""
+date: 2026-09-21
 keywords:
   - low-power wide-area networks
   - SIGFOX
