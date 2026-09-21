@@ -67,7 +67,7 @@ Metal did not appear, nor does the magnet stick **magically**. Plausible deniabi
     - && what did I do? Try to change **MY** licenses for email access and then try Power Automate to setup a Workflow?
     - Oh yeah, && create an internal Power Pages page trying to reach out for help. I guess I wanted to be card no. 9 after InfoSys with my own divisions and teams.
     - And some of my own PII in an excel sheet (just stupid).
-  - What was on that whiteboard? Remember, I can remember the first line of the algorithm.
+  - What was on that whiteboard? Remember, **I can remember the first line of the algorithm**.
     * Me: "I was not given instruction or directed otherwise"
 - Due diligence? / Timeline doesn't add up 
   - Was delegated **NW regional distribution manager**, then [intervention](https://share.google/aimode/s7yZJaW0bjr5pm32n)
