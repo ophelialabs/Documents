@@ -10,6 +10,9 @@ title: MyNESD
 
 You can `NOT` say that there is [no metal](https://ophelialabs.github.io/Documents/administer/#narrowing-down). combine yt with br.png
 
+- How do I bring **YOU** out into the light? (Try sneaking through the **Attic** again while **I am Sleeping**) for implant. The green laser for **cognitive writing** was not satellite, but **under the barrel** in the garage.
+- 07/26/26 15:18: Me: You are the biggest liar in the world. This does not come magically and I am not sensitive to electronics nor a chemical imbalance. Also, check the history and documentation, no where has it stated that the green laser excitation would be implemented under the barrel. That is specific.
+
 Whats most amazing is when you are telling the truth, it is easier to catch the other party slipping up. I told you I would die for this. If I had nothing to "get control over" why would that statement be made? not to mention the other statements. Fire me, do whatever, but you all know. Let's find out where "your heart is". **All you had to do, was `NOT` implant me right?** (twist this statement all you want). But that's not your objective is it. Or is it exactly what I called? Your need for absolute control and your egoism gave you away. Drop it, I dont care. Go ahead... 10 years in the past and maybe "in a different life" (**yes, I was in a [court room](https://www.nccourts.gov/locations/new-hanover-county/new-hanover-county-courthouse) but...**) and who she came back and sat down next to (need to find a way to scrub because this person doesn't deserve you "observers"), what else you got? Covert neurowarfare is to play piggyback. **Keep playing God**. year ago, doing lunges with 200lb heavy bag on one shoulder. analyze this. (him: trying to look good for the cameras) remember when I said at least that means now I know that you think I look(ed) good. Then you mention "[vegetable](https://share.google/aimode/GOcpmcXQjFfMaCQOJ)". Its ok though, I know I just need to push through. Now according to Hawthorn...(ok jokes aside because that was determined once "control" was re-established)
 
 For the others: you know it may not happen to you, but where is this going (its not about the here and now)?
@@ -93,9 +96,6 @@ Implanting an individual with a highly invasive neural interface when less drast
 ## Hearing Things
 ![](./00_assets/BMI-CTSS.png)
 Let's run those simulations at the same time
-
-- How do I bring **YOU** out into the light? (Try sneaking through the **Attic** again while **I am Sleeping**) for implant. The green laser for **cognitive writing** was not satellite, but **under the barrel** in the garage.
-- 07/26/26 15:18: Me: You are the biggest liar in the world. This does not come magically and I am not sensitive to electronics nor a chemical imbalance. Also, check the history and documentation, no where has it stated that the green laser excitation would be implemented under the barrel. That is specific.
   
 1. Him: "**[AI](https://www.ai.mil/Initiatives/CJADC2/)** is going to learn a lot"
 2. Him: "Saw behind **The Curtain **" [(1)](https://ophelialabs.github.io/jb./tutorial-2/#id-3-ethical-and-psychological-curtains)
