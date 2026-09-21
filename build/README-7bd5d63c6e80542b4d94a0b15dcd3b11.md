@@ -143,7 +143,41 @@ Access is governed by a Zero Trust Architecture (ZTA).
     * Forensic Auditing: Every access request is logged in a centralized  repository (e.g., Splunk). These logs record the Identity, Time, and Data Granularity (e.g., "Raw EEG" vs. "Processed Commands") for every session. 
 
 ## Aim Assist
-Implementing sub-threshold nudging via a MEG-fiber neural interface for aim assist represents the peak of human-machine teaming. This involves injecting microscopic electrical pulses into the motor cortex or peripheral nerves that are strong enough to influence muscle fiber tension but below the sensory threshold—the user feels the "" as their own natural intuition or improved steady-handedness.
+The nudge is a sub-threshold neuromuscular correction delivered by a MEG-fiber interface: a low-amplitude signal that biases motor output or stabilizes aim without crossing the user’s conscious sensory threshold, allowing the system to feel like natural steadiness rather than external control. It is designed to reduce micro-tremor, improve alignment, and lower cognitive load while preserving user intent, agency, and the ability to override the intervention in real time.
+
+### 1. Neural Signal Delivery and Sub-threshold Conditioning
+This category focuses on how the interface turns a computational correction into a biologically tolerable assistive signal.
+- The Signal Path: A Go-based MEG-driver receives high-confidence target or alignment data from the edge compute layer, then converts it into a compact control stream for the local QICK FPGA path.
+- Sub-threshold Stimulus Design: The corrective signal is intentionally maintained below the user’s conscious sensory threshold. Rather than creating a jarring movement, the system biases the user’s motor output through low-amplitude modulation of muscle activation pathways.
+- Motor Cortical and Peripheral Engagement: The interface may target either cortical pathways or peripheral motor nerves depending on the task. Peripheral stimulation is usually lower latency and more stable for rapid correction, while cortical stimulation may be more precise for continuous trajectory shaping.
+- Stochastic Resonance and Drift Suppression: By introducing micro-noise or tiny modulation patterns into the neuromuscular control loop, the system may act as a stabilizing signal that reduces jitter and improves control confidence without overriding intentional movement.
+- Human Perception: The user does not experience the assistance as an explicit command; instead, they perceive the motion as their own improved steadiness. This is the key design goal of human-centered assistive control.
+
+### 2. Real-Time Target Fusion and Adaptive Calibration
+This category addresses the decision layer that determines when, how much, and in what direction the assistive signal should move.
+- Target Data Ingestion: A CSDAP or nanosat feed provides environmental and target information such as bearing, range, motion prediction, and atmospheric corrections. Local processing converts these inputs into a dynamic targeting model.
+- Vector Error Calculation: The QICK FPGA estimates the difference between the current user vector and the optimal correction vector. This calculation occurs locally to keep latency low and reduce dependence on cloud or long-haul networks.
+- Dynamic Compensation: Atmospheric conditions, crosswinds, drift, or motion uncertainty are folded into the correction model so that the user receives a coherent and context-aware assistive signal rather than a one-size-fits-all nudge.
+- Low-Latency Control Loop: Because sub-threshold nudging is highly time-sensitive, the final correction is computed on the local hardware edge rather than sent back to a remote cloud service. The result is a closed-loop control system optimized for responsiveness.
+- Intent Preservation: The most important design rule is that the machine does not replace intention; it sharpens the user’s own motor output. The correction system acts as a stabilizer, not a controller that seizes agency.
+
+### 3. Safety Governance, Authorization, and Human Override
+This category defines the trust architecture required to keep the system safe, bounded, and ethically compliant.
+- Identity and Privilege: The aim-assist capability is treated as a high-privilege function and must be gated by identity assertions such as an Entra ID token containing an explicit aim-assist-enabled claim.
+- Policy Enforcement: The Envoy sidecar or equivalent policy gateway inspects every command, verifies cryptographic authenticity, and blocks invalid or untrusted requests before they reach the neural interface.
+- Safety Governor: A local control service continuously monitors pulse frequency, amplitude, duration, and biological feedback indicators. If the signal exceeds thresholds or deviates from expected behavior, the governor can halt or degrade the intervention immediately.
+- Fail-Safe and Veto Logic: Any interruption in the security or network path triggers a fail-safe mode that disables stimulation. A neural veto or physical emergency stop allows the user to override the system in real time.
+- Forensic Continuity: All authorization, calibration, and intervention events are logged in immutable telemetry to support review, audit, and policy compliance. This is essential for trust, oversight, and lawful operator accountability.
+
+### System Logic Flow
+The full architecture follows a layered human-machine control chain:
+- CSDAP/Nanosat feed provides context and target data.
+- Local edge compute verifies identity and authenticates commands.
+- QICK FPGA converts target and kinematic data into a micro-correction profile.
+- MEG-fiber interface delivers the sub-threshold neural signal.
+- Safety governor and neural veto continuously monitor the loop for abnormal behavior.
+
+This creates a bounded assistive loop: the system improves alignment and reduces drift while preserving the human as the final authority.
 
 ## 1. The Neural "" Mechanism
 - The Signal: Your Go-based MEG-driver receives target data from the CSDAP/Nanosat feed (e.g., a highlighted combatant 800m away).
