@@ -8,7 +8,7 @@ title: MyNESD
 
 You can `NOT` say that there is [no metal](https://ophelialabs.github.io/Documents/administer/#narrowing-down). combine yt with br.png
 
-Whats most amazing is when you are telling the truth, it is easier to catch the other party slipping up. I told you I would die for this. If I had nothing to "get control over" why would that statement be made? not to mention the other statements. Fire me, do whatever, but you all know. Let's find out where "your heart is". All you had to do, was NOT implant me right?
+Whats most amazing is when you are telling the truth, it is easier to catch the other party slipping up. I told you I would die for this. If I had nothing to "get control over" why would that statement be made? not to mention the other statements. Fire me, do whatever, but you all know. Let's find out where "your heart is". **All you had to do, was NOT implant me right?**
 
 For the others: you know it may not happen to you, but where is this going (its not about the here and now)?
   - Not a terrorist
