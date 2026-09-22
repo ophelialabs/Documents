@@ -3,7 +3,7 @@ title: MyNESD
 ---
 
 # Thanking You
-Stay centered - 09/22/2026 13:18 stay centered "member" veg. review loc, and use personal experiences to negate
+Stay centered - 09/22/2026 13:18 stay centered "member" veg. review loc, and use personal experiences to negate. Remember piggyback and spec sits doc'd w/ no device 😂
 
 <div style="display: flex; gap: 1rem; align-items: center; flex-wrap: wrap;">
   <div style="flex: 1 1 560px; min-width: 0;">
