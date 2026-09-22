@@ -37,8 +37,8 @@ This man is not the first. Don't listen to that garbage (where are the scars rig
 - Maybe **I** changed my mind: (08/01/23-02/01/24) => [CSDAP](https://csdap.earthdata.nasa.gov/)
 - 05/28/26: Never received MyTrustMedical response after multiple tries
 - 8/11/26 OFC Padilla & Parker FPD (Medical Evaluation 🙄, what is really meant is psychological evaluation and these are very different things)
-- 8/13/26 Dr. Becker - No Metal (CT scan) of course w/ graphene and ct/mri compatible compounds (and/or external influence)
-	- Everyone should have right to view scans upon rendering or a trusted contact (mandatory)
+- 8/13/26 Dr. Becker - No Metal (CT scan) of course w/ graphene and ct/mri compatible compounds (and/or **external influence**)
+	- **Everyone** should have right to view scans upon rendering or a trusted contact (**mandatory**)
 - 09/16/26 22:30 - outside hotel room 128, left a few minutes after observation. 6820 Cliffdale Rd, Fayetteville, NC 28314•(910) 864-8360
 
 ![](../_assets/nd.png)
