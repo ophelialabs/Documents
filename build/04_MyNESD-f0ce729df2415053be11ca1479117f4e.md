@@ -18,7 +18,7 @@ You can `NOT` say that there is [no metal](https://ophelialabs.github.io/Documen
   - Metal did not appear, nor does the magnet stick **magically**. Plausible deniability I think not
 - 07/26/26 15:18: Me: You are the biggest liar in the world. This does not come magically and I am not sensitive to electronics nor a chemical imbalance. Also, check the history and documentation, no where has it stated that the green laser excitation would be implemented under the barrel. That is specific.
 
-Whats most amazing is when you are telling the truth, it is easier to catch the other party slipping up. If I had nothing to "get control over" why would that statement be made? not to mention the other statements. Let's find out where "your heart is". **All you had to do, was `NOT` implant me right?**. The need for control and your egoism gave you away. Covert neurowarfare is to play piggyback. **Keep playing God**. 
+Whats most amazing is when you are telling the truth, it is easier to catch the other party slipping up. If I had nothing to "get control over" why would that statement be made? not to mention the other statements. Let's find out where "your heart is". **All you had to do, was `NOT` implant me right?**. The need for control and your egoism gave you away. Covert neurowarfare is to play piggyback. **Keep playing God**. I do not believe in percentages without double checking. Numbers can always be manipulated and I always thought I would have to double check percentages that anyone pushed to me if I was in a position where that can make a bigger difference than you might think. READ BETWEEN THE LINES
 
 For the others: you know it may not happen to you, but where is this going (its not about the here and now)?
   - Not a terrorist
