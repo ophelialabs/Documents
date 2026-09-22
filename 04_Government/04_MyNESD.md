@@ -4,7 +4,8 @@ title: MyNESD
 
 # Thanking You
 09/22/2026 13:18 stay centered "member" veg. review loc, and use personal exp's to negate. Remember piggyback and spec locs doc'd w/ no dvc 😂
-  - 09/22/2026 13:34 - Lets "tie him up" da fu (nvr hrd this, and wouldn't it be pre-emptive so how could I?) 
+  - 09/22/2026 13:34 - Lets "tie him up" da fu (nvr hrd this, and wouldn't it be pre-emptive so how could I?)
+  - I thought this a long time ago and I wish it wasnt, but drinking is a depressant correct and this works best when neuron firing is max. I'll reproduce this with scix docs
 
 <div style="display: flex; gap: 1rem; align-items: center; flex-wrap: wrap;">
   <div style="flex: 1 1 560px; min-width: 0;">
