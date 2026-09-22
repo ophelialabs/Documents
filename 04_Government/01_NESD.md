@@ -51,7 +51,7 @@ Self-preservation is a normal psychological and biological response to perceived
 
 If an implanted neurotechnology were ever proposed or used lawfully, meaningful consent, the ability to withdraw, data privacy, independent oversight, and protection from coercion would be essential. Influence over a person's choices would raise serious ethical concerns if it bypassed informed consent or exploited dependence, fear, or lack of access to information. A responsible analysis should describe the alleged mechanism, identify what is documented, and distinguish.
 
-Organizations may also distance themselves from an association with a person, project, or technology for ordinary reasons such as legal exposure, privacy obligations, security policy, reputational risk, or the absence of verified evidence. It should be recorded as an organizational action and evaluated alongside dated, independently corroborated records.
+**Organizations may also distance themselves** from an association with a person, project, or technology for ordinary reasons such as legal exposure, privacy obligations, security policy, reputational risk, or the absence of verified evidence. It should be recorded as an organizational action and evaluated alongside dated, independently corroborated records.
 
 A grounded approach separates three things:
 
