@@ -4,7 +4,7 @@ title: MyNESD
 
 
 ## If I Don't, Who Will?
-The Business I build is going to be explicitly against these retaliotary directives at all angles. You have shown where your heart is. On a Side Note I would just like to say that flip flopping fence is not cool. People can bond in other ways when thats what you are after, and should not rely on an "entanglement" of emotions, trying to falsify a connection. Truth is normally most likely in the middle right HR? If I tell the truth, does that make (>=.5) or where it should be, (<=.5) no weight? What % you bout to provide so I can update? Welcome to your game. I admitted a while ago that the train was coming, and you kept saying arrogance. Regardless, choo choo
+The Business I build is going to be explicitly against these retaliotary directives at all angles. You have shown where your heart is. On a Side Note I would just like to say that flip flopping fence is not cool. People can bond in other ways when thats what you are after, and should not rely on an "entanglement" of emotions, trying to falsify a connection. Truth is normally most likely in the middle right HR? If I tell the truth, does that make (>=.5) or where it should be, (<=.5) no weight? What % you bout to provide so I can update? Welcome to your game. I admitted a while ago that the train was coming, and you kept saying arrogance. No matter the subliminal messaging...Regardless, choo choo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g9MqOgYJt-8?si=_IVVdqEWLFECDfYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
