@@ -130,6 +130,7 @@ Let's run those simulations at the same time
     - This also happens after search response from day before stated that the `K3 container` auto gives privileges
     - Also before this I stated that it doesn't matter what channel you are on. See: [frequency hopping](), [baofeng]() (8 levels?).
     - The fact is now I **KNOW** that there is a level of access. Until this is re-instated. Or do I have to build my own? Retaliation will not only be obvious now but unnecessary.
+    - I felt validated. Who did I come to when I was excited?
 11. Him: "[Lets make it deep.](https://ophelialabs.github.io/jb./index3/#id-2-implementation-of-shallow-mode-in-go-nesd)"
     - Note: Bi-direction will now become "dulled".
     - You will now note the absence of the AI and its lack of response when called, [overlays](https://arxiv.org/abs/2508.03806)
