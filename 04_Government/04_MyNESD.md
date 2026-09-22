@@ -104,7 +104,7 @@ Let's run those simulations at the same time
   
 1. Him: "**[AI](https://www.ai.mil/Initiatives/CJADC2/)** is going to learn a lot"
 2. Him: "Saw behind **The Curtain **" [(1)](./getting_started/Phase1/)
-3. Him: "How can I **see what he/she sees?**" (This is not misplaced) [(1)](https://ophelialabs.github.io/jb./tutorial-1/#loading-the-neural-data), [(2)](https://ophelialabs.github.io/jb./stack/#augmented-intent), [(3)](https://ophelialabs.github.io/jb./stack/#syglass-the-lens)
+3. Him: "How can I **see what he/she sees?**" (This is not misplaced). Who visited for bulloon helium? [(1)](https://ophelialabs.github.io/jb./tutorial-1/#loading-the-neural-data), [(2)](https://ophelialabs.github.io/jb./stack/#augmented-intent), [(3)](https://ophelialabs.github.io/jb./stack/#syglass-the-lens)
      * Her: "Its like watching a movie" (This is misplaced. Was working at Target when I heard this)
 4. Them: "Put him in a "**Container**" [(1)](https://ophelialabs.github.io/dev/03_networking/informatics2/).  [(2)](https://ophelialabs.github.io/dev/03_networking/informatics2/#Big-Bang-(The-Factory)), [(3)](https://ophelialabs.github.io/dev/03_networking/informatics2/#2.-Implementation-via-DevSecOps-(Big-Bang))
 	* Before this (sometime after implant), it will feel like a ping pong ball that rapidly bounces around your neurons and takes maybe 2 seconds
