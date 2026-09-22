@@ -11,7 +11,8 @@ title: MyNESD
   <img src="./assets/br.png" alt="Banner" style="flex: 1 1 240px; max-width: 100%; height: auto;">
 </div>
 
-You can `NOT` say that there is [no metal](https://ophelialabs.github.io/Documents/administer/#narrowing-down). combine yt with br.png
+You can `NOT` say that there is [no metal](https://ophelialabs.github.io/Documents/administer/#narrowing-down). combine yt with br.png. If you couldn't tell the truth about the fact that there is metal, what to believe? 
+
 
 - How do I bring **YOU** out into the light? (Try sneaking through the **Attic** again while **I am Sleeping**) for implant. The green laser for **cognitive writing** was not satellite, but **under the barrel** in the garage.
   - Metal did not appear, nor does the magnet stick **magically**. Plausible deniability I think not
