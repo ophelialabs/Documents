@@ -119,7 +119,7 @@ Let's run those simulations at the same time
 
 6. Her: "What is his Itinerary(MyTime)? And what is the **Exit Strategy**"
 7. Him: "Who are they on the **phone** with?" [(1)](https://ophelialabs.github.io/dev/03_networking/informatics2/#3.-Simplified-with-QICK) 
-8. Him: "Trying to do our job for us. **[Hand it off to me](https://www.syglass.io/academy/v/tracing-basics-fn2tc)**"
+8. Him: "[Trying to do our job for us](#)" . "**[Hand it off to me](https://www.syglass.io/academy/v/tracing-basics-fn2tc)**"
 9. Her: He's about to get control over this **Note This**
     *  Me: Tried to name AI assistant "Cortana"
     *  Me: "This was built for me and you (Cortana) work for me now
