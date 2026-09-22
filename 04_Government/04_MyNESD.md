@@ -2,7 +2,36 @@
 title: MyNESD
 ---
 
-# Thanking You
+
+## What Matters Most
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g9MqOgYJt-8?si=_IVVdqEWLFECDfYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- The Playbook: [Silent Wars](https://archive.org/details/SilentWeaponsForQuietWarsOriginalDocumentCopy/page/n1/mode/1up) | [48 Laws of Power](https://irp-cdn.multiscreensite.com/cb9165b2/files/uploaded/The+48+Laws+Of+Power.pdf) | [Epistemic Warfare](https://share.google/aimode/35qYWq6PH57NQPjJf) | [PSYOP](https://ophelialabs.github.io/Documents/readme-22/#advanced-interrogation-psyop) [(1)](https://ophelialabs.github.io/Documents/readme-22/#mental-manipulation-capabilities)
+- Maybe **I** changed my mind: (08/01/23-02/01/24) => [CSDAP](https://csdap.earthdata.nasa.gov/)
+- **05/28/26**: Never received MyTrustMedical response after multiple tries
+- **8/11/26**: OFC Padilla & Parker FPD NC (Medical Evaluation 🙄, what is really meant is - psychological evaluation, and these are very different things)
+- 8/13/26 Review - Dr. Becker advised no metal (CT scan). W/ graphene and ct/mri compatible compounds (and/or) **external influence**.
+	- **Everyone** should have right to view scans upon rendering or a trusted contact (**mandatory**)
+- 09/16/26 22:30 - outside hotel room 128, left a few minutes after observation. 6820 Cliffdale Rd, Fayetteville, NC 28314•(910) 864-8360
+
+![](../_assets/nd.png)
+
+1A: DARPA's [NESD](https://www.darpa.mil/research/programs/neural-engineering-system-design) program has developed a **minimally invasive** implantable, high-resolution [neural interface](https://pubs.rsc.org/en/content/articlepdf/2025/mh/d4mh01854k). Think **[Bi-Directional](https://support.apple.com/en-us/106341)** Bone Anchored (Cochleal) Hearing Systems, or Behind The Ear Hearing Aids.
+Means at least 08/01/23 (**2.5 yrs**) disappointing on my part honestly, to present.
+
+Sean R - 09/09/26: phone audio logs, too similar?
+
+review past: what others??? remember months ago, i stated, once this is proven, how many other cases have to be reviewed. use VnK patent, 2003. Every single person that wanted to wear a tin hat or cover windows?
+
+### STRIKE THE SHEPHERD
+![](./assets/warroom.png)
+
+Trouble can often be traced to a single strong individual——the stirrer, the arrogant underling, the poisoner of
+goodwill. If you allow such people room to operate, others will succumb to their influence. Do not wait for the
+troubles they cause to multiply, do not try to negotiate with them—they are irredeemable. Neutralize their influence by isolating or banishing them. Strike at the source of the trouble and the sheep will scatter.
+
+### Thanking You
 09/22/2026 13:18 stay centered "member" veg. review loc, and use personal exp's to negate. Remember piggyback and spec locs doc'd w/ no dvc 😂
   - 09/22/2026 13:34 - Lets "tie him up" da fu (nvr hrd this, and wouldn't it be pre-emptive so how could I?)
   - I thought this a long time ago and I wish it wasnt, but drinking is a depressant correct and this works best when neuron firing is max. I'll reproduce this with scix docs
@@ -31,34 +60,6 @@ For the others: you know it may not happen to you, but where is this going (its 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ICcu6biwKt0?si=4jZDCAqhMr77SaXe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 This man is not the first. Don't listen to that garbage (where are the scars right?). This just reminds me that it is time to ingest again and plan ahead.
-
-## What Matters Most
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g9MqOgYJt-8?si=_IVVdqEWLFECDfYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-- The Playbook: [Silent Wars](https://archive.org/details/SilentWeaponsForQuietWarsOriginalDocumentCopy/page/n1/mode/1up) | [48 Laws of Power](https://irp-cdn.multiscreensite.com/cb9165b2/files/uploaded/The+48+Laws+Of+Power.pdf) | [Epistemic Warfare](https://share.google/aimode/35qYWq6PH57NQPjJf) | [PSYOP](https://ophelialabs.github.io/Documents/readme-22/#advanced-interrogation-psyop) [(1)](https://ophelialabs.github.io/Documents/readme-22/#mental-manipulation-capabilities)
-- Maybe **I** changed my mind: (08/01/23-02/01/24) => [CSDAP](https://csdap.earthdata.nasa.gov/)
-- **05/28/26**: Never received MyTrustMedical response after multiple tries
-- **8/11/26**: OFC Padilla & Parker FPD NC (Medical Evaluation 🙄, what is really meant is - psychological evaluation, and these are very different things)
-- 8/13/26 Review - Dr. Becker advised no metal (CT scan). W/ graphene and ct/mri compatible compounds (and/or) **external influence**.
-	- **Everyone** should have right to view scans upon rendering or a trusted contact (**mandatory**)
-- 09/16/26 22:30 - outside hotel room 128, left a few minutes after observation. 6820 Cliffdale Rd, Fayetteville, NC 28314•(910) 864-8360
-
-![](../_assets/nd.png)
-
-1A: DARPA's [NESD](https://www.darpa.mil/research/programs/neural-engineering-system-design) program has developed a **minimally invasive** implantable, high-resolution [neural interface](https://pubs.rsc.org/en/content/articlepdf/2025/mh/d4mh01854k). Think **[Bi-Directional](https://support.apple.com/en-us/106341)** Bone Anchored (Cochleal) Hearing Systems, or Behind The Ear Hearing Aids.
-Means at least 08/01/23 (**2.5 yrs**) disappointing on my part honestly, to present.
-
-Sean R - 09/09/26: phone audio logs, too similar?
-
-review past: what others??? remember months ago, i stated, once this is proven, how many other cases have to be reviewed. use VnK patent, 2003. Every single person that wanted to wear a tin hat or cover windows?
-
-## STRIKE THE SHEPHERD
-![](./assets/warroom.png)
-
-Trouble can often be traced to a single strong individual——the stirrer, the arrogant underling, the poisoner of
-goodwill. If you allow such people room to operate, others will succumb to their influence. Do not wait for the
-troubles they cause to multiply, do not try to negotiate with them—they are irredeemable. Neutralize their influence by isolating or banishing them. Strike at the source of the trouble and the sheep will scatter.
 
 # Transcription
 
