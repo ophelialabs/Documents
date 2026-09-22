@@ -144,7 +144,7 @@ Let's run those simulations at the same time
     - Me: I hope this isnt a professional in the medical field. Are you going to withhold this information from them too? Otherwise they may not take the job
     - Check 07/16/26
 17. Him: (7/18/26 🕦 14:30): neither confirm nor deny
-	- If thats the case, how did it change last minute along with emotional influence and manipulation
+	- If thats the case, how did the emmail change last second along with emotional influence and manipulation
 	- 14:57 - (note time returns) : silence, big mad. Plotting? what to expect?
 
 - 08/27/2026 20:17 - No Weight
