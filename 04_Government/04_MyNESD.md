@@ -9,6 +9,7 @@ The Business I build is going to be explicitly against these retaliotary directi
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g9MqOgYJt-8?si=_IVVdqEWLFECDfYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - The Playbook: [Silent Wars](https://archive.org/details/SilentWeaponsForQuietWarsOriginalDocumentCopy/page/n1/mode/1up) | [48 Laws of Power](https://irp-cdn.multiscreensite.com/cb9165b2/files/uploaded/The+48+Laws+Of+Power.pdf) | [Epistemic Warfare](https://share.google/aimode/35qYWq6PH57NQPjJf) | [PSYOP](https://ophelialabs.github.io/Documents/readme-22/#advanced-interrogation-psyop) [(1)](https://ophelialabs.github.io/Documents/readme-22/#mental-manipulation-capabilities)
+
 - Maybe **I** changed my mind: (08/01/23-02/01/24) => [CSDAP](https://csdap.earthdata.nasa.gov/)
 - **05/28/26**: Never received MyTrustMedical response after multiple tries
 - **8/11/26**: OFC Padilla & Parker FPD NC (Medical Evaluation 🙄, what's really meant is - psychological evaluation, and these are very different things)
