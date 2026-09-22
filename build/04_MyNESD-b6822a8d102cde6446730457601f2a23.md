@@ -35,7 +35,7 @@ goodwill. If you allow such people room to operate, others will succumb to their
 troubles they cause to multiply, do not try to negotiate with them—they are irredeemable. Neutralize their influence by isolating or banishing them. Strike at the source of the trouble and the sheep will scatter.
 
 ### Thanking You
-09/22/2026 13:18 stay centered "member" veg. review loc, and use personal exp's to negate. Remember piggyback and spec locs doc'd w/ no dvc 😂
+09/22/2026 13:18 stay centered "member" veg. review, and use personal exp's to negate. Remember piggyback and spec locs doc'd w/ no dvc 😂
   - 09/22/2026 13:34 - Lets "tie him up" da fu (nvr hrd this, and wouldn't it be pre-emptive so how could I?)
   - I thought this a long time ago and I wish it wasnt, but drinking is a depressant correct and this works best when neuron firing is max. I'll reproduce this with scix docs
 
