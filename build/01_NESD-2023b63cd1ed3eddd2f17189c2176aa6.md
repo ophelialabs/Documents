@@ -144,7 +144,7 @@ When these elements are combined, they may support diagnostic analysis of an ima
 
 ### 1. Grounding and Self-Observation
 
-Grounding exercises can help a person describe experiences and return attention to present, observable surroundings. They are coping and observation tools, to effectively identify the difference between your own internal self-talk and perceived external inputs, you can use structured mental grounding techniques. These exercises help your brain categorize thoughts by analyzing their origin, sensory details, and predictability
+[Grounding exercises](https://youtube.com/shorts/YMfSfNAQqHs?si=D4qKJ7zzXD8VNQND) can help a person describe experiences and return attention to present, observable surroundings. They are coping and observation tools, to effectively identify the difference between your own internal self-talk and perceived external inputs, you can use structured mental grounding techniques. These exercises help your brain categorize thoughts by analyzing their origin, sensory details, and predictability. 
 
 1. The Predictability Test
 - **Check the timing**: Note when an experience occurs and what was happening immediately beforehand.
