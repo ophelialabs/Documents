@@ -16,7 +16,7 @@ title: MyNESD
 You can `NOT` say that there is [no metal](https://ophelialabs.github.io/Documents/administer/#narrowing-down). combine yt with br.png. If you couldn't tell the truth about the fact that there is metal, what to believe? 
 
 
-- How do "I bring **YOU** out into the light?" (Try sneaking through the **Attic** again while **I am Sleeping**) for implant. The green laser for **cognitive writing** was not satellite, but **under the barrel** in the garage.
+- How do "I bring **YOU** out into the light?": Try sneaking through the **Attic** again while **I am Sleeping** for implant. The green laser for **cognitive writing** and was not satellite, but **under the barrel** in the garage.
   - Metal did not appear, nor does the magnet stick **magically**. Plausible deniability I think not
 - 07/26/26 15:18: Me: You are the biggest liar in the world. This does not come magically and I am not sensitive to electronics nor a chemical imbalance. Also, check the history and documentation, no where has it stated that the green laser excitation would be implemented under the barrel. That is specific.
 
