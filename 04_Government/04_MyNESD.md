@@ -4,6 +4,7 @@ title: MyNESD
 
 
 ## What Matters Most
+The Business I build is going to be explicitly against these retaliotary directives at all angles. You have shown where your heart is.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g9MqOgYJt-8?si=_IVVdqEWLFECDfYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
