@@ -5,6 +5,8 @@ title: MyNESD
 **Note**: Internal companion plane should be clear. Just like table. Other scenarios:overlap and pull focus. Think about current avenue, relations, and ... I'll remember. Live audio is always better than short term memory under certain conditions. Remember to create a transcribe with microcontroller, piezo. Simultaneously, think step 1b; At the head. Don't let your mind do the work for them (I mean this internally. Use parallel thought or absent mindedness. [ALERT](https://ophelialabs.github.io/Documents/opto/#alert-alert-alert-alert). 
 
 Sat img scrbd: 09/23/2026 18:00 7233 avila drive, fay, nc 28314
+Vis conf pending:
+
 ## If I Don't, Who Will?
 I just told you what I want: The Business I build is going to be explicitly against these retaliatory directives at all angles. Objective: whoever whenever, you will be identified by ID number or name. This information is `NOT` provided by 3rd party. Technically 3rd party is subjective. Cortana: overlays, comms, battle range 5 km, internal vis of building separate panels of a perimeter around neurons, etc...(expand); Kurama: cage, ability to immediately build simultaneous surrounding panels in neural plane (9), expand. Watch for effective misdirection.
 
