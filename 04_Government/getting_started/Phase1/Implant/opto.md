@@ -138,7 +138,7 @@ Bidirectional optical BCIs should be evaluated as constrained cyber-physical sys
 
 
 
-ALERT! ALERT! ALERT! ALERT!
+### ALERT! ALERT! ALERT! ALERT!
 LEAKAGE DETECTED!!
 
 IMMEDIATE ACTION MUST BE TAKEN!
