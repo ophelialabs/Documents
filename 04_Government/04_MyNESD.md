@@ -2,7 +2,7 @@
 title: MyNESD
 ---
 
-GRDY? && why? apply the same principles
+GRDY? && why? apply the same principles. Generalism?
 
 ## If I Don't, Who Will?
 I just told you what I want: The Business I build is going to be explicitly against these retaliotary directives at all angles. 
