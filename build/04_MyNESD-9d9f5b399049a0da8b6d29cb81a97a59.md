@@ -15,7 +15,7 @@ You have shown where your heart is. On a Side Note I would just like to say that
 - Maybe **I** changed my mind: (08/01/23-02/01/24) => [CSDAP](https://csdap.earthdata.nasa.gov/)
 - **05/28/26**: Never received MyTrustMedical response after multiple tries
 - **8/11/26**: OFC Padilla & Parker FPD NC (Medical Evaluation 🙄, what's really meant is - psychological evaluation, and these are very different things)
-- **8/13/26 Review** - Dr. Becker advised no metal (CT scan). With graphene and ct/mri compatible compounds (and/or) external influence. Was prescribed RISPERIDONE
+- **8/13/26 Review** - Dr. Becker advised no metal (CT scan). With graphene and ct/mri compatible compounds (and/or) **external influence**. Was prescribed RISPERIDONE. Note that the video above was taken 8/14/2026
 	- **Everyone** should have right to view scans upon rendering or a trusted contact (**mandatory**)
 - 09/16/26 22:30 - outside hotel room 128, left a few minutes after observation. 6820 Cliffdale Rd, Fayetteville, NC 28314•(910) 864-8360
 - Note new association with exploring pub rel docs
@@ -76,7 +76,7 @@ This man is not the first. Don't listen to that garbage (where are the scars rig
   - The Result: An unverified user with a basic, unprivileged email account (Un@company.email) suddenly inherits blanket company permissions. This completely bypasses the isolation that a container was supposed to provide. [1](https://www.cybersecuritydive.com/news/supply-chain-attacks-privileged-access-cloud/594206/), [2](https://www.valencesecurity.com/resources/blogs/salesforce-experience-cloud-active-data-theft-campaign)
 - **Explicitly** provided instructions to join [confluence/jira](https://www.atlassian.com/)
   - So cant be hacking
-  - Him: "Doesn't even know how to build, it will take at least 9 months to cover gaps"
+  - Him: "Doesn't even know how to build, it will take at least 9 months to cover gaps"Messages sent over the internet, like iMessage and RCS, won’t appear in your records.
   - Him: "**We May Have Something, talk offline or whatever we need to do**"
   - Him: "**No business sticking your nose in**"
     - This only goes to show the lack of what you don't have, when all you had to do was communicate
