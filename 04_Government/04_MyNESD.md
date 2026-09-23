@@ -2,8 +2,6 @@
 title: MyNESD
 ---
 
-GRDY, MCHLA? why? apply the same principles, flip coin. Generalism?
-
 ## If I Don't, Who Will?
 I just told you what I want: The Business I build is going to be explicitly against these retaliatory directives at all angles. Objective: whoever whenever, you will be identified by ID number or name. This information is `NOT` provided by 3rd party. Technically 3rd party is subjective. Cortana: overlays, comms, battle range 5 km, internal vis of building separate panels of a perimeter around neurons, etc...(expand); Kurama: cage, ability to immediately build simultaneous surrounding panels in neural plane, expand.
 
