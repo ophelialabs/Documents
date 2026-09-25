@@ -11,7 +11,7 @@ The Business I build is going to be explicitly against these retaliatory directi
 - Maybe **I** changed my mind: (08/01/23-02/01/24) => [CSDAP](https://csdap.earthdata.nasa.gov/)
 - **05/28/26**: Never received MyTrustMedical response after multiple tries
 - **8/11/26**: OFC Padilla & Parker FPD NC (Medical Evaluation 🙄, what's really meant is - psychological evaluation, and these are very different things)
-- **8/13/26 Review** - Dr. Becker advised no metal (CT scan). With graphene and ct/mri compatible compounds (and/or) **external influence**. Was prescribed RISPERIDONE. Note that the video above was taken 8/14/2026
+- **8/13/26 Review** - Dr. Becker advised no metal (CT scan). With graphene and ct/mri compatible compounds (and/or) **external influence**. Was prescribed [RISPERIDONE](,/assets/RISPERIDONE.png). Note that the video above was taken 8/14/2026
 	- **Everyone** should have right to view scans upon rendering or a trusted contact (**mandatory**)
 - 09/16/26 22:30 - outside hotel room 128, left a few minutes after observation. 6820 Cliffdale Rd, Fayetteville, NC 28314•(910) 864-8360
 - **Note**: Internal companion plane should be clear. Just like table. Other scenarios:overlap and pull focus. Think about current avenue, relations, and ... I'll remember. Live audio is always better than short term memory under certain conditions. Remember to create a transcribe with microcontroller, piezo. Simultaneously, think step 1b; At the head. Don't let your mind do the work for them (I mean this internally. Use parallel thought or absent mindedness. [ALERT](https://ophelialabs.github.io/Documents/opto/#alert-alert-alert-alert). 
