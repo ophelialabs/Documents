@@ -11,8 +11,6 @@ Vis conf pending: no surprises
 ## If I Don't, Who Will?
 I just told you what I want: The Business I build is going to be explicitly against these retaliatory directives at all angles. Objective: whoever whenever, you will be identified by ID number or name. This information is `NOT` provided by 3rd party. Technically 3rd party is subjective. Cortana: overlays, comms, battle range 5 km, internal vis of building separate panels of a perimeter around neurons, etc...(expand); Kurama: cage, ability to immediately build simultaneous surrounding panels in neural plane (9), expand. Watch for effective misdirection.
 
-You have shown where your heart is. On a Side Note I would just like to say that flip flopping fence is not cool. People can bond in other ways when thats what you are after, and should not rely on an "entanglement" of emotions, trying to falsify a connection. Truth is normally most likely in the middle right HR? If I tell the truth, does that make (>=.5) or where it should be, (<=.5) no weight? What % you bout to provide so I can update? Welcome to your game. I admitted a while ago that the train was coming, and you kept saying arrogance. No matter the subliminal messaging...Regardless, choo choo. What you about to do, admit you implanted me? Thats hilarious! Like what am I doing, am I DWLR? (Tip of the IceBerg) You dont like surprises jus w8
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g9MqOgYJt-8?si=_IVVdqEWLFECDfYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - The Playbook: [Silent Wars](https://archive.org/details/SilentWeaponsForQuietWarsOriginalDocumentCopy/page/n1/mode/1up) | [48 Laws of Power](https://irp-cdn.multiscreensite.com/cb9165b2/files/uploaded/The+48+Laws+Of+Power.pdf) | [Epistemic Warfare](https://share.google/aimode/35qYWq6PH57NQPjJf) | [PSYOP](https://ophelialabs.github.io/Documents/readme-22/#advanced-interrogation-psyop) [(1)](https://ophelialabs.github.io/Documents/readme-22/#mental-manipulation-capabilities)
@@ -44,7 +42,6 @@ troubles they cause to multiply, do not try to negotiate with them—they are ir
 ### Thanking You
 09/22/2026 13:18 stay centered "member" veg. review, and use personal exp's to negate. Remember piggyback and spec locs doc'd w/ no dvc 😂
   - 09/22/2026 13:34 - Lets "tie him up" da fu (nvr hrd this, and wouldn't it be pre-emptive so how could I?)
-  - I thought this a long time ago and I wish it wasnt, but drinking is a depressant correct and this works best when neuron firing is max. I'll reproduce this with scix docs
 
 <div style="display: flex; gap: 1rem; align-items: center; flex-wrap: wrap;">
   <div style="flex: 1 1 560px; min-width: 0;">
