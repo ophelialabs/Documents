@@ -35,8 +35,6 @@ goodwill. If you allow such people room to operate, others will succumb to their
 troubles they cause to multiply, do not try to negotiate with them—they are irredeemable. Neutralize their influence by isolating or banishing them. Strike at the source of the trouble and the sheep will scatter.
 
 ### Thanking You
-09/22/2026 13:18 stay centered "member" veg. review, and use personal exp's to negate. Remember piggyback and spec locs doc'd w/ no dvc 😂
-  - 09/22/2026 13:34 - Lets "tie him up" da fu (nvr hrd this, and wouldn't it be pre-emptive so how could I?)
 
 <div style="display: flex; gap: 1rem; align-items: center; flex-wrap: wrap;">
   <div style="flex: 1 1 560px; min-width: 0;">
@@ -45,7 +43,7 @@ troubles they cause to multiply, do not try to negotiate with them—they are ir
   <img src="./assets/br.png" alt="Banner" style="flex: 1 1 240px; max-width: 100%; height: auto;">
 </div>
 
-You can `NOT` say that there is [no metal](https://ophelialabs.github.io/Documents/administer/#narrowing-down). combine yt with br.png. If you couldn't tell the truth about the fact that there is metal, what to believe? Let's replicate this, (perform again) and also with MFS direct measurements. Turn "hypothesis" (lol) into laws
+You can `NOT` say that there is [no metal](https://ophelialabs.github.io/Documents/administer/#narrowing-down). combine yt with br.png. If you couldn't tell the truth about the fact that there is metal, what to believe? Let's replicate this, (perform again) and also with MFS direct measurements. Turn "hypothesis" (lol) into laws. (Quick question, with the situation be approached as such, how does it not seem like a ploy for a setup? Otherwise, why not just follow the actual judicial process?)
 
 
 - How do "I bring **YOU** out into the light?": Try sneaking through the **Attic** again while **I am Sleeping** for implant. The green laser for **cognitive writing** was not satellite, but **under the barrel** in the garage.
