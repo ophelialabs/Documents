@@ -1,1 +1,0 @@
-in order to "Expedite" in the most efficient manner, surround yourself with your stations. Read your tickets, view whats ready, bring the items from each station together to your tray and sell the ticket. Keep it simple
