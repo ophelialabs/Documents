@@ -14,7 +14,9 @@ The Business I build is going to be explicitly against these retaliatory directi
 - **8/13/26 Review** - Dr. Becker advised no metal (CT scan). With graphene and ct/mri compatible compounds (and/or) **external influence**. Was prescribed [RISPERIDONE](,/assets/RISPERIDONE.png). Note that the video above with the magnet was taken 8/14/2026
 	- **Everyone** should have right to view scans upon rendering or a trusted contact (**mandatory**)
 - 09/16/26 22:30 - outside hotel room 128, left a few minutes after observation. 6820 Cliffdale Rd, Fayetteville, NC 28314•(910) 864-8360
-- 09/28/2026 1100 : Who picked him up or where did he go?
+- 09/28/2026
+ - 0830: conveniently parking as going by, same ID as marked above as 09/16/26? 
+ - 1100: Who picked him up or where did he go?
 - **Note**: Internal companion plane should be clear. Just like table. Other scenarios: overlap and pull focus. Think about current avenue, relations, and ... I'll remember. Live audio is always better than short term memory under certain conditions. Remember to create a transcribe with microcontroller, piezo. Simultaneously, think step 1b; At the head. Don't let your mind do the work for them (I mean this internally. Use parallel thought or absent mindedness. [ALERT](https://ophelialabs.github.io/Documents/opto/#alert-alert-alert-alert). 
 
 Vis conf pending: no surprises
