@@ -374,6 +374,9 @@
     <loc>http://localhost:3000/spoilation</loc>
   </url>
   <url>
+    <loc>http://localhost:3000/pn</loc>
+  </url>
+  <url>
     <loc>http://localhost:3000/readme-50</loc>
   </url>
   <url>
