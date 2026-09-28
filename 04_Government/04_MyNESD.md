@@ -17,7 +17,7 @@ The Business I build is going to be explicitly against these retaliatory directi
 - 09/28/2026
   - 0830: conveniently parking as going by, same ID as marked above as 09/16/26? 
   - 1100: Who picked him up or where did he go, corp ID 936129?
-- How many and How long? Think about similarities between subjects. Patch Adams? Gain trust with Patients and apply the **Jesse** test.
+- How many and How long? Think about similarities between subjects. Patch Adams? Gain trust with Patients and apply the **Jesse** test. OR is this too doctorates? 
 - **Note**: Internal companion plane should be clear. Just like table. Other scenarios: overlap and pull focus. Think about current avenue, relations, and ... I'll remember. Live audio is always better than short term memory under certain conditions. Remember to create a transcribe with microcontroller, piezo. Simultaneously, think step 1b; At the head. Don't let your mind do the work for them (I mean this internally. Use parallel thought or absent mindedness. [ALERT](https://ophelialabs.github.io/Documents/opto/#alert-alert-alert-alert). 
 
 Vis conf pending: no surprises
