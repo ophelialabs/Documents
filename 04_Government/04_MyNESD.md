@@ -12,7 +12,7 @@ The Business I build is going to be explicitly against these retaliatory directi
 - **05/28/26**: Never received MyTrustMedical response after multiple tries
 - **8/11/26**: OFC Padilla & Parker FPD NC (Medical Evaluation 🙄, what's really meant is - psychological evaluation, and these are very different things)
 - **8/13/26 Review** - Dr. Becker advised no metal (CT scan). With graphene and ct/mri compatible compounds (and/or) **external influence**. Was prescribed [RISPERIDONE](,/assets/RISPERIDONE.png). Note that the video above with the magnet was taken 8/14/2026
-	- **Everyone** should have right to view scans upon rendering or a trusted contact (**mandatory**)
+	- **Everyone** should have right to view scans upon rendering (think ahead because you can not trust this either, what would be the harm in creating counter-measures for this?) or a trusted contact (**mandatory**)
 - 09/16/26 22:30 - outside hotel room 128, left a few minutes after observation. 6820 Cliffdale Rd, Fayetteville, NC 28314•(910) 864-8360
 - 09/28/2026
   - 0830: conveniently parking as going by, same ID as marked above as 09/16/26? 
