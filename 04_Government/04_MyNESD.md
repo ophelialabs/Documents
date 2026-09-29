@@ -93,9 +93,9 @@ This man is not the first. Don't listen to that garbage (where are the scars rig
 
 ![](./assets/00_assets/labrat.png)
 
-Implanting an individual with a highly invasive neural interface when less drastic options exist suggests an intent to override user autonomy and secure a predetermined outcome. Choosing an invasive physical implant bypasses standard ethical frameworks and safer methodology, when simpler non-invasive methods are available, **strongly** signals an **intent to actively manipulate and control the outcome**, and **for experimentation**.
+Implanting an individual with a highly invasive neural interface when less drastic options exist suggests an intent to override user autonomy and secure a predetermined outcome. Choosing an invasive physical implant bypasses standard ethical frameworks and safer methodology, when simpler non-invasive methods are available, **strongly** signals an **intent to actively manipulate and control the outcome**, and **for experimentation**. 
 
-[External Lasers for Deep Stimulation](01_guide/getting_started.md) | [Green Light Excitation in Optogenetics](01_guide/getting_started.md) |[Python: Add Images](02_medical/index.md)
+[External Lasers for Deep Stimulation](01_guide/getting_started.md) | [Green Light Excitation in Optogenetics](01_guide/getting_started.md) | [Python: Memory Inserstions](https://ophelialabs.github.io/Documents/readme-22/#diagnostic-script-detecting-truncated-memory-insertions)
 
 - Her: "You told me he wouldn't see us"
 - `Research for an Adeno Assisted Virus`
