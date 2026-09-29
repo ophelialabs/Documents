@@ -105,7 +105,7 @@ Implanting an individual with a highly invasive neural interface when less drast
 - I am `NOT` your Lab Rat
 
 ## Hearing Things
-![](./00_assets/BMI-CTSS.png)
+![](./assets/00_assets/BMI-CTSS.png)
 Let's run those simulations at the same time
   
 1. Him: "**[AI](https://www.ai.mil/Initiatives/CJADC2/)** is going to learn a lot"
@@ -169,7 +169,7 @@ Let's run those simulations at the same time
 ---
 
 # Do NOT Negotiate With Terrorists
-![](./00_assets/gaza_algae.jpg)
+![](./assets/00_assets/gaza_algae.jpg)
    * Note any Apex and behind the Ear bumps that happen simultaneously
    * Create daily logs with timestamps (Find a way to easily implement transcribe for the user, see [Supplementary Implementation](https://jessedev3.github.io/Documents/administer/#supplementary-implementation)?)
    * Listen closely for clicks before comm, distinct
