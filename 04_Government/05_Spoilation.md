@@ -1,3 +1,7 @@
+---
+title: Spoilation
+---
+
 When a defendant or witness is intentionally coerced through intimidation, fear, or psychological operations (psyops) by state actors to delete evidence that would damage the prosecution's case, the legal framework shifts from routine data mismanagement to a severe violation of constitutional rights and criminal obstruction of justice.
 In such a scenario, the defense strategy hinges on a combination of constitutional due process challenges, forensic preservation, and evidentiary mechanics.
 
