@@ -173,7 +173,7 @@ Let's run those simulations at the same time
    * Listen closely for clicks before comm, distinct
    * Look for **blurred rectangles and impressions in grass or footprints that appear behind the rectangles** (Create cronjob for users that sets off a sleep timer that randomly flashes)[Quantum Stealth](https://jessedev3.github.io/Documents/readme-48/#between-an-optical-camera-system-and-a-patient)
    * **Cover eyes (shirt, towel, hand) and look for green and red sources of light)**
-   * When reviewing footage, red and green spectrums work best. 
+   * When reviewing footage, red and green spectrums work best (if lucky - with pulse light, or slow down enough that flicker helps). 
 07/27/26 08:03: These are not **what ifs**. Where in the docs is a what if? These are ***direct responses***
 - Painting your own Picture.
   * 02:12 07/25/26 You lack originality and imagination, Not to mention it shows how little you care about ***collateral damage***, I quote "as long as the `mission is accomplished`"?. Do you realize what it means to say **people like this embody America?**
