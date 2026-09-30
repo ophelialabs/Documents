@@ -145,7 +145,7 @@ Let's run those simulations at the same time
 16. Him (3/10/26 🕔 05:50): "Make sure the place is clean"
 17. Her: "[Not unless he is psychic](https://google.com)": In Progress
     - How do I know about most of this when I posted without being informed first i.e. -
-       * The "step" technique and wanting to go from battlefield to battlefield?
+       * The "step" technique and wanting to go from battlefield to battlefield? ([Aim Assist, Snap-To](https://ophelialabs.github.io/Documents/readme-50/#aim-assist)
 18. **"Cancel this, let them finish what they started"** 
     - 06/29/2026: Approximately 12 AM, slight shift. Compared to a Vinn Diagram, overlapping set of bubbles, felt as two brains converging into one
 19. Him (7/9/26 🕥 19:03): "I'll pay extra"
