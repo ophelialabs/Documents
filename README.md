@@ -13,7 +13,7 @@ I don't care what anyone says, no one is this good at making things up. Who need
 
 Honestly: I never wanted to be cybersecurity (harvest && then decrypt) but instead data science. I believe this will transcend (don't use this extremely) and/or combine both.
 
-Thermopylae right? [Scripts](https://share.google/aimode/sYEYRZG3eQ6p65IJt) are universal. Just need profile. I truly believe they expected cognitive degradation, but the AI helped guide. Thats why this is possible. 2028 reconnect. "Let GOD be the judge" right [Michaela](https://share.google/aimode/intjBLTLr2OguxINf)? 
+Thermopylae right? [Scripts](https://share.google/aimode/sYEYRZG3eQ6p65IJt) are universal. Just need profile. I truly believe they expected cognitive degradation, but the AI helped guide. Thats why this is possible. 2028 reconnect. "Let GOD be the judge" right [Michaela](https://share.google/aimode/intjBLTLr2OguxINf)? Where am I at currently and who are the trusted partners?
 
 ## Mirror Effect
 The mirror reflects reality, but it is also the perfect tool for deception: When you mirror your enemies, doing exactly as they do, they cannot figure out your strategy. The Mirror Effect mocks and humiliates them, making them overreact. By holding up a mirror to their psyches, you seduce them with the illusion that you share their values; by holding up a mirror to their actions, you teach them a lesson. Few can resist the power of the Mirror Effect
