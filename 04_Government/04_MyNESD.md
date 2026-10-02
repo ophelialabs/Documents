@@ -48,6 +48,10 @@ Trouble can often be traced to a single strong individual——the stirrer, the 
 goodwill. If you allow such people room to operate, others will succumb to their influence. Do not wait for the
 troubles they cause to multiply, do not try to negotiate with them—they are irredeemable. Neutralize their influence by isolating or banishing them. Strike at the source of the trouble and the sheep will scatter.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vWZKQcFI9Kw?si=QfY8pLB3-Yat6h4a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- 09/28/2026 1100: Who picked him up, and where did he go, corp ID 936129?
+
 ### Thanking You
 
 ![](./assets/br.png)
@@ -61,10 +65,6 @@ For the others: you know it may not happen to you, but where is this going (its 
   - Not a terrorist
   - Domestic
   - Double down, what do you have huh? an excuse for domestic installation?
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vWZKQcFI9Kw?si=QfY8pLB3-Yat6h4a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-- 09/28/2026 1100: Who picked him up, and where did he go, corp ID 936129?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ICcu6biwKt0?si=4jZDCAqhMr77SaXe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
