@@ -65,9 +65,11 @@ For the others: you know it may not happen to you, but where is this going (its 
   - Domestic
   - Double down, what do you have huh? an excuse for domestic installation?
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vWZKQcFI9Kw?si=QfY8pLB3-Yat6h4a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ICcu6biwKt0?si=4jZDCAqhMr77SaXe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-This man is not the first. Don't listen to that garbage (where are the scars right?). This just reminds me that it is time to ingest again and plan ahead.
+This man is not the first. Don't listen to that garbage (where are the scars right?).
 
 # Transcription
 
