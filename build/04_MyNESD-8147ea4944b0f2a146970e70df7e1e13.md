@@ -49,7 +49,10 @@ troubles they cause to multiply, do not try to negotiate with them—they are ir
 </div>
 
 You can `NOT` say that there is [no metal](https://ophelialabs.github.io/Documents/administer/#narrowing-down). combine yt with br.png. If you couldn't tell the truth about the fact that there is metal, and went as far as to tell the Dr. (I know she looked stressed, and that is not fair to her. I am sure she worked hard to get to where she is) to as well, you now can't be expected to tell the truth about anything. You're just selfish. Let's replicate this, (perform again) and also with [MFS](https://share.google/aimode/UrrE9jf3tA7mF9aSe) direct measurements. Turn "hypothesis" (lol) into laws. (Quick question, with the situation be approached as such, how does it not seem like a ploy for a setup? Otherwise, why not just follow the actual judicial process?)
-
+	- Deductive Reasoning:
+		1. Metal Implant: say such a metal was used when a significant injury was sustained, the magnet will constantly stick
+		2. No Metal: No Matter what secretions, this is not possible
+		3. Exactly as explained
 
 - How do "I bring **YOU** out into the light?": Try sneaking through the **Attic** again while **I am Sleeping** for implant. The green laser for **cognitive writing** was not satellite, but **under the barrel** in the garage.
   - Metal did not appear, nor does the magnet stick **magically**. Plausible deniability I think not
