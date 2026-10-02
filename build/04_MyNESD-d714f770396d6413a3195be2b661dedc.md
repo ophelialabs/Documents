@@ -15,9 +15,8 @@ The Business I build is going to be explicitly against these retaliatory directi
 - **8/13/26 Review** - Dr. Becker advised no metal (CT scan). With graphene and ct/mri compatible compounds (and/or) **external influence**. Was prescribed [RISPERIDONE](,/assets/RISPERIDONE.png). Note that the video above with the magnet was taken 8/14/2026
 	- **Everyone** should have right to view scans upon rendering (think ahead because you can not trust this either, what would be the harm in creating counter-measures for this?) or a trusted contact (**mandatory**)
 - 09/16/26 22:30 - outside hotel room 128, left a few minutes after observation. 6820 Cliffdale Rd, Fayetteville, NC 28314•(910) 864-8360
-- 09/28/2026
+- 09/28/2026 1100: Who picked him up, and where did he go, corp ID 936129?
   - 0830: conveniently parking as going by, same ID as marked above as 09/16/26? 
-  - 1100: Who picked him up (Gears of War) or where did he go, corp ID 936129?
 - How many and How long? Think about similarities between subjects. Patch Adams? Gain trust with Patients and apply the **Jesse** test. OR is this too doctorates? 
 - **Note**: Internal companion plane should be clear. Just like table. Other scenarios: overlap and pull focus. Think about current avenue, relations, and ... I'll remember. Live audio is always better than short term memory under certain conditions. Remember to create a transcribe with microcontroller, piezo. Simultaneously, think step 1b; At the head. Don't let your mind do the work for them (I mean this internally. Use parallel thought or absent mindedness. [ALERT](https://ophelialabs.github.io/Documents/opto/#alert-alert-alert-alert). 
 
@@ -66,6 +65,8 @@ For the others: you know it may not happen to you, but where is this going (its 
   - Double down, what do you have huh? an excuse for domestic installation?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vWZKQcFI9Kw?si=QfY8pLB3-Yat6h4a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- 09/28/2026 1100: Who picked him up, and where did he go, corp ID 936129?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ICcu6biwKt0?si=4jZDCAqhMr77SaXe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
