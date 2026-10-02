@@ -7,10 +7,11 @@ title: MyNESD
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mluo2cdsEEk?si=s2RlOiFsgUd0jHdf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="display: block; width: 100%; max-width: 560px; aspect-ratio: 16 / 9; height: auto; border: 0;"></iframe>
 
 You can `NOT` say that there is [no metal](https://ophelialabs.github.io/Documents/administer/#narrowing-down). combine yt with br.png. If you couldn't tell the truth about the fact that there is metal, and went as far as to tell the Dr. (I know she looked stressed, and that is not fair to her. I am sure she worked hard to get to where she is) to as well, you now can't be expected to tell the truth about anything. You're just selfish. Let's replicate this, (perform again) and also with [MFS](https://share.google/aimode/UrrE9jf3tA7mF9aSe) direct measurements. Turn "hypothesis" into laws. (Quick question, with the situation be approached as such, how does this not seem like a ploy for a setup? Otherwise, why not just follow the actual judicial process?)
-	- Deductive Reasoning:
-		1. Metal Implant: say such a metal was used when a significant injury was sustained, the magnet will constantly stick
-		2. No Metal: No Matter what secretions, this is not possible
-		3. Exactly as explained
+	
+- Deductive Reasoning:
+ 1. Metal Implant: say such a metal was used when a significant injury was sustained, the magnet will constantly stick
+ 2. No Metal: No Matter what secretions, this is not possible
+ 3. Exactly as explained
 		
 The Business I build is going to be explicitly against these retaliatory directives at all angles. Objective: whoever whenever, you will be identified by ID number or name. This information is `NOT` provided by 3rd party. Technically 3rd party is subjective. Watch for staying silent, effective misdirection, complacency, fragmentation. Instead of cloning, please fork and propose changes. The focus should be on overall site organization (organization is key). Also visit [Github](https://github.com/ophelialabs), view the applications and any input would be greatly appreciated. No matter what you can do by yourself, you can accomplish more with a team.
 
