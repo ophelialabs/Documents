@@ -20,7 +20,7 @@ The Business I build is going to be explicitly against these retaliatory directi
 
 - [Counter Intelligence]() | [1](https://share.google/aimode/GT8QVoCJNxMhWmDjX) | [2](https://share.google/aimode/JCu4XfOsYUc6DXwYo) (https://share.google/aimode/wRjK9mBnjBANLHI3M no longer works)
 - Maybe **I changed my mind**: (08/01/23-02/01/24) => [CSDAP](https://csdap.earthdata.nasa.gov/), [DHS](https://eapis.cbp.dhs.gov/), [Gods Eye](https://www.godseye.world/)
-  - Think ahead... how do I know this isn't the response that is meant to be evoked? Stay focused and centered. Wanting to ex-filtrate a specific group does not mean an over-all dislike
+  - Think ahead... how do I know this isn't the response that is meant to be evoked? Stay focused and centered. Wanting to ex-filtrate a specific group does not mean an over-all dislike. Now matter how you cut this pie, there is absolutely no other reason that such measures would need to be taken other than. Think 16 threads **and** also backbone. Why for any reason other than?
 - **05/28/26**: Never received [MyTrustMedical](https://www.mytrustmedical.com/) response after multiple tries
 - **8/11/26**: OFC Padilla & Parker FPD NC (Medical Evaluation 🙄, what's really meant is - psychological evaluation, and these are very different things), COC for FAY, NC 28314 - BC footage?
 - **8/13/26 Review** - Dr. Becker advised no metal (CT scan). With graphene and ct/mri compatible compounds (and/or) **external influence**. Was prescribed [RISPERIDONE](,/assets/RISPERIDONE.png). Note that the video above with the magnet was taken 8/14/2026
