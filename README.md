@@ -8,7 +8,7 @@ youtube_videos:
 
 # My Neural Network
 
-Remember DWLR statement and how they immediately responded lol 
+Remember DWLR statement (does not mean it was true) and how they immediately responded lol 
 
 If i can't win at home, how can I win abroad? [(1)](https://ageofempires.fandom.com/wiki/Diplomacy), [(2)](https://ophelialabs.github.io/internal/apps/saturn.html), [(3)](https://ophelialabs.github.io/internal/apps/neptune.html), [(4)](https://osirisai.live/), [(5)](https://www.godseye.world/home#), [(6)](https://www.youtube.com/watch?v=UaxAGIQKtho&pp=ygUEYXRhaw%3D%3D)
 
