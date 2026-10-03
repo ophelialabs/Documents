@@ -10,7 +10,7 @@ youtube_videos:
 
 Remember DWLR statement (does not mean it was true) and how they immediately responded lol 
 
-10/03/26 I am calling out today because I want to spend the time with someone I supposedly love, or do you want to tell me that too?
+10/03/26 I am calling out today because I want to spend the time with someone I supposedly love, or do you want to tell me that too? I can not ever get that time back
 
 If i can't win at home, how can I win abroad? [(1)](https://ageofempires.fandom.com/wiki/Diplomacy), [(2)](https://ophelialabs.github.io/internal/apps/saturn.html), [(3)](https://ophelialabs.github.io/internal/apps/neptune.html), [(4)](https://osirisai.live/), [(5)](https://www.godseye.world/home#), [(6)](https://www.youtube.com/watch?v=UaxAGIQKtho&pp=ygUEYXRhaw%3D%3D)
 
