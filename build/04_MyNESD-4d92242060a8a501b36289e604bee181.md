@@ -12,7 +12,7 @@ You can `NOT` say that there is [no metal](https://ophelialabs.github.io/Documen
  1. Metal Implant: say such a metal was used when a significant injury was sustained, the magnet will constantly stick
  2. No Metal: No Matter what secretions, this is not possible
  3. Exactly as explained
- 4. Put some thought, mem inject, del && psyop. TRIFECTA
+ 4. Put some thought, mem inject, del && psyop. TRIFECTA. Along with implant? Why implant with such extravagence other than absolute control?
 		
 The Business I build is going to be explicitly against these retaliatory directives at all angles. Objective: whoever whenever, you will be identified by ID number or name. This information is `NOT` provided by 3rd party. Technically 3rd party is subjective. Watch for staying silent, effective misdirection, complacency, fragmentation. Instead of cloning, please fork and propose changes. The focus should be on overall site organization (organization is key). Also visit [Github](https://github.com/ophelialabs), view the applications and any input would be greatly appreciated. No matter what you can do by yourself, you can accomplish more with a team.
 
