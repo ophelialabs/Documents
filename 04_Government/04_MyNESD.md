@@ -58,7 +58,7 @@ For the others: you know it may not happen to you, but where is this going (its 
 ### STRIKE THE SHEPHERD
 How does this keep happening?
 
-#### The Table
+The Table
 ![](./assets/warroom.png)
 
 Trouble can often be traced to a single strong individual——the stirrer, the arrogant underling, the poisoner of
