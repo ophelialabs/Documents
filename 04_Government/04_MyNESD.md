@@ -159,7 +159,7 @@ Let's run those simulations at the same time
     - How do I know about most of this when I posted without being informed first i.e. -
        * The "step" technique and wanting to go from battlefield to battlefield? ([Aim Assist, Snap-To](https://ophelialabs.github.io/Documents/readme-50/#aim-assist)
 18. **"Cancel this, let them finish what they started"** 
-    - 06/29/2026: Approximately 12 AM, slight shift. Compared to a Vinn Diagram, overlapping set of bubbles, felt as two brains converging into one
+    - 06/29/2026: Approximately 12 AM, slight shift. Compared to a Vinn Diagram, overlapping set of bubbles, felt as two brains converging into one. [(1)[(https://share.google/aimode/fwKdoWss5JJcwN5W8)
 19. Him (7/9/26 🕥 19:03): "I'll pay extra"
     - Me: I hope this isnt a professional in the medical field. Are you going to withhold this information from them too? Otherwise they may not take the job
     - Check 07/16/26
