@@ -76,7 +76,8 @@ troubles they cause to multiply, do not try to negotiate with them—they are ir
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ICcu6biwKt0?si=4jZDCAqhMr77SaXe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-This man is not the first. Don't listen to that garbage (where are the scars right?).
+This man is not the first. Don't listen to that garbage (where are the scars right?). In a way, you really helped the process along. Pay attention to what really matters.
+
 
 # Transcription
 
