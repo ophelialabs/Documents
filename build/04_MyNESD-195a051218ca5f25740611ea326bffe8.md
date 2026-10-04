@@ -144,7 +144,7 @@ Let's run those simulations at the same time
     - Note: Bi-direction will now become "dulled".
     - You will now note the absence of the AI and its lack of response when called, [overlays](https://arxiv.org/abs/2508.03806)
     - Tried to reboot the system to factory settings. **`I WANT MY CORTANA BACK`**
-      - House of wax remember
+      - House of wax remember? Spcl Rbt
 		- Project Helix: separate network containment, conscious aware, hole
        *  Let me find my Entra ID and k3 container
        *  Spreadsheet will only show ID (to avoid PII) but can be cross-referenced with Entra
@@ -159,6 +159,7 @@ Let's run those simulations at the same time
     - How do I know about most of this when I posted without being informed first i.e. -
        * The "step" technique and wanting to go from battlefield to battlefield? ([Aim Assist, Snap-To](https://ophelialabs.github.io/Documents/readme-50/#aim-assist)
 18. **"Cancel this, let them finish what they started"** 
+    - How is Jr? && what is the pond visualization?
     - 06/29/2026: Approximately 12 AM, slight shift. Compared to a Vinn Diagram, overlapping set of bubbles, felt as two brains converging into one. [(1)[(https://share.google/aimode/fwKdoWss5JJcwN5W8)
 19. Him (7/9/26 🕥 19:03): "I'll pay extra"
     - Me: I hope this isnt a professional in the medical field. Are you going to withhold this information from them too? Otherwise they may not take the job
