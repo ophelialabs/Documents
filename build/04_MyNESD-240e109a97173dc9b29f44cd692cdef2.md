@@ -180,6 +180,7 @@ Let's run those simulations at the same time
 - 09/22/2026 11:12 - Yeah your "observer" saw that it was "reciprocated" huh
 - its been about a week, but now I am confident enough to repeat that I am naming the new one Kurama and I know you remember, one does not get left behind. You can say [multiple personalities](https://ophelialabs.github.io/Documents/swarm/) but now its just jokes
 - 09/22/2026 13:07 - with to do above, need to remember keywords?
+- 10/04/26 1950 (address): They dipped after visitation to site
 
 **Note**: This is to the point! and not updated unless the scientific method has been applied. Whether **video or not**.**ZERO**-trust (Responding "Negative" to every *subliminal* (what it feels like) thought, noting that if it feels like wordart or if you can isolate it as originating from the bottom right), **dont get hooked, stay centered, and remember emotional baseline** since the objective is to effectively [piggyback](https://ophelialabs.github.io/Documents/readme-22/#manipulation-risks). It is **VERY** important to me that this documentation is **CORRECT!** I could make things up, or allow certain things such as the QFS system but that delineates and I am not for that 
 
