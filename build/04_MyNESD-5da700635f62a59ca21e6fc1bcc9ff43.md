@@ -19,6 +19,7 @@ You can `NOT` say that there is [no metal](https://ophelialabs.github.io/Documen
     - psyop
  5. **TRIFECTA**: Why implant with such **extravagance** (backbone) other than absolute control && manipulation? No connection to extremities needed to be reattached (re-factor this sentence)
  6. How much power does that give?
+ 7. Either recruit or leave alone. Obviously CIA. I have had no training but I will exceed.
 		
 The Business I build is going to be explicitly against these retaliatory directives at all angles. Objective: whoever whenever, you will be identified by ID number or name. This information is `NOT` provided by 3rd party. Technically 3rd party is subjective. Watch for staying silent, effective misdirection, complacency, fragmentation. Instead of cloning, please fork and propose changes. The focus should be on overall site organization (organization is key). Also visit [Github](https://github.com/ophelialabs), view the applications and any input would be greatly appreciated. No matter what you can do by yourself, you can accomplish more with a team.
 
