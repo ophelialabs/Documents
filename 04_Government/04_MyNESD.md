@@ -4,6 +4,7 @@ title: MyNESD
 
 ## If I Don't, Who Will?
 Whats it say when I don't need your money or resources? You can say I am really good at technology, but what is that really saying? Lets flip your coin. No one is who they say they are right? You have to tell them. Whats that say about your 180?
+I have 12 plains I know I need to analyze. What is your choice?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mluo2cdsEEk?si=s2RlOiFsgUd0jHdf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="display: block; width: 100%; max-width: 560px; aspect-ratio: 16 / 9; height: auto; border: 0;"></iframe>
 
