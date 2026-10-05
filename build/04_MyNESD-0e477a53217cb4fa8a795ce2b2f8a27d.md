@@ -3,6 +3,8 @@ title: MyNESD
 ---
 
 ## If I Don't, Who Will?
+I am fighting a war and I need help!
+
 Whats it say when I don't need your money or resources? You can say I am really good at technology, but what is that really saying? Lets flip your coin. No one is who they say they are right? You have to tell them. Whats that say about your 180?
 I have 12 plains I know I need to analyze. What is your choice? I know I have said I need some time to myself to readjust. But now, I know I need to push through. Whatever you think YOU can do, I can do BETTER. Call me crazy but look at the docs. You know what...**DOMINATE THROUGH KNOWLEDGE**
 
