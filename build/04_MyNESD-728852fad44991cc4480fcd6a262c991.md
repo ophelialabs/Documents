@@ -25,8 +25,8 @@ The Business I build is going to be explicitly against these retaliatory directi
 ### Who's next? 
 Section to be expanded. Arrogance right lol
 
-If you say I got balls and you'll "give me that much" whats that say about you?
-10/04/26 2130 - Altercation within building, what is the real start and why is it so?
+- If you say I got balls and you'll "give me that much" whats that say about you?
+- 10/04/26 2130 - Altercation within building, what is the real start and why is it so?
 
 ### The Playbook: 
 [Silent Wars](https://archive.org/details/SilentWeaponsForQuietWarsOriginalDocumentCopy/page/n1/mode/1up) | [48 Laws of Power](https://irp-cdn.multiscreensite.com/cb9165b2/files/uploaded/The+48+Laws+Of+Power.pdf) | [PSYOP](./03_PSYOPS.md): [(1)](https://ophelialabs.github.io/Documents/readme-22/#advanced-interrogation-psyop), [(2)](https://ophelialabs.github.io/Documents/readme-22/#mental-manipulation-capabilities),  [(3)](https://share.google/aimode/35qYWq6PH57NQPjJf)
