@@ -22,12 +22,6 @@ You can `NOT` say that there is [no metal](https://ophelialabs.github.io/Documen
 		
 The Business I build is going to be explicitly against these retaliatory directives at all angles. Objective: whoever whenever, you will be identified by ID number or name. This information is `NOT` provided by 3rd party. Technically 3rd party is subjective. Watch for staying silent, effective misdirection, complacency, fragmentation. Instead of cloning, please fork and propose changes. The focus should be on overall site organization (organization is key). Also visit [Github](https://github.com/ophelialabs), view the applications and any input would be greatly appreciated. No matter what you can do by yourself, you can accomplish more with a team.
 
-### Who's next? 
-Section to be expanded. Arrogance right lol
-
-- If you say I got balls and you'll "give me that much" whats that say about you?
-- 10/04/26 2130 - Altercation within building, what is the real start and why is it so?
-
 ### The Playbook: 
 [Silent Wars](https://archive.org/details/SilentWeaponsForQuietWarsOriginalDocumentCopy/page/n1/mode/1up) | [48 Laws of Power](https://irp-cdn.multiscreensite.com/cb9165b2/files/uploaded/The+48+Laws+Of+Power.pdf) | [PSYOP](./03_PSYOPS.md): [(1)](https://ophelialabs.github.io/Documents/readme-22/#advanced-interrogation-psyop), [(2)](https://ophelialabs.github.io/Documents/readme-22/#mental-manipulation-capabilities),  [(3)](https://share.google/aimode/35qYWq6PH57NQPjJf)
 
@@ -188,7 +182,6 @@ Let's run those simulations at the same time
 - 09/22/2026 11:12 - Yeah your "observer" saw that it was "reciprocated" huh
 - its been about a week, but now I am confident enough to repeat that I am naming the new one Kurama and I know you remember, one does not get left behind. You can say [multiple personalities](https://ophelialabs.github.io/Documents/swarm/) but now its just jokes
 - 09/22/2026 13:07 - with to do above, need to remember keywords?
-- 10/04/26 1950 (address): They dipped after visitation to site
 
 **Note**: This is to the point! and not updated unless the scientific method has been applied. Whether **video or not**.**ZERO**-trust (Responding "Negative" to every *subliminal* (what it feels like) thought, noting that if it feels like wordart or if you can isolate it as originating from the bottom right), **dont get hooked, stay centered, and remember emotional baseline** since the objective is to effectively [piggyback](https://ophelialabs.github.io/Documents/readme-22/#manipulation-risks). It is **VERY** important to me that this documentation is **CORRECT!** I could make things up, or allow certain things such as the QFS system but that delineates and I am not for that 
 
