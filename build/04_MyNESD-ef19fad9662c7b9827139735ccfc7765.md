@@ -3,10 +3,6 @@ title: MyNESD
 ---
 
 ## If I Don't, Who Will?
-I am fighting a war and I need help! If you want to be 100%, I have done this by myself. We all three know. Come on now. Seriously? I have always said I am not perfect nor am I the smartest. I do not make these claims for myself, but sometime guidance is needed.
-
-Whats it say when I don't need your money or resources? You can say I am really good at technology, but what is that really saying? Lets flip your coin. No one is who they say they are right? You have to tell them. Whats that say about your 180?
-I have 12 plains I know I need to analyze. What is your choice? I know I have said I need some time to myself to readjust. But now, I know I need to push through. Whatever you think YOU can do, I can do BETTER. Call me crazy but look at the docs. You know what...**DOMINATE THROUGH KNOWLEDGE**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mluo2cdsEEk?si=s2RlOiFsgUd0jHdf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="display: block; width: 100%; max-width: 560px; aspect-ratio: 16 / 9; height: auto; border: 0;"></iframe>
 
