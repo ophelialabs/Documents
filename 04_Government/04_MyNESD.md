@@ -3,17 +3,6 @@ title: MyNESD
 ---
 
 ## If I Don't, Who Will?
-You have mis-interpreted me. You started this
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WRGtClceHJE?si=M05NhxnXlW84zsH7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Further research needed, rf1v && aav (use searchbar) remember trial periods and where its at now. Need to do own bloodwork && compare w/ immuno-assays (it bothered me if I didn't add immuno). [(1)](https://ophelialabs.github.io/Documents/readme-52/#id-5-rf1v), [(2)](https://ophelialabs.github.io/Documents/readme-52/#id-4-2-aav-vectors-general-overview), [(3)](https://ophelialabs.github.io/Documents/phage/#synthetic-bacteriophages-and-engineering-advances), [(4)](https://ophelialabs.github.io/Documents/readme-29/)
-
-- I care not and will not allow things such as an electric chair or what I face to manipulate me as long as everyone else knows. You do not scare me anymore. Pave the Path and give instruction. The green leaf (you know me better right, so we both know that is a Naruto reference, who cares)
-- What happens if electrocuted? analyze their statement. Remember push/pull electrical substation Cliffdale road.
-- Either electric chair which would leave burn marks, or negating safety features when around high electrical outputs. Pass by substation again on foot and note differences.
-- Difference between self-sacrifice and MAD (mutually assured destruction)
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mluo2cdsEEk?si=s2RlOiFsgUd0jHdf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="display: block; width: 100%; max-width: 560px; aspect-ratio: 16 / 9; height: auto; border: 0;"></iframe>
 
 You can `NOT` say that there is [no metal](https://ophelialabs.github.io/Documents/administer/#narrowing-down). combine yt with br.png. If you couldn't tell the truth about the fact that there is metal, and went as far as to tell the Dr. (I know she looked stressed, and that is not fair to her. I am sure she worked hard to get to where she is) to as well, you now can't be expected to tell the truth about anything. You're just selfish. Let's replicate this, (perform again) and also with [MFS](https://share.google/aimode/UrrE9jf3tA7mF9aSe) direct measurements. Turn "hypothesis" into laws. (Quick question, with the situation be approached as such, how does this not seem like a ploy for a setup? Otherwise, why not just follow the actual judicial process?)
