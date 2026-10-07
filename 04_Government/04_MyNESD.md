@@ -7,7 +7,7 @@ You have mis-interpreted me
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WRGtClceHJE?si=M05NhxnXlW84zsH7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Further research needed, rf1v && aav (use searchbar) remember trial periods and where its at now. Need to do own bloodwork && compare w/ assays. [(1)](https://ophelialabs.github.io/Documents/readme-52/#id-5-rf1v), [(2)](https://ophelialabs.github.io/Documents/readme-52/#id-4-2-aav-vectors-general-overview), [(3)](https://ophelialabs.github.io/Documents/phage/#synthetic-bacteriophages-and-engineering-advances), [(4)](https://ophelialabs.github.io/Documents/readme-29/)
+Further research needed, rf1v && aav (use searchbar) remember trial periods and where its at now. Need to do own bloodwork && compare w/ immuno-assays (it bothered me if I didn't add immuno). [(1)](https://ophelialabs.github.io/Documents/readme-52/#id-5-rf1v), [(2)](https://ophelialabs.github.io/Documents/readme-52/#id-4-2-aav-vectors-general-overview), [(3)](https://ophelialabs.github.io/Documents/phage/#synthetic-bacteriophages-and-engineering-advances), [(4)](https://ophelialabs.github.io/Documents/readme-29/)
 
 - I care not and will not allow things such as an electric chair or what I face to manipulate me as long as everyone else knows. You do not scare me anymore. Pave the Path and give instruction. The green leaf (you know me better right, so we both know that is a Naruto reference, who cares)
 - What happens if electrocuted? analyze their statement. Remember push/pull electrical substation Cliffdale road.
