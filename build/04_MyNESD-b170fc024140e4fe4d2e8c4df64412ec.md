@@ -10,7 +10,7 @@ Further research needed, rf1v && aav (use searchbar) remember trial periods and 
 
 - I care not and will not allow things such as an electric chair or what I face to manipulate me as long as everyone else knows. You do not scare me anymore. Pave the Path and give instruction. The green leaf (you know me better right, so we both know that is a Naruto reference, who cares)
 - What happens if electrocuted? analyze their statement. Remember push/pull electrical substation Cliffdale road.
-- Either chair which would leave burn marks, or negating safety features when around high electrical outputs. Pass by substation again on foot and note differences.
+- Either electric chair which would leave burn marks, or negating safety features when around high electrical outputs. Pass by substation again on foot and note differences.
 - Difference between self-sacrifice and MAD (mutually assured destruction)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mluo2cdsEEk?si=s2RlOiFsgUd0jHdf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="display: block; width: 100%; max-width: 560px; aspect-ratio: 16 / 9; height: auto; border: 0;"></iframe>
