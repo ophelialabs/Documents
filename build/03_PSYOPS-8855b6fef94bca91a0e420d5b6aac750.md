@@ -16,7 +16,7 @@ keywords:
   - media literacy
 ---
 
-# Itinerary Mismmatch
+# Itinerary Mis-match
 https://share.google/aimode/aCkhorgPiqXtWGlcd
 
 # Psychological Operations and the Contest for Human Belief
