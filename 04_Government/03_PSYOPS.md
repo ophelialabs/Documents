@@ -19,6 +19,8 @@ keywords:
 # Itinerary Mis-match
 https://share.google/aimode/aCkhorgPiqXtWGlcd
 
+Remember scheduling questions of different employees and apply
+
 # Psychological Operations and the Contest for Human Belief
 
 ## Abstract
