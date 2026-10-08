@@ -22,7 +22,7 @@ You can `NOT` say that there is [no metal](https://ophelialabs.github.io/Documen
 ### Multiple Angles
 refer to iphone/icloud notes. 
 
-Sidenote: saw a news post today where fbi sold a teen muslim descendant a gun and ammo **after 2 years of communication**. I want all transcript. Also why sell this "teen" a gun and ammo instead of explicitly trying to deter him. Should FBI and Associated Press not be aid && abet? Asking him if he plans on going through with it is NOT the same as trying to help. **You're despicable**. 
+Sidenote: saw a news post today where fbi sold a teen muslim descendant a gun and ammo **after 2 years of communication**. I want all transcript. Also why sell this "teen" a gun and ammo instead of explicitly trying to deter him. Should FBI and Associated Press not be aid && abet? Asking him if he plans on going through with it is NOT the same as trying to help. **You're despicable**. Also, give this man the "test".
 
 The Business I build is going to be explicitly against these retaliatory directives at all angles. Objective: whoever whenever, you will be identified by ID number or name. This information is `NOT` provided by 3rd party. Technically 3rd party is subjective. Watch for staying silent, effective misdirection, complacency, fragmentation. Instead of cloning, please fork and propose changes. The focus should be on overall site organization (organization is key). Also visit [Github](https://github.com/ophelialabs), view the applications and any input would be greatly appreciated. No matter what you can do by yourself, you can accomplish more with a team.
 
