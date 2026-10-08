@@ -19,7 +19,7 @@ keywords:
 # Itinerary Mis-match
 https://share.google/aimode/aCkhorgPiqXtWGlcd
 
-Remember scheduling questions of different employees and apply
+Remember scheduling questions of different employees and apply. My sole importance is not inbound and have expressed a desire to move to an 8am timeblock. Analyze why this has not happened huh?
 
 # Psychological Operations and the Contest for Human Belief
 
