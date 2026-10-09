@@ -12,19 +12,9 @@ You can `NOT` say that there is [no metal](https://ophelialabs.github.io/Documen
  2. No Metal: No Matter what secretions, this is not possible
  3. Exactly as explained
  4. Put some thought, **MEMORY**:
-    - injection
-    - deletion
-    - psyop
+    - insertion | deletion | psyops
  5. **TRIFECTA**: Why implant with such **extravagance** (backbone) other than absolute control && manipulation? No connection to extremities needed to be reattached (re-factor this sentence)
  6. How much power does that give? I also thought, what about removing all PII that a "robot" is delegated to. How would you know?
- 7. Either recruit or leave alone. Obviously CIA. I have had no training but I will exceed.
-
-### Multiple Angles
-refer to iphone/icloud notes. 
-
-Sidenote: saw a news post today where fbi sold a teen muslim descendant a gun and ammo **after 2 years of communication**. I want all transcript. Also why sell this "teen" a gun and ammo instead of explicitly trying to deter him. Should FBI and Associated Press not be aid && abet? Asking him if he plans on going through with it is NOT the same as trying to help. **You're despicable**. Also, give this man the "test".
-
-The Business I build is going to be explicitly against these retaliatory directives at all angles. Objective: whoever whenever, you will be identified by ID number or name. This information is `NOT` provided by 3rd party. Technically 3rd party is subjective. Watch for staying silent, effective misdirection, complacency, fragmentation. Instead of cloning, please fork and propose changes. The focus should be on overall site organization (organization is key). Also visit [Github](https://github.com/ophelialabs), view the applications and any input would be greatly appreciated. No matter what you can do by yourself, you can accomplish more with a team.
 
 ### The Playbook: 
 [Silent Wars](https://archive.org/details/SilentWeaponsForQuietWarsOriginalDocumentCopy/page/n1/mode/1up) | [48 Laws of Power](https://irp-cdn.multiscreensite.com/cb9165b2/files/uploaded/The+48+Laws+Of+Power.pdf) | [PSYOP](./03_PSYOPS.md): [(1)](https://ophelialabs.github.io/Documents/readme-22/#advanced-interrogation-psyop), [(2)](https://ophelialabs.github.io/Documents/readme-22/#mental-manipulation-capabilities),  [(3)](https://share.google/aimode/35qYWq6PH57NQPjJf)
