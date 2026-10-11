@@ -184,7 +184,7 @@ Let's run those simulations at the same time
    * Note any Apex and behind the Ear bumps that happen simultaneously
    * Create daily logs with timestamps (Find a way to easily implement transcribe for the user, see [Supplementary Implementation](https://ophelialabs.github.io/Documents/administer/#supplementary-implementation)?)
    * Listen closely for clicks before comm, distinct
-   * Look for **blurred rectangles and impressions in grass or footprints that appear behind the rectangles** (Create cronjob for users that sets off a sleep timer that randomly flashes). [(1)](https://jessedev3.github.io/Documents/readme-48/#between-an-optical-camera-system-and-a-patient). [(2)](https://share.google/aimode/UR4MnyVDuh1EeCJoQ)
+   * Look for **blurred rectangles and impressions in grass or footprints that appear behind the rectangles** (Create cronjob for users that sets off a sleep timer that randomly flashes). [(1)](https://jessedev3.github.io/Documents/readme-48/#between-an-optical-camera-system-and-a-patient), [(2)](https://share.google/aimode/UR4MnyVDuh1EeCJoQ)
    * **Cover eyes (shirt, towel, hand) and look for green and red sources of light)**
    * When reviewing footage, red and green spectrums work best (if lucky - with pulse light, or slow down enough that flicker helps). 
 07/27/26 08:03: These are not **what ifs**. Where in the docs is a what if? These are ***direct responses***
