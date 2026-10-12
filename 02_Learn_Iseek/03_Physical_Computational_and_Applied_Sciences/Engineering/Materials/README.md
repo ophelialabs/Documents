@@ -70,6 +70,20 @@ flowchart TD
 - [Light-Responsive Materials in Droplet Manipulation for Biochemical Applications](https://advanced.onlinelibrary.wiley.com/doi/epdf/10.1002/adma.202313935)
 - [Huygens Optics](https://www.youtube.com/@HuygensOptics/videos)
 
+## Research hubs and journals
+
+- [Google Scholar](https://scholar.google.com/)
+- [Google Research](https://research.google/)
+- [Acta Materialia](https://www.sciencedirect.com/journal/acta-materialia)
+- [Advanced Materials](https://onlinelibrary.wiley.com/journal/15214095)
+- [Nature Materials](https://www.nature.com/nmat/)
+- [ACS Applied Materials & Interfaces](https://pubs.acs.org/journal/aamick)
+- [Journal of Materials Science](https://link.springer.com/journal/10853)
+- [Advanced Functional Materials](https://onlinelibrary.wiley.com/journal/16163028)
+- [Harvard Dataverse](https://dataverse.harvard.edu/)
+- [Dryad](https://datadryad.org/)
+- [arXiv](https://arxiv.org/)
+
 ## Summary
 
 Materials engineering is the backbone of all applied engineering because it defines the physical limits and performance envelope of every device, structure, and system. It connects directly to electrical, mechanical, biomedical, and energy engineering.

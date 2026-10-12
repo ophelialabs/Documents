@@ -69,6 +69,21 @@ flowchart TD
 - [SnapGene](https://www.snapgene.com/)
 - [IRB](https://ori.hhs.gov/content/chapter-3-The-Protection-of-Human-Subjects-IRBs)
 
+## Research hubs and journals
+
+- [Google Scholar](https://scholar.google.com/)
+- [Google Research](https://research.google/)
+- [IEEE Xplore](https://ieeexplore.ieee.org/)
+- [IEEE Transactions on Biomedical Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10)
+- [IEEE Journal of Biomedical and Health Informatics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221020)
+- [Nature Biomedical Engineering](https://www.nature.com/nbioeng/)
+- [npj Digital Medicine](https://www.nature.com/npjdigitalmed/)
+- [Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control)
+- [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
+- [Harvard Dataverse](https://dataverse.harvard.edu/)
+- [Dryad](https://datadryad.org/)
+- [arXiv](https://arxiv.org/)
+
 ## Summary
 
 Medical engineering is a systems-oriented discipline that translates scientific understanding into tools for human health. It blends biology, instrumentation, device design, and clinical ethics into one integrated engineering practice.

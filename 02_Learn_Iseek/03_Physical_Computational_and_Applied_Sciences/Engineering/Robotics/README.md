@@ -61,6 +61,20 @@ flowchart TD
 - [SI4735 Ard Lib](https://github.com/pu2clr/SI4735)
 - [DRA818V module references](https://www.aliexpress.com/w/wholesale-dra818v.html)
 
+## Research hubs and journals
+
+- [Google Scholar](https://scholar.google.com/)
+- [Google Research](https://research.google/)
+- [IEEE Xplore](https://ieeexplore.ieee.org/)
+- [IEEE Transactions on Robotics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=100)
+- [International Journal of Robotics Research](https://journals.sagepub.com/home/ijr)
+- [Autonomous Robots](https://link.springer.com/journal/10514)
+- [Science Robotics](https://www.science.org/journal/scirobotics)
+- [IEEE Robotics and Automation Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369)
+- [Harvard Dataverse](https://dataverse.harvard.edu/)
+- [Dryad](https://datadryad.org/)
+- [arXiv](https://arxiv.org/)
+
 ## Summary
 
 Robotics engineering is the integration of electrical, mechanical, computational, and systems thinking into machines that act in the real world. It is one of the clearest examples of how the engineering domains work together as a single connected discipline.

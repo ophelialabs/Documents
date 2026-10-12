@@ -55,6 +55,21 @@ flowchart TD
     F --> H[Performance, reliability, and monitoring]
 ```
 
+## Research hubs and journals
+
+- [Google Scholar](https://scholar.google.com/)
+- [Google Research](https://research.google/)
+- [IEEE Xplore](https://ieeexplore.ieee.org/)
+- [IEEE/ACM Transactions on Networking](https://dl.acm.org/journal/ton)
+- [IEEE Journal on Selected Areas in Communications](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=49)
+- [IEEE Transactions on Wireless Communications](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7693)
+- [ACM SIGCOMM](https://dl.acm.org/sig/sigcomm)
+- [Computer Networks](https://www.sciencedirect.com/journal/computer-networks)
+- [Nature Communications](https://www.nature.com/ncomms/)
+- [Harvard Dataverse](https://dataverse.harvard.edu/)
+- [Dryad](https://datadryad.org/)
+- [arXiv](https://arxiv.org/)
+
 ## Summary
 
 Network engineering is the communication layer that turns electrical and signal-level phenomena into usable, connected systems. It complements electrical engineering by focusing on the structure, movement, and intelligence of digital communication across networks.

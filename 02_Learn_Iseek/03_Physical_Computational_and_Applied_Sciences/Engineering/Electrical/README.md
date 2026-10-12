@@ -138,6 +138,21 @@ The two areas work together in real systems:
 
 For the related study path, see [Network Engineering](../Network/README.md).
 
+## Research hubs and journals
+
+- [Google Scholar](https://scholar.google.com/)
+- [Google Research](https://research.google/)
+- [IEEE Xplore](https://ieeexplore.ieee.org/)
+- [IEEE Transactions on Power Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=59)
+- [IEEE Transactions on Industrial Electronics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=41)
+- [IEEE Journal of Emerging and Selected Topics in Power Electronics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=63)
+- [IEEE Transactions on Signal Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78)
+- [IEEE Communications Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=35)
+- [Nature Electronics](https://www.nature.com/natelectron/)
+- [Harvard Dataverse](https://dataverse.harvard.edu/)
+- [Dryad](https://datadryad.org/)
+- [arXiv](https://arxiv.org/)
+
 ## Summary
 
 This electrical engineering path is designed to move from fundamentals to applied infrastructure and system design. It includes residential, commercial, industrial, power, communications, control, and electronics work so the directory reflects the full breadth of the discipline rather than only an abstract academic subset.

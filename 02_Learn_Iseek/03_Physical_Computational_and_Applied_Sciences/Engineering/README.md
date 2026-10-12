@@ -29,6 +29,21 @@ These engineering areas are not independent silos. They work together in real sy
 
 The links below provide the shared academic foundation for this area, including computing, mathematics, physics, probability, machine learning, electronics, robotics, communications, and materials science. Topic-specific documentation should remain in the relevant subdirectory so that this index can serve as an entry point rather than a duplicate reference.
 
+## Research hubs and journals
+
+- [Google Scholar](https://scholar.google.com/)
+- [Google Research](https://research.google/)
+- [Google Research Publications](https://research.google/pubs/)
+- [IEEE Xplore](https://ieeexplore.ieee.org/)
+- [ACM Digital Library](https://dl.acm.org/)
+- [Science](https://www.science.org/)
+- [Nature](https://www.nature.com/)
+- [Engineering](https://www.sciencedirect.com/journal/engineering)
+- [Advanced Engineering Informatics](https://www.sciencedirect.com/journal/advanced-engineering-informatics)
+- [Harvard Dataverse](https://dataverse.harvard.edu/)
+- [Dryad](https://datadryad.org/)
+- [arXiv](https://arxiv.org/)
+
 ## Grainger College of Engineering | Illinois
 
 
