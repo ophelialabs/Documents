@@ -19,6 +19,15 @@ The current structure is minimal, which makes it a strong candidate for an organ
 - Synthetic media and information environments
 - Decision-making under uncertainty and imperfect information
 
+## Directory map
+
+- [Economics](economics/README.md): scarcity, incentives, choice, markets, macroeconomic structure, and quantitative methods
+- [Consumer Behavior](economics/consumerbehavior.md): preference formation, trust, attention, and decision-making under uncertainty
+- [Media and Communications](media-and-communications/README.md): information flows, attention economies, credibility, and platform dynamics
+- [Synthetic Media](media-and-communications/synthetic-media.md): AI-generated content, persuasion, trust, and governance
+- [Institutions and Policy](institutions-and-policy/README.md): governance, public choice, regulation, and social coordination
+- [Behavioral and Social Systems](behavioral-and-social-systems/README.md): identity, norms, trust, cooperation, and decision-making at the group level
+
 ## Why this area matters
 
 Humanities and social sciences are not secondary to technical or scientific knowledge. They explain how people, markets, institutions, and narratives shape the environment in which technology operates. This is especially important in modern systems where algorithms, media ecosystems, and economic incentives can amplify or distort behavior.
