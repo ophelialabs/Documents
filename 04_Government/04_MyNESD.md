@@ -4,7 +4,7 @@ title: MyNESD
 
 ## If I Don't, Who Will?
 
-India, do you hear this right now? I noticed the time restrictions. I first asked for a grievance allowing me grievance to order food. I thank you for lifting this. I wanted to order you food as well correct. 
+India, do you hear this right now? I noticed the time restrictions. I first asked for a grievance allowing me access to order food. I thank you for lifting this. I wanted to order you food as well correct? 
 
 I stood up for this person and now... I KNOW you hear it. I am not perfect, nor do I pretend to be. This is also biased and I prefer it not to be. I am not perfect and I will never pretend to be. WHAT I WILL DO though is make it easier for the next person. You identified this in the beginning. STOP playing
 
