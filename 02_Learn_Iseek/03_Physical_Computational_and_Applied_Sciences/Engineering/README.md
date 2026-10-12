@@ -4,14 +4,26 @@ This directory organizes engineering learning resources, research references, an
 
 ## Navigation
 
-- [Electrical Engineering](Electrical/README.md): circuits, signals, electronics, and power systems
-- [Materials Engineering](Materials/README.md): materials science, nanotechnology, and textiles
+- [Electrical Engineering](Electrical/README.md): circuits, signals, electronics, power systems, and physical-layer design
+- [Materials Engineering](Materials/README.md): materials science, nanotechnology, structural behavior, and device materials
 - [Mechanical Engineering](Mechanical/README.md): mechanical design, aerospace systems, satellites, and structures
-- [Medical Engineering](Medical/README.md): biomedical systems, biotechnology, and neural engineering
-- [Network Engineering](Network/README.md): communications, spectrum, and next-generation wireless systems
-- [Nuclear Engineering](Nuclear/README.md): nuclear systems, controls, and energy-related engineering references
+- [Medical Engineering](Medical/README.md): biomedical systems, biotechnology, diagnostics, and neural engineering
+- [Network Engineering](Network/README.md): communications, spectrum, routing, and next-generation wireless systems
+- [Nuclear Engineering](Nuclear/README.md): nuclear systems, controls, safety, and energy-related engineering references
 - [Quantum Engineering](Quantum/index.md): quantum information, quantum networks, and quantum-enabled medical systems
-- [Robotics Engineering](Robotics/README.md): autonomous systems, intelligent devices, and robotics labs
+- [Robotics Engineering](Robotics/README.md): autonomous systems, intelligent devices, perception, and control
+
+## How the domains connect
+
+These engineering areas are not independent silos. They work together in real systems:
+
+- Electrical engineering provides the power, sensing, signal, and control foundations
+- Mechanical engineering provides the physical structure, motion, and system dynamics
+- Materials engineering defines what is physically possible in devices and structures
+- Network engineering routes information across distributed systems
+- Robotics integrates sensing, actuation, computation, and control into autonomous machines
+- Medical engineering applies these systems to human health and clinical needs
+- Nuclear and quantum engineering extend the same framework to high-risk, high-precision, and advanced-energy problems
 
 ## Resource Map
 
