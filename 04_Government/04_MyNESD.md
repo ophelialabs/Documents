@@ -5,7 +5,8 @@ title: MyNESD
 ## If I Don't, Who Will?
 
 India, do you hear this right now? I noticed the time restrictions. I first asked for a grievance allowing me access to order food. I thank you for lifting this. I wanted to order you food as well correct? 
-	- You think I didnt notice the onboarding signing? It was NOT continental, why is it so?
+
+ - You think I didnt notice the onboarding signing? It was NOT continental, why is it so?
 
 I stood up for this person and now... I KNOW you hear it. I am not perfect, this is also biased and I prefer it not to be. I am not perfect, WHAT I WILL DO though is make it easier for the next person. You identified this in the beginning. STOP playing
 
