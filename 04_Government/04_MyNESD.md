@@ -3,6 +3,7 @@ title: MyNESD
 ---
 
 ## If I Don't, Who Will?
+DO NOT LET MONEY DETER YOU!! RED X
 
 India, do you hear this right now? I noticed the time restrictions. I first noticed time discrepancies, and then I asked for a grievance allowing me access to order food. I thank you for lifting this. I wanted to order you food albeit from Dominos as well correct? 
 
