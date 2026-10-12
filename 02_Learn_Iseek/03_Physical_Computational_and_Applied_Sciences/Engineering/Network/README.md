@@ -70,6 +70,19 @@ flowchart TD
 - [Dryad](https://datadryad.org/)
 - [arXiv](https://arxiv.org/)
 
+## Licenses, certifications, and compliance standards
+
+- [Cisco Certifications](https://www.cisco.com/c/en/us/training-events/training-certifications.html)
+- [CompTIA Network+](https://www.comptia.org/certifications/network)
+- [Juniper Networks Certifications](https://www.juniper.net/us/en/training-certification/)
+- [IEEE Standards](https://standards.ieee.org/)
+- [ISO/IEC 27001 Information Security Management](https://www.iso.org/standard/27001)
+- [ISO/IEC 11801 Generic Cabling for Customer Premises](https://www.iso.org/standard/73933.html)
+- [TIA-568 Structured Cabling Standards](https://www.tiaonline.org/standards/)
+- [ETSI Standards](https://www.etsi.org/standards)
+- [3GPP Standards](https://www.3gpp.org/specifications)
+- [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
+
 ## Summary
 
 Network engineering is the communication layer that turns electrical and signal-level phenomena into usable, connected systems. It complements electrical engineering by focusing on the structure, movement, and intelligence of digital communication across networks.

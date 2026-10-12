@@ -123,6 +123,27 @@ flowchart TD
 - probabilistic risk assessment
 - fuel cycle optimization and environmental stewardship
 
+## Licenses, certifications, and compliance standards
+
+- [NRC Reactor Licensing](https://www.nrc.gov/reactors/operating/licensing.html)
+- [NRC Materials and Waste Licensing](https://www.nrc.gov/materials.html)
+- [IAEA Safety Standards](https://www.iaea.org/topics/safety-and-security)
+- [IEC 60071 Insulation Coordination](https://webstore.iec.ch/publication/5609)
+- [IEC 60168 High-Voltage Test Techniques](https://webstore.iec.ch/publication/2997)
+- [IEC 60271 Insulation of HV Equipment](https://webstore.iec.ch/publication/6342)
+- [IEC 60331 Fire Resistance Tests](https://webstore.iec.ch/publication/7741)
+- [IEC 60502 Power Cables with Extruded Insulation](https://webstore.iec.ch/publication/16088)
+- [IEC 60613 Nuclear Power Plants - Instrumentation and Control](https://webstore.iec.ch/publication/8271)
+- [IEC 60780 Nuclear Power Plants - Electrical Equipment of the Safety System](https://webstore.iec.ch/publication/5805)
+- [IEC 60980 Nuclear Power Plants - Control Rooms](https://webstore.iec.ch/publication/3224)
+- [IEC 61226 Nuclear Power Plants - Instrumentation and Control Systems](https://webstore.iec.ch/publication/6306)
+- [IEC 61513 Nuclear Power Plants - Instrumentation and Control Important to Safety](https://webstore.iec.ch/publication/4651)
+- [IEC 62138 Nuclear Power Plants - Main Control Room Design](https://webstore.iec.ch/publication/6255)
+- [IEC 62340 Nuclear Power Plants - Electrical Systems for Safety](https://webstore.iec.ch/publication/18653)
+- [ASME Boiler and Pressure Vessel Code](https://www.asme.org/codes-standards)
+- [ANSI N18 Standards Series](https://www.ansi.org/)
+- [US NRC Regulatory Guides](https://www.nrc.gov/reading-rm/doc-collections/reg-guides/)
+
 ## Summary
 
 Nuclear engineering is a systems-heavy discipline that integrates advanced physics, thermal science, materials, controls, and policy. This index is intended to guide a learner from the fundamentals of radiation and reactors to the broader realities of safe, reliable, and socially accountable nuclear technology.

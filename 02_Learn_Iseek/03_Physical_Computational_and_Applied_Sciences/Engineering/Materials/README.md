@@ -84,6 +84,18 @@ flowchart TD
 - [Dryad](https://datadryad.org/)
 - [arXiv](https://arxiv.org/)
 
+## Licenses, certifications, and compliance standards
+
+- [ASM International](https://www.asminternational.org/)
+- [NACE International](https://www.nace.org/)
+- [ASTM International Standards](https://www.astm.org/)
+- [ISO Standards](https://www.iso.org/standards.html)
+- [ISO 6892 Metallic Materials Tensile Testing](https://www.iso.org/standard/80886.html)
+- [ISO 10993 Biological Evaluation of Medical Devices](https://www.iso.org/standard/68936.html)
+- [ASTM E8/E8M Tensile Testing of Metals](https://www.astm.org/e0008_e0008m-24.html)
+- [ASME Material Standards](https://www.asme.org/codes-standards)
+- [NIST Materials Measurement Laboratory](https://www.nist.gov/mml)
+
 ## Summary
 
 Materials engineering is the backbone of all applied engineering because it defines the physical limits and performance envelope of every device, structure, and system. It connects directly to electrical, mechanical, biomedical, and energy engineering.

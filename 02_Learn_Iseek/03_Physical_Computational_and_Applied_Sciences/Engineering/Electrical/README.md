@@ -153,6 +153,20 @@ For the related study path, see [Network Engineering](../Network/README.md).
 - [Dryad](https://datadryad.org/)
 - [arXiv](https://arxiv.org/)
 
+## Licenses, certifications, and compliance standards
+
+- [Professional Engineer (PE) licensure](https://www.nspe.org/resources/licensure/pe-license)
+- [NCEES Electrical and Computer Exam](https://ncees.org/exams/fe-exam/)
+- [NEC / NFPA 70](https://www.nfpa.org/codes-and-standards/all-codes-and-standards/list-of-codes-and-standards/detail?code=70)
+- [NFPA 70E Electrical Safety in the Workplace](https://www.nfpa.org/codes-and-standards/all-codes-and-standards/detail?code=70e)
+- [IEEE Standards Association](https://standards.ieee.org/)
+- [IEC 60364 Electrical Installations in Buildings](https://webstore.iec.ch/publication/67389)
+- [IEC 61010 Safety Requirements for Electrical Equipment](https://webstore.iec.ch/publication/3414)
+- [IEC 61850 Substation Automation and Communication](https://webstore.iec.ch/publication/6012)
+- [UL Standards](https://www.ul.com/)
+- [UL 508 Industrial Control Panels](https://www.shopulstandards.com/ProductDetail.aspx?productId=UL508)
+- [UL 891 Switchboards](https://www.shopulstandards.com/ProductDetail.aspx?productId=UL891)
+
 ## Summary
 
 This electrical engineering path is designed to move from fundamentals to applied infrastructure and system design. It includes residential, commercial, industrial, power, communications, control, and electronics work so the directory reflects the full breadth of the discipline rather than only an abstract academic subset.

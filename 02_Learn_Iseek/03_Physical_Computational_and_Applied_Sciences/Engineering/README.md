@@ -44,6 +44,19 @@ The links below provide the shared academic foundation for this area, including 
 - [Dryad](https://datadryad.org/)
 - [arXiv](https://arxiv.org/)
 
+## Licenses, certifications, and compliance standards
+
+- [PE Licensure (Professional Engineer)](https://www.nspe.org/resources/licensure/pe-license)
+- [NCEES Engineering Exams](https://ncees.org/)
+- [ABET Accreditation](https://www.abet.org/)
+- [ISO Standards](https://www.iso.org/standards.html)
+- [IEC Standards](https://webstore.iec.ch/)
+- [IEEE Standards](https://standards.ieee.org/)
+- [NFPA Codes and Standards](https://www.nfpa.org/codes-and-standards)
+- [ISO 9001 Quality Management](https://www.iso.org/iso-9001-quality-management.html)
+- [ISO 14001 Environmental Management](https://www.iso.org/iso-14001-environmental-management.html)
+- [ISO 45001 Occupational Health and Safety](https://www.iso.org/iso-45001-occupational-health-and-safety.html)
+
 ## Grainger College of Engineering | Illinois
 
 

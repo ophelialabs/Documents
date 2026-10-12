@@ -84,6 +84,18 @@ flowchart TD
 - [Dryad](https://datadryad.org/)
 - [arXiv](https://arxiv.org/)
 
+## Licenses, certifications, and compliance standards
+
+- [FDA Medical Device Regulation](https://www.fda.gov/medical-devices)
+- [FDA 510(k) Program](https://www.fda.gov/medical-devices/premarkarket-submissions-selecting-and-preparing/510k-clearances)
+- [FDA PMA Program](https://www.fda.gov/medical-devices/premarkarket-submissions-selecting-and-preparing/premarkarket-approval-pma)
+- [ISO 13485 Medical Devices Quality Management](https://www.iso.org/standard/59752.html)
+- [IEC 60601 Medical Electrical Equipment Safety](https://webstore.iec.ch/publication/32849)
+- [IEC 62304 Software Lifecycle for Medical Devices](https://webstore.iec.ch/publication/65056)
+- [IEC 62366 Usability Engineering for Medical Devices](https://webstore.iec.ch/publication/24572)
+- [HIPAA Privacy and Security](https://www.hhs.gov/hipaa/index.html)
+- [GxP and regulated clinical data practices](https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/inspectors-guides)
+
 ## Summary
 
 Medical engineering is a systems-oriented discipline that translates scientific understanding into tools for human health. It blends biology, instrumentation, device design, and clinical ethics into one integrated engineering practice.

@@ -75,6 +75,17 @@ flowchart TD
 - [Dryad](https://datadryad.org/)
 - [arXiv](https://arxiv.org/)
 
+## Licenses, certifications, and compliance standards
+
+- [ISO 10218 Industrial Robots Safety](https://www.iso.org/standard/41543.html)
+- [ISO 13855 Safety Distances](https://www.iso.org/standard/69011.html)
+- [IEC 61508 Functional Safety of Electrical/Electronic/Programmable Systems](https://webstore.iec.ch/publication/5515)
+- [IEC 60204 Electrical Equipment of Machines](https://webstore.iec.ch/publication/15233)
+- [ANSI/RIA R15.08 Robot Safety](https://www.robotics.org/)
+- [NFPA 79 Electrical Standard for Industrial Machinery](https://www.nfpa.org/codes-and-standards/all-codes-and-standards/list-of-codes-and-standards/detail?code=79)
+- [IEEE Standards](https://standards.ieee.org/)
+- [OSHA Robotics and Machine Safety Guidance](https://www.osha.gov/)
+
 ## Summary
 
 Robotics engineering is the integration of electrical, mechanical, computational, and systems thinking into machines that act in the real world. It is one of the clearest examples of how the engineering domains work together as a single connected discipline.
