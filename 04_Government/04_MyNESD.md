@@ -7,7 +7,7 @@ DO NOT LET MONEY DETER YOU!! RED X
 
 India, do you hear this right now? I noticed the time restrictions. I first noticed time discrepancies, and then I asked for a grievance allowing me access to order food. I thank you for lifting this. I wanted to order you food albeit from Dominos as well correct? 
 
- - You think I didnt notice the onboarding signing? It was NOT continental...why is it so?
+ - You think I didnt notice the onboarding signing of the 3 yr mark? It was NOT continental...why is it so?
 
 I stood up for this person and now... I KNOW you hear it. I am not perfect, this is also biased and I prefer it not to be (but also why shouldn't it be? I put myself between this person and their own brother). WHAT I WILL DO though is make it easier for the next person. You identified this in the beginning. STOP playing. I need to severely restructure this sentence. I know what I am trying to portray. 
 
