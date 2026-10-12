@@ -23,8 +23,7 @@ The links below provide the shared academic foundation for this area, including 
 - [Phys 486](https://courses.grainger.illinois.edu/PHYS486/fa2025/)
 - [CS/ECE 438 | Communication Networks](https://ece438.notion.site/)
 - [CS 440/ECE 448 | Artificial Intelligence](https://courses.grainger.illinois.edu/cs440/fa2025/index.html)
-- [CS 441 | Applied Machine Learning](https://www.scribd.com/document/648577242/David-Forsyth-Applied-Machine-Learning-2019)
-    **https://www.scribd.com/document/648577242/David-Forsyth-Applied-Machine-Learning-2019**
+- [CS 441 | Applied Machine Learning](https://www.scribd.com/document/648577242/David-Forsyth-Applied-Machine-Learning-2019) [(1)](https://www.scribd.com/document/648577242/David-Forsyth-Applied-Machine-Learning-2019)
 - [ECE 494 | Deep Learning for Computer Vision](https://saurabhg.web.illinois.edu/teaching/cs444/fa2025/)
 - [ECE 314 | Probability in Engineering](https://courses.grainger.illinois.edu/ECE314/fa2025/314_syllabus_detailed.html)
 - [CS/IS/STAT 107](https://discovery.cs.illinois.edu/)
