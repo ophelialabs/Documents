@@ -4,14 +4,14 @@ This directory organizes engineering learning resources, research references, an
 
 ## Navigation
 
-- [Aerospace](Aerospace/README.md): mechanical design, aerospace systems, satellites, and structures
 - [Electrical Engineering](Electrical/README.md): circuits, signals, electronics, and power systems
 - [Materials Engineering](Materials/README.md): materials science, nanotechnology, and textiles
+- [Mechanical Engineering](Aerospace/README.md): mechanical design, aerospace systems, satellites, and structures
 - [Medical Engineering](Medical/README.md): biomedical systems, biotechnology, and neural engineering
 - [Network Engineering](Network/README.md): communications, spectrum, and next-generation wireless systems
 - [Nuclear Engineering](Nuclear/README.md): nuclear systems, controls, and energy-related engineering references
 - [Quantum Engineering](Quantum/index.md): quantum information, quantum networks, and quantum-enabled medical systems
-- [Robotics](Robotics/README.md): autonomous systems, intelligent devices, and robotics labs
+- [Robotics Engineering](Robotics/README.md): autonomous systems, intelligent devices, and robotics labs
 
 ## Resource Map
 
