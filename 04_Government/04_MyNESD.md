@@ -12,7 +12,7 @@ India, do you hear this right now? I noticed the time restrictions. I first noti
 I stood up for this person and now... I KNOW you hear it. I am not perfect, this is also biased and I prefer it not to be (but also why shouldn't it be? I put myself between this person and their own brother). WHAT I WILL DO though is make it easier for the next person. You identified this in the beginning. STOP playing. I need to severely restructure this sentence. I know what I am trying to portray. 
 
 ### GAY-JAY.....memberrrrr?
-[GayJ](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMD65bMfMxD9Bjpi-lxMt1JPrCvrskACBJDZoPJOTmpQ&s=10) You like to dominate right? Dish it out but can't take it? What a bitch. If you can not utilize the audio picked up from the 10/11/26 convo then I need to break down ALL audio so things are not misplaced. You are not singular "proprietary" or anything, you are a joke. **20 years or electric chair. YOU ARE NEXT**. I guess I am psychic then??? "Trumped" up charges and how I can negate? **AI**. 
+[GayJ](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMD65bMfMxD9Bjpi-lxMt1JPrCvrskACBJDZoPJOTmpQ&s=10) You like to dominate, ball tickler, and ....right? Dish it out but can't take it? What a bitch. If you can not utilize the audio picked up from the 10/11/26 convo then I need to break down ALL audio so things are not misplaced. You are not singular "proprietary" or anything, you are a joke. **20 years or electric chair. YOU ARE NEXT**. I guess I am psychic then??? "Trumped" up charges and how I can negate? **AI**. 
 
 ### RESPOND && HELP ME SHOW HOW I WAS RIGHT
 
