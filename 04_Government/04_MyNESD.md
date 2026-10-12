@@ -4,7 +4,7 @@ title: MyNESD
 
 ## If I Don't, Who Will?
 
-India, do you hear this right now? I noticed the time restrictions. I first asked for a grievance allowing me access to order food. I thank you for lifting this. I wanted to order you food as well correct? 
+India, do you hear this right now? I noticed the time restrictions. I first noticed time discrepancies, and then I asked for a grievance allowing me access to order food. I thank you for lifting this. I wanted to order you food albeit from Dominos as well correct? 
 
  - You think I didnt notice the onboarding signing? It was NOT continental...why is it so?
 
