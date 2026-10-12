@@ -19,6 +19,39 @@ This section is designed to work alongside the electrical engineering track rath
 - [Communications](../Electrical/communications.md): modulation, signal flow, noise, bandwidth, and communications theory
 - [Signals and Systems](../Electrical/signals-and-systems.md): time-domain and frequency-domain analysis
 
+## Applied network engineering
+
+Network design changes with the people, services, safety needs, and operating conditions of each environment. These three tracks provide practical entry points into the discipline:
+
+- [Residential networking](residential/README.md): home internet access, Wi-Fi coverage, wired Ethernet, connected devices, privacy, and resilient home services
+- [Commercial networking](commercial/README.md): office and campus LANs, structured cabling, business Wi-Fi, identity-based access, voice/video, cloud connectivity, and service continuity
+- [Industrial networking](industrial/README.md): operational technology (OT), industrial Ethernet, PLC and SCADA connectivity, deterministic communication, segmentation, and safety-aware operations
+
+### Residential networks
+
+Residential networks serve households and home offices, balancing ease of use, reliable coverage, affordability, and protection of personal devices. Study access equipment, router and access-point placement, Ethernet backhaul, guest and IoT segmentation, parental controls, and backup connectivity.
+
+### Commercial networks
+
+Commercial networks support organizations, employees, visitors, facilities, and business-critical applications. Study requirements gathering, structured cabling, redundant switching and routing, managed wireless, identity and access policy, voice and video quality, monitoring, and change management.
+
+### Industrial networks
+
+Industrial networks connect control systems and operational assets where timing, availability, safety, and equipment lifetime can be more important than general-purpose throughput. Study industrial Ethernet, fieldbus integration, PLC and SCADA communication, OT/IT boundaries, network segmentation, time synchronization, redundancy, and safe maintenance practices.
+
+```mermaid
+flowchart LR
+    A[Shared foundations] --> B[Residential]
+    A --> C[Commercial]
+    A --> D[Industrial]
+    B --> B1[Household access, Wi-Fi, IoT]
+    C --> C1[Campus, enterprise, cloud]
+    D --> D1[OT, control, deterministic traffic]
+    B1 --> E[Security, reliability, operations]
+    C1 --> E
+    D1 --> E
+```
+
 ## Learning path
 
 ### Foundations
