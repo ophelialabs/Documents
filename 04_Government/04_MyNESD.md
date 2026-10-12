@@ -6,7 +6,7 @@ title: MyNESD
 
 India, do you hear this right now? I noticed the time restrictions. I first asked for a grievance allowing me access to order food. I thank you for lifting this. I wanted to order you food as well correct? 
 
-I stood up for this person and now... I KNOW you hear it. I am not perfect, nor do I pretend to be. This is also biased and I prefer it not to be. I am not perfect and I will never pretend to be. WHAT I WILL DO though is make it easier for the next person. You identified this in the beginning. STOP playing
+I stood up for this person and now... I KNOW you hear it. I am not perfect, this is also biased and I prefer it not to be. I am not perfect, WHAT I WILL DO though is make it easier for the next person. You identified this in the beginning. STOP playing
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mluo2cdsEEk?si=s2RlOiFsgUd0jHdf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="display: block; width: 100%; max-width: 560px; aspect-ratio: 16 / 9; height: auto; border: 0;"></iframe>
 
