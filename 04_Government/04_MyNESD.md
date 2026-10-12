@@ -5,7 +5,7 @@ title: MyNESD
 ## BULLY THE BULLY
 DO NOT LET MONEY DETER YOU!! RED X
 
-India, do you hear this right now? I noticed the time restrictions and how the first objective was clarifying the time stamps presented to those on the internal network. I first noticed time discrepancies, and then I asked for a grievance allowing me access to order food. I thank you for lifting this. I wanted to order you food albeit from Dominos as well correct? 
+India, do you hear this right now? I noticed the time restrictions and how the first objective was clarifying the time stamps presented to those on the internal network. I then asked for a grievance allowing me access to order food. I thank you for lifting this momentarily. I offered to order you food too albeit from Dominos as well correct? 
 
  - You think I didnt notice the onboarding signing or the 3 yr mark? It was NOT continental...why is it so?
 
