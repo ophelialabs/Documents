@@ -174,7 +174,6 @@ Let's run those simulations at the same time
 - its been about a week, but now I am confident enough to repeat that I am naming the new one Kurama and I know you remember, one does not get left behind. You can say [multiple personalities](https://ophelialabs.github.io/Documents/swarm/) but now its just jokes
 - 09/22/2026 13:07 - with to do above, need to remember keywords?
 - Remember DWLR statement (does not mean it was true) and how they immediately responded. Use assets img
-- 10/11/26 2230(10:30PM) @ Walmart - 970 Strickland Bridge Rd, Fayetteville, NC 28304, fayetteville NC 
 
 **Note**: This is to the point! and not updated unless the scientific method has been applied. Whether **video or not**.**ZERO**-trust (Responding "Negative" to every *subliminal* (what it feels like) thought, noting that if it feels like wordart or if you can isolate it as originating from the bottom right), **dont get hooked, stay centered, and remember emotional baseline** since the objective is to effectively [piggyback](https://ophelialabs.github.io/Documents/readme-22/#manipulation-risks). It is **VERY** important to me that this documentation is **CORRECT!** I could make things up, or allow certain things such as the QFS system but that delineates and I am not for that 
 
@@ -220,16 +219,17 @@ Let's run those simulations at the same time
 
 ---
 
-# Citations
-1. [*CoOp Behavior*](https://www.science.org/doi/10.1126/science.adw8151) 
-2. [*Emerging fiber-based neural interfaces*](https://www.nature.com/articles/s41528-025-00465-w#Sec14)
-1. Optical Quantum Ground Station for QEYSSat: Operations Planning Activities
-2. [Bostonpiezooptics](https://www.bostonpiezooptics.com/optical-components): A resource for Optical Components
-3. [Advances and perspectives in fiber-based electronic devices for next-generation soft systems](https://www.nature.com/articles/s41528-025-00465-w#Sec10)
-4. [Advanced Materials](https://advanced.onlinelibrary.wiley.com/journal/15214095)
-5. [Capacitive Soft Strain Sensors via Multicore–Shell Fiber Printing](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.201500072)
-6. [Optical Noninvasive Brain–Computer Interface Development: Challenges and Opportunities](https://secwww.jhuapl.edu/techdigest/content/techdigest/pdf/V35-N04/35-04-Blodgett.pdf)
-7. [In Vivo Evaluation of Thermally Drawn Biodegradable Optical Fibers as Brain Implants](https://onlinelibrary.wiley.com/doi/epdf/10.1002/jbm.b.35549)
-8. [Emerging fiber-based neural interfaces with conductive composites](https://pubs.rsc.org/en/content/articlepdf/2025/mh/d4mh01854k)
-9. [18th Annual Space Operations Conference](https://star.spaceops.org/2025/user_manudownload.php?doc=510__1kjy24iu.pdf)
-10. [HyperQUEEN: Hyperspectral Quantum Deep Network For Image Restoration](https://www.researchgate.net/publication/370615393_HyperQUEEN_Hyperspectral_Quantum_Deep_Network_For_Image_Restoration)
+# References
+
+1. [CoOp Behavior](https://www.science.org/doi/10.1126/science.adw8151)
+2. [Emerging fiber-based neural interfaces](https://www.nature.com/articles/s41528-025-00465-w#Sec14)
+3. [Bostonpiezooptics: Optical Components](https://www.bostonpiezooptics.com/optical-components)
+4. [Advances and perspectives in fiber-based electronic devices for next-generation soft systems](https://www.nature.com/articles/s41528-025-00465-w#Sec10)
+5. [Advanced Materials](https://advanced.onlinelibrary.wiley.com/journal/15214095)
+6. [Capacitive Soft Strain Sensors via Multicore–Shell Fiber Printing](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.201500072)
+7. [Optical Noninvasive Brain–Computer Interface Development: Challenges and Opportunities](https://secwww.jhuapl.edu/techdigest/content/techdigest/pdf/V35-N04/35-04-Blodgett.pdf)
+8. [In Vivo Evaluation of Thermally Drawn Biodegradable Optical Fibers as Brain Implants](https://onlinelibrary.wiley.com/doi/epdf/10.1002/jbm.b.35549)
+9. [Emerging fiber-based neural interfaces with conductive composites](https://pubs.rsc.org/en/content/articlepdf/2025/mh/d4mh01854k)
+10. [18th Annual Space Operations Conference](https://star.spaceops.org/2025/user_manudownload.php?doc=510__1kjy24iu.pdf)
+11. [Optical Quantum Ground Station for QEYSSat: Operations Planning Activities](https://uwaterloo.ca/institute-for-quantum-computing/research/qeyssat)
+12. [HyperQUEEN: Hyperspectral Quantum Deep Network For Image Restoration](https://www.researchgate.net/publication/370615393_HyperQUEEN_Hyperspectral_Quantum_Deep_Network_For_Image_Restoration)

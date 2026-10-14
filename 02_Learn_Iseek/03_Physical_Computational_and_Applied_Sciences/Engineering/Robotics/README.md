@@ -65,6 +65,7 @@ flowchart TD
 
 - [Google Scholar](https://scholar.google.com/)
 - [Google Research](https://research.google/)
+- [SciX](https://scix.org/)
 - [IEEE Xplore](https://ieeexplore.ieee.org/)
 - [IEEE Transactions on Robotics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=100)
 - [International Journal of Robotics Research](https://journals.sagepub.com/home/ijr)

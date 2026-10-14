@@ -291,3 +291,6 @@ Brain-computer interfaces, IoT platforms, and neurotechnology research.
 ## Conclusion
 
 The NESD record describes research goals and technical challenges. A research-based assessment should distinguish documented observations from interpretations, evaluate claims against independent evidence, and account for consent, privacy, security, and clinical oversight. 
+
+# References
+

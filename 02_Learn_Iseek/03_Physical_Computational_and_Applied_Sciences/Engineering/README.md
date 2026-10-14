@@ -34,6 +34,7 @@ The links below provide the shared academic foundation for this area, including 
 - [Google Scholar](https://scholar.google.com/)
 - [Google Research](https://research.google/)
 - [Google Research Publications](https://research.google/pubs/)
+- [SciX](https://scix.org/)
 - [IEEE Xplore](https://ieeexplore.ieee.org/)
 - [ACM Digital Library](https://dl.acm.org/)
 - [Science](https://www.science.org/)
