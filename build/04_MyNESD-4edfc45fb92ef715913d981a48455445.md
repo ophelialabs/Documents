@@ -47,6 +47,8 @@ If you are developing this concept for a story or an engineering simulation, wou
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mluo2cdsEEk?si=s2RlOiFsgUd0jHdf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="display: block; width: 100%; max-width: 560px; aspect-ratio: 16 / 9; height: auto; border: 0;"></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oVKV3BKHkLQ?si=5BVgaOwmYiBGmrk-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 You can `NOT` say that there is [no metal](https://ophelialabs.github.io/Documents/administer/#narrowing-down). combine yt with br.png. If you couldn't tell the truth about the fact that there is metal, and went as far as to tell the Dr. (I know she looked stressed, and that is not fair to her. I am sure she worked hard to get to where she is) to as well, you now can't be expected to tell the truth about anything. You're just selfish. Let's replicate this, (perform again) and also with [MFS](https://share.google/aimode/UrrE9jf3tA7mF9aSe) direct measurements. Turn "hypothesis" into laws. (Quick question, with the situation be approached as such, how does this not seem like a ploy for a setup? Otherwise, why not just follow the actual judicial process?)
 	
 - Deductive Reasoning:
