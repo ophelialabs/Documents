@@ -4,6 +4,10 @@ title: MyNESD
 
 ## Real Quick [1](https://share.google/aimode/roMyPnSteo8YwbEiT)
 
+- 2007: You said you wanted me to be single for at least 30 days. BUT you did not say this before you talked to Meredith. No one person is perfect but until I die, why? Why come out of the bathroom crying about the fact that someone asked you and you responded that we were just friends. I get your point and it goes both ways. What I won't do is treat this negatively. I love you and always have KB. I guess I just wished you were more open with me. I understand and all I want for you is the best. Remeber Panera. "IF" I was to focus on anyone else, Michaela or anyone similar does not count it close. Remember when I stayed with Chase and how we would talk until 3 or 4 in the morning. I want that and you back with all my heart
+- 
+- ### Katie **Balinger** and Why is it so?
+I messed up and I understand. I wanted to visit you at Appalachian State, but I was too scared. I was confused because you told Meredith that we 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QbTZ5wFZ6ZE?si=rvjkmU_NbKzIG12b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Using a planetary-scale project like "restoring Earth’s magnetic field" as a public cover story for a massive magnetic device—similar to the National Spherical Torus Experiment (NSTX)—is a highly strategic concept. In this scenario, the public-facing application serves to justify the immense infrastructure, while the hidden system exploits the hyper-powerful magnetic field to track, manipulate, or communicate with a network of micro-magnetized objects.
