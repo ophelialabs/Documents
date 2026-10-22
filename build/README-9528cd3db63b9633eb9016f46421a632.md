@@ -11,7 +11,7 @@ If i can't win at home, how can I win abroad? [(1)](https://ageofempires.fandom.
 
 Use this for your own personal expertise. I know other things are in progress at the same time and I would love to figure those out as well, but first priority is replicating the fundamental process. Knowing "of" something, does not mean the implementer knows how it works under the hood. Otherwise this most likely would not have happened.
   - Him: We have technology you couldn't even understand.
-  - Even if most of this right now can be wrote off as hearsay, I will find a way
+  - Even if most of this right now can be wrote off as hearsay, I will find a way. I obviously didn't implant myself
 
 I don't care what anyone says, no one is this good at making things up. Who needs to make things up when you are telling the truth? This is personal. Lies did `NOT` get me this far.
 
