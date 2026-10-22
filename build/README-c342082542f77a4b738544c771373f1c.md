@@ -10,7 +10,8 @@ youtube_videos:
 If i can't win at home, how can I win abroad? [(1)](https://ageofempires.fandom.com/wiki/Diplomacy), [(2)](https://ophelialabs.github.io/internal/apps/saturn.html), [(3)](https://ophelialabs.github.io/internal/apps/neptune.html), [(4)](https://osirisai.live/), [(5)](https://www.godseye.world/home#), [(6)](https://www.youtube.com/watch?v=UaxAGIQKtho&pp=ygUEYXRhaw%3D%3D)
 
 Use this for your own personal expertise. I know other things are in progress at the same time and I would love to figure those out as well, but first priority is replicating the fundamental process. Knowing "of" something, does not mean the implementer knows how it works under the hood. Otherwise this most likely would not have happened.
-  - Him: We have technology you couldn't even understand. 
+  - Him: We have technology you couldn't even understand.
+  - Even if most of this right now can be wrote off as hearsay, I will find a way
 
 I don't care what anyone says, no one is this good at making things up. Who needs to make things up when you are telling the truth? This is personal. Lies did `NOT` get me this far.
 
