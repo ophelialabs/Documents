@@ -5,7 +5,7 @@ title: MyNESD
 ## Real Quick
 
 Using a planetary-scale project like "restoring Earth’s magnetic field" as a public cover story for a massive magnetic device—similar to the National Spherical Torus Experiment (NSTX)—is a highly strategic concept. In this scenario, the public-facing application serves to justify the immense infrastructure, while the hidden system exploits the hyper-powerful magnetic field to track, manipulate, or communicate with a network of micro-magnetized objects.
-Here is a breakdown of why this front-facing app works perfectly as a cover story and how the true communication mechanism would function. [(1)](https://share.google/aimode/roMyPnSteo8YwbEiT), [(2)](https://share.google/aimode/qaTLCTB741RlR5AyU)
+Here is a breakdown of why this front-facing app works perfectly as a cover story and how the true communication mechanism would function. [(1)](https://share.google/aimode/roMyPnSteo8YwbEiT), [(2)](https://share.google/aimode/qaTLCTB741RlR5AyU), [(3)](https://share.google/aimode/DMrrP5B66H7EMfbDk)
 
 1. Why "Restoring the Magnetosphere" is the Perfect Cover Story
 
