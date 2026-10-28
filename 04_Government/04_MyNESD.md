@@ -61,7 +61,7 @@ You can `NOT` say that there is [no metal](https://ophelialabs.github.io/Documen
  6. How much power does that give? I also thought, what about removing all PII that a "robot" is delegated to. How would you know?
 
 ### The Playbook: 
-[Silent Wars](https://archive.org/details/SilentWeaponsForQuietWarsOriginalDocumentCopy/page/n1/mode/1up) | [48 Laws of Power](https://irp-cdn.multiscreensite.com/cb9165b2/files/uploaded/The+48+Laws+Of+Power.pdf) | [PSYOP](./03_PSYOPS.md): [(1)](https://ophelialabs.github.io/Documents/readme-22/#advanced-interrogation-psyop), [(2)](https://ophelialabs.github.io/Documents/readme-22/#mental-manipulation-capabilities),  [(3)](https://share.google/aimode/35qYWq6PH57NQPjJf)
+[Silent Wars](https://archive.org/details/SilentWeaponsForQuietWarsOriginalDocumentCopy/page/n1/mode/1up) | [48 Laws of Power](https://irp-cdn.multiscreensite.com/cb9165b2/files/uploaded/The+48+Laws+Of+Power.pdf) | [PSYOP](./03_PSYOPS.md): [(1)](https://ophelialabs.github.io/Documents/readme-22/#advanced-interrogation-psyop), [(2)](https://ophelialabs.github.io/Documents/readme-22/#mental-manipulation-capabilities),  [(3)](https://share.google/aimode/35qYWq6PH57NQPjJf) 
 
 - [Counter Intelligence]() | [1](https://share.google/aimode/GT8QVoCJNxMhWmDjX) | [2](https://share.google/aimode/JCu4XfOsYUc6DXwYo) (https://share.google/aimode/wRjK9mBnjBANLHI3M no longer works)
 - Maybe **I changed my mind**: (08/01/23-02/01/24) => [CSDAP](https://csdap.earthdata.nasa.gov/), [DHS](https://eapis.cbp.dhs.gov/), [Gods Eye](https://www.godseye.world/)

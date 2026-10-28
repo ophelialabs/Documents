@@ -14,7 +14,8 @@ keywords:
   - reconfigurable intelligent surfaces
   - spectrum management
   - 6G
-  - wireless systems.
+  - RIS
+  - wireless systems
 ---
 
 # Integrating Low-Power IoT, Quantum IoT, Neural Interfaces, and Spectrum Management
@@ -44,7 +45,7 @@ The QIoT repository is treated as a software and experimentation reference. NESD
 
 ## Low-Power Wide-Area IoT: SIGFOX-Class Systems
 
-In this paper, **0G** is used as an informal industry label for early sub-GHz, low-power IoT services rather than as a formal mobile-generation standard. SIGFOX uses ultra-narrowband (UNB) signaling to provide low-throughput, long-range connectivity for suitable IoT applications. Operating values vary by national configuration, service plan, device, and radio conditions. [SIGFOX](https://sigfox.com)
+In this paper, **0G** is used as an informal industry label for early sub-GHz, low-power IoT services rather than as a formal mobile-generation standard. [SIGFOX](https://sigfox.com) uses ultra-narrowband (UNB) signaling to provide low-throughput, long-range connectivity for suitable IoT applications. Operating values vary by national configuration, service plan, device, and radio conditions.
 
 #### Technical Characteristics
 
