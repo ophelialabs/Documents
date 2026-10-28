@@ -77,6 +77,9 @@
     <loc>http://localhost:3000/synthetic-media</loc>
   </url>
   <url>
+    <loc>http://localhost:3000/index</loc>
+  </url>
+  <url>
     <loc>http://localhost:3000/readme2</loc>
   </url>
   <url>
@@ -107,7 +110,7 @@
     <loc>http://localhost:3000/readme-13</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/index</loc>
+    <loc>http://localhost:3000/index-1</loc>
   </url>
   <url>
     <loc>http://localhost:3000/python</loc>
@@ -269,13 +272,13 @@
     <loc>http://localhost:3000/systems</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/index-1</loc>
+    <loc>http://localhost:3000/index-2</loc>
   </url>
   <url>
     <loc>http://localhost:3000/foundations-and-integration</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/index-2</loc>
+    <loc>http://localhost:3000/index-3</loc>
   </url>
   <url>
     <loc>http://localhost:3000/informatics</loc>
@@ -284,7 +287,7 @@
     <loc>http://localhost:3000/readme-35</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/index-3</loc>
+    <loc>http://localhost:3000/index-4</loc>
   </url>
   <url>
     <loc>http://localhost:3000/protocols</loc>
@@ -311,7 +314,7 @@
     <loc>http://localhost:3000/smartwatch</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/index-4</loc>
+    <loc>http://localhost:3000/index-5</loc>
   </url>
   <url>
     <loc>http://localhost:3000/readme-38</loc>
@@ -338,7 +341,7 @@
     <loc>http://localhost:3000/readme-42</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/index-5</loc>
+    <loc>http://localhost:3000/index-6</loc>
   </url>
   <url>
     <loc>http://localhost:3000/mat-cs</loc>
@@ -356,10 +359,10 @@
     <loc>http://localhost:3000/readme-46</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/index-6</loc>
+    <loc>http://localhost:3000/index-7</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/index-7</loc>
+    <loc>http://localhost:3000/index-8</loc>
   </url>
   <url>
     <loc>http://localhost:3000/grid</loc>
@@ -446,7 +449,7 @@
     <loc>http://localhost:3000/readme-58</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/index-8</loc>
+    <loc>http://localhost:3000/index-9</loc>
   </url>
   <url>
     <loc>http://localhost:3000/index2</loc>
@@ -485,7 +488,7 @@
     <loc>http://localhost:3000/readme-62</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/index-9</loc>
+    <loc>http://localhost:3000/index-10</loc>
   </url>
   <url>
     <loc>http://localhost:3000/fields</loc>
@@ -521,7 +524,7 @@
     <loc>http://localhost:3000/hyperqueen</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/index-10</loc>
+    <loc>http://localhost:3000/index-11</loc>
   </url>
   <url>
     <loc>http://localhost:3000/index2-1</loc>
@@ -533,10 +536,10 @@
     <loc>http://localhost:3000/readme-64</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/index-11</loc>
+    <loc>http://localhost:3000/index-12</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/index-12</loc>
+    <loc>http://localhost:3000/index-13</loc>
   </url>
   <url>
     <loc>http://localhost:3000/stack</loc>
