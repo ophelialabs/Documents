@@ -158,9 +158,6 @@
     <loc>http://localhost:3000/gui-builders</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/leadjavadeveloper</loc>
-  </url>
-  <url>
     <loc>http://localhost:3000/pipeline</loc>
   </url>
   <url>
@@ -353,7 +350,7 @@
     <loc>http://localhost:3000/gui-builders-1</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/leadjavadeveloper-1</loc>
+    <loc>http://localhost:3000/leadjavadeveloper</loc>
   </url>
   <url>
     <loc>http://localhost:3000/pipeline-1</loc>
@@ -458,6 +455,9 @@
     <loc>http://localhost:3000/api</loc>
   </url>
   <url>
+    <loc>http://localhost:3000/readme2-1</loc>
+  </url>
+  <url>
     <loc>http://localhost:3000/readme-58</loc>
   </url>
   <url>
@@ -473,16 +473,10 @@
     <loc>http://localhost:3000/parquet</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/readme2-1</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/devops</loc>
+    <loc>http://localhost:3000/readme2-2</loc>
   </url>
   <url>
     <loc>http://localhost:3000/readme-59</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/readme2-2</loc>
   </url>
   <url>
     <loc>http://localhost:3000/readme-60</loc>
