@@ -452,9 +452,6 @@
     <loc>http://localhost:3000/readme-57</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/api</loc>
-  </url>
-  <url>
     <loc>http://localhost:3000/readme2-1</loc>
   </url>
   <url>
@@ -567,6 +564,9 @@
   </url>
   <url>
     <loc>http://localhost:3000/readme-66</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/api</loc>
   </url>
   <url>
     <loc>http://localhost:3000/cloud-1</loc>
