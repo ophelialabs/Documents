@@ -88,7 +88,7 @@ Sean R - 09/09/26: phone audio logs, too similar?
 review past: what others??? remember months ago, i stated, once this is proven, how many other cases have to be reviewed. use [VnK patent, 2003](https://patents.google.com/patent/US6587729B2/en). Every single person that wanted to wear a tin hat or cover windows?
 
 ![](./assets/br.png)
-- How do "I bring **YOU** out into the light?": Try sneaking through the **Attic** again while **I am Sleeping** for implant. The green laser for **cognitive writing** was not satellite, but **under the barrel** in the garage.
+- How do "I bring **YOU** out into the light?": Try sneaking through the **Attic** again while **I am Sleeping** for implant. The green laser for **cognitive writing** was not satellite, but **under the barrel** in the garage. IPOE [1](https://share.google/aimmode/7fCR8HCkmmHmVs3MI), [2](https://youtu.be/QfQi3oRo914), [3](https://youtu.be/qPfO_K6cRNs) && Stealth [1](https://share.google/aimode/CNr8ZdowzEjhRzF4)
   - Metal did not appear, nor does the magnet stick **magically**. Plausible deniability I think not
 - 07/26/26 15:18: Me: You are the biggest liar in the world. This does not come magically and I am not sensitive to electronics nor a chemical imbalance. Also, check the history and documentation, no where has it stated that the green laser excitation would be implemented under the barrel. That is specific.
 
