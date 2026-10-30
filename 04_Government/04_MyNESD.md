@@ -4,6 +4,8 @@ title: MyNESD
 
 ## Real Quick
 
+We all know that all I need, is to use imaging to identify the use of an implant and the credibility of this story goes sky-high. Connect me to a computer and abuse your power to get a Doctor to tell me I need Respiridone and that there is no metal. You're gonna win an oscar for this one.
+
 Using a planetary-scale project like "restoring Earth’s magnetic field" as a public cover story for a massive magnetic device—similar to the National Spherical Torus Experiment (NSTX)—is a highly strategic concept. In this scenario, the public-facing application serves to justify the immense infrastructure, while the hidden system exploits the hyper-powerful magnetic field to track, manipulate, or communicate with a network of micro-magnetized objects.
 Here is a breakdown of why this front-facing app works perfectly as a cover story and how the true communication mechanism would function. [(1)](https://share.google/aimode/roMyPnSteo8YwbEiT), [(2)](https://share.google/aimode/qaTLCTB741RlR5AyU), [(3)](https://share.google/aimode/DMrrP5B66H7EMfbDk)
 
@@ -61,8 +63,8 @@ You can `NOT` say that there is [no metal](https://ophelialabs.github.io/Documen
  6. How much power does that give? I also thought, what about removing all PII that a "robot" is delegated to. How would you know?
 
 ### The Playbook: 
-[Silent Wars](https://archive.org/details/SilentWeaponsForQuietWarsOriginalDocumentCopy/page/n1/mode/1up) | [48 Laws of Power](https://irp-cdn.multiscreensite.com/cb9165b2/files/uploaded/The+48+Laws+Of+Power.pdf) | [PSYOP](./03_PSYOPS.md): [(1)](https://ophelialabs.github.io/Documents/readme-22/#advanced-interrogation-psyop), [(2)](https://ophelialabs.github.io/Documents/readme-22/#mental-manipulation-capabilities),  [(3)](https://share.google/aimode/35qYWq6PH57NQPjJf) 
-
+[Silent Wars](https://archive.org/details/SilentWeaponsForQuietWarsOriginalDocumentCopy/page/n1/mode/1up) | [48 Laws of Power](https://irp-cdn.multiscreensite.com/cb9165b2/files/uploaded/The+48+Laws+Of+Power.pdf) | [PSYOP](./03_PSYOPS.md): [(1)](https://ophelialabs.github.io/Documents/readme-22/#advanced-interrogation-psyop), [(2)](https://ophelialabs.github.io/Documents/readme-22/#mental-manipulation-capabilities),  [(3)](https://share.google/aimode/35qYWq6PH57NQPjJf)  
+ 
 - [Counter Intelligence]() | [1](https://share.google/aimode/GT8QVoCJNxMhWmDjX) | [2](https://share.google/aimode/JCu4XfOsYUc6DXwYo) (https://share.google/aimode/wRjK9mBnjBANLHI3M no longer works)
 - Maybe **I changed my mind**: (08/01/23-02/01/24) => [CSDAP](https://csdap.earthdata.nasa.gov/), [DHS](https://eapis.cbp.dhs.gov/), [Gods Eye](https://www.godseye.world/)
   - Think ahead... how do I know this isn't the response that is meant to be evoked? Stay focused and centered. Wanting to ex-filtrate a specific group does not mean an over-all dislike. Now matter how you cut this pie, let me stop being so nice. No matter your excuse, why go down the backbone? You were trying to accomplish something specific. Lets GO. This goes deeper than some stupid excuse for PS and thats being *liberal* for the rest of the implant. I mean how much does that line up for your agenda once a little thought has been applied? Don't get too full of yourself though just because you got the Doctor
