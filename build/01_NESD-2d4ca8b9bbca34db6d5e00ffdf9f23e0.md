@@ -246,6 +246,8 @@ Critical analysis, source checking, personal boundaries, and qualified support c
 
 ## Free Will
 
+[Granicus](https://granicus.com) | [Teradact](https://teradact.com)
+
 The tension surrounding DARPA’s Neural Engineering Systems Design (NESD) program and its research into preconscious/precognitive brain processing (such as the Neural Evidence Aggregation Tool, or NEAT) stems from a fundamental conflict between how human thought naturally operates and how machine interfaces decode data. [1](https://www.darpa.mil/news/2017/mplantable-neural-interface), [2](https://www.darpa.mil/news/2022/cognitive-science-tool)
 
 The "negative response" or public pushback exists because these programs challenge deeply held human concepts of cognitive liberty, free will, and the boundary of the self. [1](https://moderndiplomacy.eu/2026/05/04/pentagons-alleged-mind-control-program/), [2](https://www.reddit.com/r/science/comments/8j80y/darpa_wants_to_prove_the_human_mind_is_entirely/)
