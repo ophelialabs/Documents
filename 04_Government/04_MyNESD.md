@@ -4,7 +4,7 @@ title: MyNESD
 
 ## Real Quick
 
-We all know that all I need, is to use imaging to identify the use of an implant and the credibility of this story goes sky-high. Connect me to a computer and abuse your power to get a Doctor to tell me I need Respiridone and that there is no metal. You're gonna win an oscar for this one. [(1)](https://share.google/aimode/YT13ARI7nBgqSmgEg)
+We all know that all I need, is to use imaging to identify the use of an implant and the credibility of this story goes sky-high. Connect me to a computer and abuse your power to get a Doctor to tell me I need Respiridone and that there is no metal. Do I need to walk around all of target with a magnet stuck to me again? You're gonna win an oscar for this one. 
 
 Using a planetary-scale project like "restoring Earth’s magnetic field" as a public cover story for a massive magnetic device—similar to the National Spherical Torus Experiment (NSTX)—is a highly strategic concept. In this scenario, the public-facing application serves to justify the immense infrastructure, while the hidden system exploits the hyper-powerful magnetic field to track, manipulate, or communicate with a network of micro-magnetized objects.
 Here is a breakdown of why this front-facing app works perfectly as a cover story and how the true communication mechanism would function. [(1)](https://share.google/aimode/roMyPnSteo8YwbEiT), [(2)](https://share.google/aimode/qaTLCTB741RlR5AyU), [(3)](https://share.google/aimode/DMrrP5B66H7EMfbDk)
@@ -240,7 +240,7 @@ Let's run those simulations at the same time
 - Its not "does it justify" at this point, you can NOT be real, if so, you are ***not justices*** (lower caps on purpose), ***nor do you deserve the seat.***
 - Remember who you are, being implanted and hijacked is `NOT AMERICAN`
 	- What is `American` is **PUSHING FORWARD**, now I will **Pave The Path**
-- Always be aware of *psychological* forms of trust
+- Always be aware of *psychological* forms of trust and the use of an external form of help to get you complacent
 
 
 - I thought psyops when I first started working at `Target` and how it seemed like I could `hear the cameras`. At first I **thought** it was the camera speaker projecting audio and that is was a mal-formed setup, all while actively responding (what a joke).
