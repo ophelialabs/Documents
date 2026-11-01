@@ -2,6 +2,75 @@
 version: 1
 project:
   id: 60670856-e56c-489a-9a05-75cad3c3065e
+  toc:
+    - file: README.md
+      title: Home
+    - title: Quick Start
+      children:
+        - file: 01_QWIK_Start/README.md
+        - file: 01_QWIK_Start/tools-list.md
+    - title: Learning Library
+      children:
+        - file: 02_Learn_Iseek/README.md
+        - title: Humanities and Social Sciences
+          children:
+            - file: 02_Learn_Iseek/01_Humanities_and_Social_Sciences/README.md
+            - pattern: 02_Learn_Iseek/01_Humanities_and_Social_Sciences/**/*.md
+        - title: Physical, Computational, and Applied Sciences
+          children:
+            - title: Mathematics
+              children:
+                - file: 02_Learn_Iseek/02_Physical_Computational_and_Applied_Sciences/01_Mathematics/index.md
+                - pattern: 02_Learn_Iseek/02_Physical_Computational_and_Applied_Sciences/01_Mathematics/**/*.md
+            - title: Chemistry
+              children:
+                - file: 02_Learn_Iseek/02_Physical_Computational_and_Applied_Sciences/Chemistry/README.md
+                - pattern: 02_Learn_Iseek/02_Physical_Computational_and_Applied_Sciences/Chemistry/**/*.md
+            - title: Engineering
+              children:
+                - file: 02_Learn_Iseek/02_Physical_Computational_and_Applied_Sciences/Engineering/README.md
+                - pattern: 02_Learn_Iseek/02_Physical_Computational_and_Applied_Sciences/Engineering/**/*.md
+        - title: Computing and Quantum Engineering
+          children:
+            - title: Computer Science and Data Science
+              children:
+                - pattern: 02_Learn_Iseek/03_Physical_Computational_and_Applied_Sciences/CSC/**/*.md
+            - title: Quantum Engineering
+              children:
+                - pattern: 02_Learn_Iseek/03_Physical_Computational_and_Applied_Sciences/Engineering/**/*.md
+    - title: Enterprise
+      children:
+        - file: 03_Enterprise/README.md
+        - title: Organization and Governance
+          children:
+            - file: 03_Enterprise/organization-governance/README.md
+            - pattern: 03_Enterprise/organization-governance/**/*.md
+        - title: Technology and Infrastructure
+          children:
+            - file: 03_Enterprise/technology-and-infrastructure/README.md
+            - pattern: 03_Enterprise/technology-and-infrastructure/**/*.md
+    - title: Government
+      children:
+        - file: 04_Government/01_NESD.md
+        - file: 04_Government/02_NGS2AS.md
+        - file: 04_Government/03_PSYOPS.md
+        - file: 04_Government/04_MyNESD.md
+        - file: 04_Government/05_Spoilation.md
+        - title: Getting Started
+          children:
+            - file: 04_Government/getting_started/README.md
+            - title: Algorithms
+              children:
+                - pattern: 04_Government/getting_started/Algorithms/**/*.md
+            - title: Harvest
+              children:
+                - pattern: 04_Government/getting_started/Harvest/**/*.md
+            - title: Phase 1
+              children:
+                - pattern: 04_Government/getting_started/Phase1/**/*.md
+            - title: Setup
+              children:
+                - pattern: 04_Government/getting_started/setup-1/**/*.md
   # description:
   # keywords: []
   # authors: []
@@ -9,7 +78,6 @@ project:
   # bibliography: []
 
 extends:
-  - _config/toc.yml
   - _config/references.yml
     
 site:
