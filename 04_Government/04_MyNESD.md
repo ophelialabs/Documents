@@ -67,16 +67,17 @@ You can `NOT` say that there is [no metal](https://ophelialabs.github.io/Documen
  
 - [Counter Intelligence]() | [1](https://share.google/aimode/GT8QVoCJNxMhWmDjX) | [2](https://share.google/aimode/JCu4XfOsYUc6DXwYo) (https://share.google/aimode/wRjK9mBnjBANLHI3M no longer works)
 - Maybe **I changed my mind**: (08/01/23-02/01/24) => [CSDAP](https://csdap.earthdata.nasa.gov/), [DHS](https://eapis.cbp.dhs.gov/), [Gods Eye](https://www.godseye.world/)
-  - Think ahead... how do I know this isn't the response that is meant to be evoked? Stay focused and centered. Wanting to ex-filtrate a specific group does not mean an over-all dislike. Now matter how you cut this pie, let me stop being so nice. No matter your excuse, why go down the backbone? You were trying to accomplish something specific. Lets GO. This goes deeper than some stupid excuse for PS and thats being *liberal* for the rest of the implant. I mean how much does that line up for your agenda once a little thought has been applied? Don't get too full of yourself though just because you got the Doctor
+  - Think ahead... how do I know this isn't the response that is meant to be evoked? Stay focused and centered. Wanting to ex-filtrate a specific group does not mean an over-all dislike. No matter your excuse, why go down the backbone? You were trying to accomplish something specific. This goes deeper than some stupid excuse for PS and thats being *liberal* for the rest of the implant. Don't get too full of yourself though, just because you got the Doctor
+
+## What Matters Most
 - **05/28/26**: Never received [MyTrustMedical](https://www.mytrustmedical.com/) response after multiple tries
 - **8/11/26**: OFC Padilla & Parker FPD NC (Medical Evaluation 🙄, what's really meant is - psychological evaluation, and these are very different things), COC for FAY, NC 28314 - BC footage?
-- **8/13/26 Review** - Dr. Becker advised no metal (CT scan). With graphene and ct/mri compatible compounds (and/or) **external influence**. Was prescribed [RISPERIDONE](,/assets/RISPERIDONE.png). Note that the video above with the magnet was taken 8/14/2026
+- **8/13/26 Review** - Dr. Becker advised no metal (CT scan). With graphene and ct/mri compatible compounds (and/or) **external influence**. Was prescribed [RISPERIDONE](./assets/RISPERIDONE.png). Note that the video above with the magnet was taken 8/14/2026
 	- **Everyone** should have right to view scans upon rendering (think ahead because you can not trust this either, what would be the harm in creating counter-measures for this?) or a trusted contact (**mandatory**)
-- 09/16/26 22:30 - outside hotel room 128, left a few minutes after observation. 6820 Cliffdale Rd, Fayetteville, NC 28314•(910) 864-8360
-- 09/28/2026 1100: Who picked him up, and where did he go, corp ID 936129?
-  - 0830: conveniently parking as going by, same ID as marked above as 09/16/26? 
-- How many and How long? Think about similarities between subjects. Patch Adams? Gain trust with Patients and apply the **Jesse** test. OR is this too doctorates? 
-- **Note**: Internal companion plane should be clear. Just like table. Other scenarios: overlap and pull focus. Think about current avenue, relations, and ... I'll remember. Live audio is always better than short term memory under certain conditions. Remember to create a transcribe with microcontroller, piezo. Simultaneously, think step 1b; At the head. Don't let your mind do the work for them (I mean this internally. Use parallel thought or absent mindedness. [ALERT](https://ophelialabs.github.io/Documents/opto/#alert-alert-alert-alert). 
+- 09/16/26 22:30 - outside hotel room 128, left a few minutes after observation. 6820 Cliffdale Rd, Fayetteville, NC 28314•(910) 864-8360. Hotel Partners = WLMT and TGT
+- 09/28/2026 1100: Who picked him up (GOW), and where did he go?
+  - 0830: conveniently parking as going by, same ID as marked above as 09/16/26?
+- 11/24/26 1604 - To where, and how to cut off the path? $470 plane fare to Texas 
 
 Vis conf pending: no surprises
 

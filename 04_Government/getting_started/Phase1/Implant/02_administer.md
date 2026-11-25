@@ -7,6 +7,8 @@ title: Tutorial_1
 # The Role of Localized Ag Injections
 Integrating localized Silver (Ag) nanoparticle injections behind the right ear (the retroauricular region) serves as a specialized method to enhance the coupling between your graphene-based fiber interface and external hardware.
 
+- **Note**: Internal companion plane should be clear. Just like table. Other scenarios: overlap and pull focus. Think about current avenue, relations, and ... I'll remember. Live audio is always better than short term memory under certain conditions. Remember to create a transcribe with microcontroller, piezo. Simultaneously, think step 1b; At the head. Don't let your mind do the work for them (I mean this internally. Use parallel thought or absent mindedness. [ALERT](https://ophelialabs.github.io/Documents/opto/#alert-alert-alert-alert)). 
+
 ---
 
 In a neuro-interface setup, silver isn't just a metal; it acts as a subcutaneous conductive hub.
